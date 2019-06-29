@@ -1,0 +1,141 @@
+{
+    "profile": "tabular-data-package",
+    "name": "soep-base",
+    "resources": [
+        {
+            "name": "datasets",
+            "path": "datasets.csv",
+            "title": "Datasets",
+            "description": "A description about the datasets.csv file",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "study",
+                        "title": "Foreign key to Study",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true,
+                            "maxLength": 255
+                        }
+                    },
+                    {
+                        "name": "name",
+                        "title": "Name of the Dataset",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true,
+                            "maxLength": 255
+                        }
+                    },
+                    {
+                        "name": "label",
+                        "title": "label of the Dataset",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "label_de",
+                        "title": "label_de of the Dataset",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "description",
+                        "title": "Description of the Dataset",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "analysis_unit",
+                        "title": "Foreign key to analysis_unit",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "conceptual_dataset",
+                        "title": "Foreign key to conceptual_dataset",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "period",
+                        "title": "Foreign key to Period",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "study",
+                    "name"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "profile": "tabular-data-resource",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8"
+        },
+        {
+            "name": "variables",
+            "path": "variables.csv",
+            "title": "Variables",
+            "description": "A description about the variables.csv file",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "study",
+                        "title": "Foreign key to Study",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true,
+                            "maxLength": 255
+                        }
+                    },
+                    {
+                        "name": "dataset",
+                        "title": "Foreign key to Dataset",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true,
+                            "maxLength": 255
+                        }
+                    },
+                    {
+                        "name": "name",
+                        "title": "Name of the Variable",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true,
+                            "maxLength": 255
+                        }
+                    },
+                    {
+                        "name": "concept",
+                        "title": "Foreign key to Concept",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "study",
+                    "dataset",
+                    "name"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "profile": "tabular-data-resource",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8"
+        }
+    ]
+}

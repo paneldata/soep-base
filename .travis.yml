@@ -1,0 +1,13 @@
+dist: xenial
+language: python
+python: "3.7"
+git:
+  depth: 1 # clone only latest revision of repository
+cache:
+  - pip
+install:
+  - pip install pipenv
+  - pipenv install --dev
+script:
+  - goodtables metadata/datapackage.json # structure and schema validation
+  - goodtables ddionrails/datapackage.json # structure and schema validation

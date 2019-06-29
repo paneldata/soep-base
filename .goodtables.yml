@@ -1,0 +1,6 @@
+datapackages:
+  - ddionrails/datapackage.json # pre-processed data
+  - metadata/datapackage.json # input data
+
+settings:
+  row_limit: 2000

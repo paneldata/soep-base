@@ -34,10 +34,7 @@
         "0"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "sample1": {
     "study": "soep-base",
@@ -74,10 +71,7 @@
         "0"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zhhnr": {
     "study": "soep-base",
@@ -114,10 +108,7 @@
         "0"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zausku": {
     "study": "soep-base",
@@ -170,10 +161,7 @@
         "0"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh01": {
     "study": "soep-base",
@@ -184,23 +172,23 @@
     "label": "heute vor 1 jahr in dieser wohnung gelebt",
     "categories": {
       "frequencies": [
-        1221,
         1,
+        1221,
         97
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -214,10 +202,7 @@
         "1"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0201": {
     "study": "soep-base",
@@ -228,20 +213,20 @@
     "label": "wohnungswechsel wg kuendigung",
     "categories": {
       "frequencies": [
-        5,
-        1314
+        1314,
+        5
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -254,10 +239,7 @@
         "1314"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0202": {
     "study": "soep-base",
@@ -268,20 +250,20 @@
     "label": "wohnungswechsel wg erwerb eigenheim",
     "categories": {
       "frequencies": [
-        6,
-        1313
+        1313,
+        6
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -294,10 +276,7 @@
         "1313"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0203": {
     "study": "soep-base",
@@ -324,10 +303,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh0204": {
     "study": "soep-base",
@@ -338,20 +314,20 @@
     "label": "wohnungswechsel wg berufliche gruende",
     "categories": {
       "frequencies": [
-        12,
-        1307
+        1307,
+        12
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -364,10 +340,7 @@
         "1307"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0205": {
     "study": "soep-base",
@@ -378,20 +351,20 @@
     "label": "wohnungswechsel wg heirat",
     "categories": {
       "frequencies": [
-        1,
-        1318
+        1318,
+        1
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -404,10 +377,7 @@
         "1318"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0206": {
     "study": "soep-base",
@@ -418,20 +388,20 @@
     "label": "wohnungswechsel wg trennung",
     "categories": {
       "frequencies": [
-        7,
-        1312
+        1312,
+        7
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -444,10 +414,7 @@
         "1312"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0207": {
     "study": "soep-base",
@@ -458,20 +425,20 @@
     "label": "wohnungswechsel wg auszug elternhaus",
     "categories": {
       "frequencies": [
-        9,
-        1310
+        1310,
+        9
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -484,10 +451,7 @@
         "1310"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0208": {
     "study": "soep-base",
@@ -498,20 +462,20 @@
     "label": "wohnungswechsel wg sonst. familie",
     "categories": {
       "frequencies": [
-        16,
-        1303
+        1303,
+        16
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -524,10 +488,7 @@
         "1303"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0209": {
     "study": "soep-base",
@@ -538,20 +499,20 @@
     "label": "wohnungswechsel wg wohnung zu klein",
     "categories": {
       "frequencies": [
-        21,
-        1298
+        1298,
+        21
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -564,10 +525,7 @@
         "1298"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0210": {
     "study": "soep-base",
@@ -578,20 +536,20 @@
     "label": "wohnungswechsel wg wohnung zu gross",
     "categories": {
       "frequencies": [
-        11,
-        1308
+        1308,
+        11
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -604,10 +562,7 @@
         "1308"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0211": {
     "study": "soep-base",
@@ -618,20 +573,20 @@
     "label": "wohnungswechsel wg hohe wohnungskosten",
     "categories": {
       "frequencies": [
-        19,
-        1300
+        1300,
+        19
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -644,10 +599,7 @@
         "1300"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0212": {
     "study": "soep-base",
@@ -658,20 +610,20 @@
     "label": "wohnungswechsel wg schlechte ausstattung",
     "categories": {
       "frequencies": [
-        9,
-        1310
+        1310,
+        9
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -684,10 +636,7 @@
         "1310"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0213": {
     "study": "soep-base",
@@ -698,20 +647,20 @@
     "label": "wohnungswechsel wg schlechte lage",
     "categories": {
       "frequencies": [
-        7,
-        1312
+        1312,
+        7
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -724,10 +673,7 @@
         "1312"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0214": {
     "study": "soep-base",
@@ -738,20 +684,20 @@
     "label": "wohnungswechsel wg alten-/behindertenungerecht.",
     "categories": {
       "frequencies": [
-        3,
-        1316
+        1316,
+        3
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -764,10 +710,7 @@
         "1316"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0215": {
     "study": "soep-base",
@@ -778,20 +721,20 @@
     "label": "wohnungswechsel wg schlechtes umfeld",
     "categories": {
       "frequencies": [
-        8,
-        1311
+        1311,
+        8
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -804,10 +747,7 @@
         "1311"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0216": {
     "study": "soep-base",
@@ -818,20 +758,20 @@
     "label": "wohnungswechsel wg neuem,besseren wohnumfeld",
     "categories": {
       "frequencies": [
-        31,
-        1288
+        1288,
+        31
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -844,10 +784,7 @@
         "1288"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0217": {
     "study": "soep-base",
@@ -858,20 +795,20 @@
     "label": "wohnungswechsel wg sonstige gruende",
     "categories": {
       "frequencies": [
-        19,
-        1300
+        1300,
+        19
       ],
       "labels": [
-        "ja",
-        "-2"
+        "-2",
+        "ja"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
-        "-2"
+        "-2",
+        "1"
       ]
     },
     "statistics": {
@@ -884,10 +821,7 @@
         "1300"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0301": {
     "study": "soep-base",
@@ -898,27 +832,27 @@
     "label": "wohnungsvergleich finanzieller belastung",
     "categories": {
       "frequencies": [
+        1222,
         31,
         26,
-        1222,
         40
       ],
       "labels": [
+        "-2",
         "verbessert",
         "etwa gleichwertig",
-        "-2",
         "verschlechtert"
       ],
       "missings": [
-        false,
-        false,
         true,
+        false,
+        false,
         false
       ],
       "values": [
+        "-2",
         "1",
         "2",
-        "-2",
         "3"
       ]
     },
@@ -932,10 +866,7 @@
         "1222"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0302": {
     "study": "soep-base",
@@ -946,27 +877,27 @@
     "label": "wohnungsvergleich groesse",
     "categories": {
       "frequencies": [
+        1222,
         50,
         24,
-        1222,
         23
       ],
       "labels": [
+        "-2",
         "verbessert",
         "etwa gleichwertig",
-        "-2",
         "verschlechtert"
       ],
       "missings": [
-        false,
-        false,
         true,
+        false,
+        false,
         false
       ],
       "values": [
+        "-2",
         "1",
         "2",
-        "-2",
         "3"
       ]
     },
@@ -980,10 +911,7 @@
         "1222"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0303": {
     "study": "soep-base",
@@ -994,31 +922,31 @@
     "label": "wohnungsvergleich ausstattung",
     "categories": {
       "frequencies": [
-        51,
-        1,
-        36,
         1222,
+        1,
+        51,
+        36,
         9
       ],
       "labels": [
-        "verbessert",
-        "-1",
-        "etwa gleichwertig",
         "-2",
+        "-1",
+        "verbessert",
+        "etwa gleichwertig",
         "verschlechtert"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3"
       ]
     },
@@ -1032,10 +960,7 @@
         "1223"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0304": {
     "study": "soep-base",
@@ -1046,27 +971,27 @@
     "label": "wohnungsvergleich gegend",
     "categories": {
       "frequencies": [
+        1222,
         45,
         40,
-        1222,
         12
       ],
       "labels": [
+        "-2",
         "verbessert",
         "etwa gleichwertig",
-        "-2",
         "verschlechtert"
       ],
       "missings": [
-        false,
-        false,
         true,
+        false,
+        false,
         false
       ],
       "values": [
+        "-2",
         "1",
         "2",
-        "-2",
         "3"
       ]
     },
@@ -1080,10 +1005,7 @@
         "1222"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0305": {
     "study": "soep-base",
@@ -1094,27 +1016,27 @@
     "label": "wohnungsvergleich umwelt",
     "categories": {
       "frequencies": [
+        1222,
         31,
         46,
-        1222,
         20
       ],
       "labels": [
+        "-2",
         "verbessert",
         "etwa gleichwertig",
-        "-2",
         "verschlechtert"
       ],
       "missings": [
-        false,
-        false,
         true,
+        false,
+        false,
         false
       ],
       "values": [
+        "-2",
         "1",
         "2",
-        "-2",
         "3"
       ]
     },
@@ -1128,10 +1050,7 @@
         "1222"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0306": {
     "study": "soep-base",
@@ -1142,31 +1061,31 @@
     "label": "wohnungsvergleich verkehrsverbindung",
     "categories": {
       "frequencies": [
-        36,
-        1,
-        46,
         1222,
+        1,
+        36,
+        46,
         14
       ],
       "labels": [
-        "verbessert",
-        "-1",
-        "etwa gleichwertig",
         "-2",
+        "-1",
+        "verbessert",
+        "etwa gleichwertig",
         "verschlechtert"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3"
       ]
     },
@@ -1180,10 +1099,7 @@
         "1223"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0307": {
     "study": "soep-base",
@@ -1194,31 +1110,31 @@
     "label": "wohnungsvergleich nachbarn",
     "categories": {
       "frequencies": [
-        26,
-        1,
-        61,
         1222,
+        1,
+        26,
+        61,
         9
       ],
       "labels": [
-        "verbessert",
-        "-1",
-        "etwa gleichwertig",
         "-2",
+        "-1",
+        "verbessert",
+        "etwa gleichwertig",
         "verschlechtert"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3"
       ]
     },
@@ -1232,10 +1148,7 @@
         "1223"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0401": {
     "study": "soep-base",
@@ -1246,45 +1159,45 @@
     "label": "seit wann in dieser wohnung, monat",
     "categories": {
       "frequencies": [
-        79,
-        13,
-        119,
-        92,
-        108,
-        74,
         143,
+        13,
+        79,
+        74,
         91,
         89,
         107,
         95,
         78,
         112,
-        119
+        119,
+        119,
+        92,
+        108
       ],
       "labels": [
-        "januar",
-        "-1",
-        "oktober",
-        "november",
-        "dezember",
-        "februar",
         "-2",
+        "-1",
+        "januar",
+        "februar",
         "maerz",
         "april",
         "mai",
         "juni",
         "juli",
         "august",
-        "september"
+        "september",
+        "oktober",
+        "november",
+        "dezember"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
         false,
         false,
         false,
-        true,
+        false,
         false,
         false,
         false,
@@ -1294,20 +1207,20 @@
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "10",
-        "11",
-        "12",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
         "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10",
+        "11",
+        "12"
       ]
     },
     "statistics": {
@@ -1320,10 +1233,7 @@
         "156"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0402": {
     "study": "soep-base",
@@ -1362,10 +1272,7 @@
         "151"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh05": {
     "study": "soep-base",
@@ -1376,37 +1283,37 @@
     "label": "wohngegend des zielhaushaltes",
     "categories": {
       "frequencies": [
-        339,
-        273,
-        207,
         143,
+        273,
+        339,
+        207,
         352,
         5,
         0
       ],
       "labels": [
-        "reines wohngeb.altb.",
-        "-1",
-        "reines wohngeb.neub.",
         "-2",
+        "-1",
+        "reines wohngeb.altb.",
+        "reines wohngeb.neub.",
         "mischgebiet",
         "geschaeftszentrum",
         "industriegebiet"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
         "5"
@@ -1422,10 +1329,7 @@
         "416"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh06": {
     "study": "soep-base",
@@ -1436,10 +1340,10 @@
     "label": "haustyp des zielhaushaltes",
     "categories": {
       "frequencies": [
-        2,
-        265,
-        133,
         143,
+        265,
+        2,
+        133,
         70,
         34,
         242,
@@ -1447,10 +1351,10 @@
         91
       ],
       "labels": [
-        "landw.wohngebaeude",
-        "-1",
-        "ein-,zweifamilienhaus",
         "-2",
+        "-1",
+        "landw.wohngebaeude",
+        "ein-,zweifamilienhaus",
         "reihenhaus",
         "wohnhaus,3-4 wohnungen",
         "wohnhaus,5-8 wohnungen",
@@ -1458,10 +1362,10 @@
         "hochhaus"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false,
         false,
         false,
@@ -1469,10 +1373,10 @@
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
         "5",
@@ -1490,10 +1394,7 @@
         "408"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh07": {
     "study": "soep-base",
@@ -1504,9 +1405,9 @@
     "label": "wohnheim",
     "categories": {
       "frequencies": [
+        143,
         1165,
         0,
-        143,
         3,
         0,
         0,
@@ -1515,9 +1416,9 @@
         2
       ],
       "labels": [
+        "-2",
         "nein",
         "schuelerwohnheim",
-        "-2",
         "studentenwohnheim",
         "berufstaet.wohnheim",
         "altenheim",
@@ -1526,9 +1427,9 @@
         "sonstiges heim/unterkunft"
       ],
       "missings": [
-        false,
-        false,
         true,
+        false,
+        false,
         false,
         false,
         false,
@@ -1537,9 +1438,9 @@
         false
       ],
       "values": [
+        "-2",
         "1",
         "2",
-        "-2",
         "3",
         "4",
         "5",
@@ -1558,10 +1459,7 @@
         "143"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0801": {
     "study": "soep-base",
@@ -1572,10 +1470,10 @@
     "label": "baujahr des hauses",
     "categories": {
       "frequencies": [
-        133,
-        264,
-        192,
         143,
+        264,
+        133,
+        192,
         262,
         125,
         81,
@@ -1583,10 +1481,10 @@
         18
       ],
       "labels": [
-        "vor 1919",
-        "-1",
-        "1919 bis 1948",
         "-2",
+        "-1",
+        "vor 1919",
+        "1919 bis 1948",
         "1949 bis 1971",
         "1972 bis 1980",
         "1981 bis 1990",
@@ -1594,10 +1492,10 @@
         "2001 und spaeter"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false,
         false,
         false,
@@ -1605,10 +1503,10 @@
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
         "5",
@@ -1626,10 +1524,7 @@
         "407"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh0802": {
     "study": "soep-base",
@@ -1668,10 +1563,7 @@
         "1045"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh09": {
     "study": "soep-base",
@@ -1682,23 +1574,23 @@
     "label": "aenderung wohnflaeche seit letztem jahr",
     "categories": {
       "frequencies": [
-        56,
         4,
+        56,
         1259
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -1712,10 +1604,7 @@
         "4"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh10": {
     "study": "soep-base",
@@ -1754,10 +1643,7 @@
         "12"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh11": {
     "study": "soep-base",
@@ -1796,10 +1682,7 @@
         "7"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh12": {
     "study": "soep-base",
@@ -1810,32 +1693,32 @@
     "label": "beurteilung der wohnungsgroesse",
     "categories": {
       "frequencies": [
-        22,
         5,
+        22,
         250,
         865,
         165,
         12
       ],
       "labels": [
-        "viel zu klein",
         "-1",
+        "viel zu klein",
         "etwas zu klein",
         "gerade richtig",
         "etwas zu gross",
         "viel zu gross"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4",
@@ -1852,10 +1735,7 @@
         "5"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh13": {
     "study": "soep-base",
@@ -1866,29 +1746,29 @@
     "label": "zustand des hauses in dem man wohnt",
     "categories": {
       "frequencies": [
-        911,
         5,
+        911,
         375,
         27,
         1
       ],
       "labels": [
-        "in gutem zustand",
         "-1",
+        "in gutem zustand",
         "teilw. renov.beduerftig",
         "ganz renov.beduerftig",
         "abbruchreif"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -1904,10 +1784,7 @@
         "5"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1401": {
     "study": "soep-base",
@@ -1918,23 +1795,23 @@
     "label": "wohnung mit kueche",
     "categories": {
       "frequencies": [
-        1302,
         6,
+        1302,
         11
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -1948,10 +1825,7 @@
         "6"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1402": {
     "study": "soep-base",
@@ -1962,23 +1836,23 @@
     "label": "wohnung mit innenbad,-dusche",
     "categories": {
       "frequencies": [
-        1312,
         4,
+        1312,
         3
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -1992,10 +1866,7 @@
         "4"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1403": {
     "study": "soep-base",
@@ -2006,23 +1877,23 @@
     "label": "wohnung mit warmwasser,boiler",
     "categories": {
       "frequencies": [
-        1299,
         10,
+        1299,
         10
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2036,10 +1907,7 @@
         "10"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1404": {
     "study": "soep-base",
@@ -2050,23 +1918,23 @@
     "label": "wohnung mit zentral-,etagenheizung",
     "categories": {
       "frequencies": [
-        1274,
         13,
+        1274,
         32
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2080,10 +1948,7 @@
         "13"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1405": {
     "study": "soep-base",
@@ -2094,23 +1959,23 @@
     "label": "wohnung mit fussbodenheizung (ganz/teilweise)",
     "categories": {
       "frequencies": [
-        97,
         91,
+        97,
         1131
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2124,10 +1989,7 @@
         "91"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1406": {
     "study": "soep-base",
@@ -2138,23 +2000,23 @@
     "label": "wohnung mit balkon,terasse",
     "categories": {
       "frequencies": [
-        1046,
         20,
+        1046,
         253
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2168,10 +2030,7 @@
         "20"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1407": {
     "study": "soep-base",
@@ -2182,23 +2041,23 @@
     "label": "wohnung mit keller,abstellraeume",
     "categories": {
       "frequencies": [
-        1236,
         7,
+        1236,
         76
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2212,10 +2071,7 @@
         "7"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1408": {
     "study": "soep-base",
@@ -2226,23 +2082,23 @@
     "label": "wohnung mit garten,-benutzung",
     "categories": {
       "frequencies": [
-        422,
         53,
+        422,
         844
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2256,10 +2112,7 @@
         "53"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1409": {
     "study": "soep-base",
@@ -2270,23 +2123,23 @@
     "label": "wohnung mit alarmanlage",
     "categories": {
       "frequencies": [
-        79,
         72,
+        79,
         1168
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2300,10 +2153,7 @@
         "72"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1410": {
     "study": "soep-base",
@@ -2314,23 +2164,23 @@
     "label": "wohnung mit klimaanlage",
     "categories": {
       "frequencies": [
-        18,
         74,
+        18,
         1227
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2344,10 +2194,7 @@
         "74"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1411": {
     "study": "soep-base",
@@ -2358,23 +2205,23 @@
     "label": "wohnung mit sonnenkollekt., solarenergie",
     "categories": {
       "frequencies": [
-        33,
         72,
+        33,
         1214
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2388,10 +2235,7 @@
         "72"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1412": {
     "study": "soep-base",
@@ -2402,23 +2246,23 @@
     "label": "wohnung mit sonst. alternat. energiequellen",
     "categories": {
       "frequencies": [
-        7,
         77,
+        7,
         1235
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2432,10 +2276,7 @@
         "77"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1413": {
     "study": "soep-base",
@@ -2446,23 +2287,23 @@
     "label": "wohnung mit aufzug/fahrstuhl im haus",
     "categories": {
       "frequencies": [
-        332,
         52,
+        332,
         935
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2476,10 +2317,7 @@
         "52"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1501": {
     "study": "soep-base",
@@ -2490,24 +2328,24 @@
     "label": "seit vorjahr-kueche eingebaut",
     "categories": {
       "frequencies": [
+        1281,
         38,
-        0,
-        1281
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -2520,10 +2358,7 @@
         "1281"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1502": {
     "study": "soep-base",
@@ -2534,24 +2369,24 @@
     "label": "seit vorjahr-bad,dusche,wc eingebaut",
     "categories": {
       "frequencies": [
+        1286,
         33,
-        0,
-        1286
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -2564,10 +2399,7 @@
         "1286"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1503": {
     "study": "soep-base",
@@ -2578,24 +2410,24 @@
     "label": "seit vorjahr-heizung eingebaut",
     "categories": {
       "frequencies": [
+        1300,
         19,
-        0,
-        1300
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -2608,10 +2440,7 @@
         "1300"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1504": {
     "study": "soep-base",
@@ -2622,24 +2451,24 @@
     "label": "seit vorjahr-neue fenster eingebaut",
     "categories": {
       "frequencies": [
+        1238,
         81,
-        0,
-        1238
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -2652,10 +2481,7 @@
         "1238"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1505": {
     "study": "soep-base",
@@ -2666,24 +2492,24 @@
     "label": "seit vorjahr-waermedaemmung eingebaut",
     "categories": {
       "frequencies": [
+        1268,
         51,
-        0,
-        1268
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -2696,10 +2522,7 @@
         "1268"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1506": {
     "study": "soep-base",
@@ -2710,24 +2533,24 @@
     "label": "seit vorjahr-altersgerchte umbauten",
     "categories": {
       "frequencies": [
+        1310,
         9,
-        0,
-        1310
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -2740,10 +2563,7 @@
         "1310"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1507": {
     "study": "soep-base",
@@ -2754,24 +2574,24 @@
     "label": "seit vorjahr-sonst. groessere massnahmen",
     "categories": {
       "frequencies": [
+        1270,
         49,
-        0,
-        1270
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -2784,10 +2604,7 @@
         "1270"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1508": {
     "study": "soep-base",
@@ -2798,28 +2615,28 @@
     "label": "seit vorjahr-keine modernisierungen",
     "categories": {
       "frequencies": [
-        1124,
+        187,
         8,
-        0,
-        187
+        1124,
+        0
       ],
       "labels": [
-        "ja",
+        "-2",
         "-1",
-        "nein",
-        "-2"
+        "ja",
+        "nein"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "2",
-        "-2"
+        "1",
+        "2"
       ]
     },
     "statistics": {
@@ -2832,10 +2649,7 @@
         "195"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh16": {
     "study": "soep-base",
@@ -2846,31 +2660,31 @@
     "label": "modernisierung auf kosten von",
     "categories": {
       "frequencies": [
-        80,
+        1132,
         2,
         80,
-        1132,
+        80,
         25
       ],
       "labels": [
-        "kosten d.vermieters",
-        "-1",
-        "eigene kosten",
         "-2",
+        "-1",
+        "kosten d.vermieters",
+        "eigene kosten",
         "teils, teils"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3"
       ]
     },
@@ -2884,10 +2698,7 @@
         "1134"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh17": {
     "study": "soep-base",
@@ -2898,27 +2709,27 @@
     "label": "modernisierung durchgefuehrt von",
     "categories": {
       "frequencies": [
+        1214,
         14,
         71,
-        1214,
         20
       ],
       "labels": [
+        "-2",
         "selbst,i.eigenarbeit",
         "handwerker,firma",
-        "-2",
         "beides"
       ],
       "missings": [
-        false,
-        false,
         true,
+        false,
+        false,
         false
       ],
       "values": [
+        "-2",
         "1",
         "2",
-        "-2",
         "3"
       ]
     },
@@ -2932,10 +2743,7 @@
         "1214"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh18": {
     "study": "soep-base",
@@ -2946,23 +2754,23 @@
     "label": "eigentuemerwechsel vorjahr",
     "categories": {
       "frequencies": [
-        77,
         6,
+        77,
         1236
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -2976,10 +2784,7 @@
         "6"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1901": {
     "study": "soep-base",
@@ -2990,31 +2795,31 @@
     "label": "eigentuemerwechsel art",
     "categories": {
       "frequencies": [
-        6,
-        1,
-        2,
         1242,
+        1,
+        6,
+        2,
         68
       ],
       "labels": [
-        "jetzt eigentuemer",
-        "-1",
-        "jetzt nicht mehr eigentuemer",
         "-2",
+        "-1",
+        "jetzt eigentuemer",
+        "jetzt nicht mehr eigentuemer",
         "weiterhin mieter, eigenuemerwechsel"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3"
       ]
     },
@@ -3028,10 +2833,7 @@
         "1243"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1902": {
     "study": "soep-base",
@@ -3042,24 +2844,24 @@
     "label": "eigentumerwerb durch",
     "categories": {
       "frequencies": [
+        1313,
         4,
-        2,
-        1313
+        2
       ],
       "labels": [
+        "-2",
         "kauf der wohnung",
-        "erbschaft/schenkung",
-        "-2"
+        "erbschaft/schenkung"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -3072,10 +2874,7 @@
         "1313"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh1903": {
     "study": "soep-base",
@@ -3086,24 +2885,24 @@
     "label": "nicht mehr eigentuemer",
     "categories": {
       "frequencies": [
+        1317,
         0,
-        2,
-        1317
+        2
       ],
       "labels": [
+        "-2",
         "verkauf der wohnung",
-        "erbschaft/schenkung",
-        "-2"
+        "erbschaft/schenkung"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -3116,10 +2915,7 @@
         "1317"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh20": {
     "study": "soep-base",
@@ -3130,29 +2926,29 @@
     "label": "haupt-, untermieter, eigentuemer",
     "categories": {
       "frequencies": [
-        921,
         5,
+        921,
         41,
         346,
         6
       ],
       "labels": [
-        "hauptmieter",
         "-1",
+        "hauptmieter",
         "untermieter",
         "eigentuemer",
         "heimbewohner"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -3168,10 +2964,7 @@
         "5"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh21": {
     "study": "soep-base",
@@ -3182,24 +2975,24 @@
     "label": "v. eigentuemer verbilligt ueberl.whg",
     "categories": {
       "frequencies": [
+        351,
         27,
-        941,
-        351
+        941
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -3212,10 +3005,7 @@
         "351"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh22": {
     "study": "soep-base",
@@ -3226,31 +3016,31 @@
     "label": "sozialwohnung",
     "categories": {
       "frequencies": [
-        43,
-        6,
-        99,
         351,
+        6,
+        43,
+        99,
         820
       ],
       "labels": [
-        "bestehende sozialb.",
-        "-1",
-        "abgelaufene sozialb.",
         "-2",
+        "-1",
+        "bestehende sozialb.",
+        "abgelaufene sozialb.",
         "nein"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3"
       ]
     },
@@ -3264,10 +3054,7 @@
         "357"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh2301": {
     "study": "soep-base",
@@ -3306,10 +3093,7 @@
         "376"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh2302": {
     "study": "soep-base",
@@ -3320,28 +3104,28 @@
     "label": "zahle keine miete",
     "categories": {
       "frequencies": [
-        16,
+        1294,
         9,
-        0,
-        1294
+        16,
+        0
       ],
       "labels": [
-        "ja",
+        "-2",
         "-1",
-        "nein",
-        "-2"
+        "ja",
+        "nein"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "2",
-        "-2"
+        "1",
+        "2"
       ]
     },
     "statistics": {
@@ -3354,10 +3138,7 @@
         "1303"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh24": {
     "study": "soep-base",
@@ -3368,28 +3149,28 @@
     "label": "heizungs-,wwkosten in d. miete",
     "categories": {
       "frequencies": [
-        717,
+        376,
         2,
-        224,
-        376
+        717,
+        224
       ],
       "labels": [
-        "ja",
+        "-2",
         "-1",
-        "nein",
-        "-2"
+        "ja",
+        "nein"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "2",
-        "-2"
+        "1",
+        "2"
       ]
     },
     "statistics": {
@@ -3402,10 +3183,7 @@
         "378"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh25": {
     "study": "soep-base",
@@ -3444,10 +3222,7 @@
         "591"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh2601": {
     "study": "soep-base",
@@ -3458,24 +3233,24 @@
     "label": "monatl. heizkosten, durchschnittl.",
     "categories": {
       "frequencies": [
-        208,
+        1104,
         7,
-        1104
+        208
       ],
       "labels": [
-        "weiss nicht",
+        "-2",
         "-1",
-        "-2"
+        "weiss nicht"
       ],
       "missings": [
-        false,
         true,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "-2"
+        "1"
       ]
     },
     "statistics": {
@@ -3488,10 +3263,7 @@
         "1111"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh2602": {
     "study": "soep-base",
@@ -3502,31 +3274,31 @@
     "label": "im mietpreis umlagen enthalten",
     "categories": {
       "frequencies": [
-        783,
-        29,
-        72,
         376,
+        29,
+        783,
+        72,
         59
       ],
       "labels": [
-        "ja, ganz enthalten",
-        "-1",
-        "ja, teilweise enthalten",
         "-2",
+        "-1",
+        "ja, ganz enthalten",
+        "ja, teilweise enthalten",
         "nein"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3"
       ]
     },
@@ -3540,10 +3312,7 @@
         "405"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh2603": {
     "study": "soep-base",
@@ -3582,10 +3351,7 @@
         "785"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh2604": {
     "study": "soep-base",
@@ -3596,24 +3362,24 @@
     "label": "monatl hoehe der umlagen",
     "categories": {
       "frequencies": [
-        274,
+        998,
         47,
-        998
+        274
       ],
       "labels": [
-        "weiss nicht",
+        "-2",
         "-1",
-        "-2"
+        "weiss nicht"
       ],
       "missings": [
-        false,
         true,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "-2"
+        "1"
       ]
     },
     "statistics": {
@@ -3626,10 +3392,7 @@
         "1045"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh27": {
     "study": "soep-base",
@@ -3640,37 +3403,37 @@
     "label": "beurteilung der miethoehe",
     "categories": {
       "frequencies": [
-        97,
-        2,
-        209,
         376,
+        2,
+        97,
+        209,
         411,
         207,
         17
       ],
       "labels": [
-        "sehr guenstig",
-        "-1",
-        "guenstig",
         "-2",
+        "-1",
+        "sehr guenstig",
+        "guenstig",
         "angemessen",
         "etwas zu hoch",
         "viel zu hoch"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
         "5"
@@ -3686,10 +3449,7 @@
         "378"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh28": {
     "study": "soep-base",
@@ -3700,40 +3460,40 @@
     "label": "eigentuemer der wohnung",
     "categories": {
       "frequencies": [
-        117,
-        34,
-        227,
         376,
+        34,
+        117,
+        227,
         6,
         537,
         22,
         0
       ],
       "labels": [
-        "kommunale wohnung",
-        "-1",
-        "genossenschaftliche wohnung",
         "-2",
+        "-1",
+        "kommunale wohnung",
+        "genossenschaftliche wohnung",
         "betriebs-/werkswohnung",
         "privater eigentuemer",
         "weiss nicht",
         "weiss nicht"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
         "5",
@@ -3750,10 +3510,7 @@
         "410"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh29": {
     "study": "soep-base",
@@ -3764,24 +3521,24 @@
     "label": "zins-,tilgungszahlungen f wohnung",
     "categories": {
       "frequencies": [
+        973,
         132,
-        214,
-        973
+        214
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -3794,10 +3551,7 @@
         "973"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh30": {
     "study": "soep-base",
@@ -3836,10 +3590,7 @@
         "1188"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh31": {
     "study": "soep-base",
@@ -3878,10 +3629,7 @@
         "990"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh32": {
     "study": "soep-base",
@@ -3920,10 +3668,7 @@
         "986"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh33": {
     "study": "soep-base",
@@ -3962,10 +3707,7 @@
         "993"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh3401": {
     "study": "soep-base",
@@ -3976,24 +3718,24 @@
     "label": "wohngeld als eigentuemer d. wohnung",
     "categories": {
       "frequencies": [
+        973,
         113,
-        233,
-        973
+        233
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -4006,10 +3748,7 @@
         "973"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh3402": {
     "study": "soep-base",
@@ -4048,10 +3787,7 @@
         "1208"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh35": {
     "study": "soep-base",
@@ -4062,37 +3798,37 @@
     "label": "beurteilung - finanzielle belastung",
     "categories": {
       "frequencies": [
-        50,
-        2,
-        104,
         973,
+        2,
+        50,
+        104,
         147,
         37,
         6
       ],
       "labels": [
-        "sehr guenstig",
-        "-1",
-        "guenstig",
         "-2",
+        "-1",
+        "sehr guenstig",
+        "guenstig",
         "angemessen",
         "etwas zu hoch",
         "viel zu hoch"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
         "5"
@@ -4108,10 +3844,7 @@
         "975"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh3601": {
     "study": "soep-base",
@@ -4150,10 +3883,7 @@
         "1046"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh3602": {
     "study": "soep-base",
@@ -4164,24 +3894,24 @@
     "label": "geschaetzte monatl. miete ohne heizung",
     "categories": {
       "frequencies": [
-        72,
+        1246,
         1,
-        1246
+        72
       ],
       "labels": [
-        "weiss nicht",
+        "-2",
         "-1",
-        "-2"
+        "weiss nicht"
       ],
       "missings": [
-        false,
         true,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "-2"
+        "1"
       ]
     },
     "statistics": {
@@ -4194,10 +3924,7 @@
         "1247"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh3701": {
     "study": "soep-base",
@@ -4208,24 +3935,24 @@
     "label": "wohn-eigentumsfoerd.,eigenheimzulage vorjahr",
     "categories": {
       "frequencies": [
+        973,
         32,
-        314,
-        973
+        314
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -4238,10 +3965,7 @@
         "973"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh3702": {
     "study": "soep-base",
@@ -4280,10 +4004,7 @@
         "1288"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh38": {
     "study": "soep-base",
@@ -4294,23 +4015,23 @@
     "label": "miet- u.pachteinnahmen vorjahr",
     "categories": {
       "frequencies": [
-        116,
         1,
+        116,
         1202
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -4324,10 +4045,7 @@
         "1"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh39": {
     "study": "soep-base",
@@ -4366,10 +4084,7 @@
         "1211"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4001": {
     "study": "soep-base",
@@ -4408,10 +4123,7 @@
         "1215"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4002": {
     "study": "soep-base",
@@ -4450,10 +4162,7 @@
         "1232"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4101": {
     "study": "soep-base",
@@ -4464,28 +4173,28 @@
     "label": "steuerlich absetzten, vorjahr",
     "categories": {
       "frequencies": [
-        70,
+        1203,
         4,
-        42,
-        1203
+        70,
+        42
       ],
       "labels": [
-        "ja",
+        "-2",
         "-1",
-        "nein",
-        "-2"
+        "ja",
+        "nein"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "2",
-        "-2"
+        "1",
+        "2"
       ]
     },
     "statistics": {
@@ -4498,10 +4207,7 @@
         "1207"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4102": {
     "study": "soep-base",
@@ -4540,10 +4246,7 @@
         "1252"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh42": {
     "study": "soep-base",
@@ -4554,23 +4257,23 @@
     "label": "abzahlung kredite",
     "categories": {
       "frequencies": [
-        212,
         5,
+        212,
         1102
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -4584,10 +4287,7 @@
         "5"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh43": {
     "study": "soep-base",
@@ -4626,10 +4326,7 @@
         "1112"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh44": {
     "study": "soep-base",
@@ -4640,31 +4337,31 @@
     "label": "belastung durch rueckzahlung kredite",
     "categories": {
       "frequencies": [
-        85,
-        2,
-        79,
         1107,
+        2,
+        85,
+        79,
         46
       ],
       "labels": [
-        "schwere belastung",
-        "-1",
-        "geringe belastung",
         "-2",
+        "-1",
+        "schwere belastung",
+        "geringe belastung",
         "kein problem"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3"
       ]
     },
@@ -4678,10 +4375,7 @@
         "1109"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4501": {
     "study": "soep-base",
@@ -4692,24 +4386,24 @@
     "label": "sparbuch vorjahr",
     "categories": {
       "frequencies": [
+        479,
         840,
-        0,
-        479
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -4722,10 +4416,7 @@
         "479"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4502": {
     "study": "soep-base",
@@ -4736,24 +4427,24 @@
     "label": "bausparvertrag vorjahr",
     "categories": {
       "frequencies": [
+        959,
         360,
-        0,
-        959
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -4766,10 +4457,7 @@
         "959"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4503": {
     "study": "soep-base",
@@ -4780,24 +4468,24 @@
     "label": "lebensversicherung vorjahr",
     "categories": {
       "frequencies": [
+        940,
         379,
-        0,
-        940
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -4810,10 +4498,7 @@
         "940"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4504": {
     "study": "soep-base",
@@ -4824,24 +4509,24 @@
     "label": "festverzinsl. wertpapiere vorjahr",
     "categories": {
       "frequencies": [
+        1063,
         256,
-        0,
-        1063
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -4854,10 +4539,7 @@
         "1063"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4505": {
     "study": "soep-base",
@@ -4868,24 +4550,24 @@
     "label": "sonstige wertpapiere vorjahr",
     "categories": {
       "frequencies": [
+        858,
         461,
-        0,
-        858
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -4898,10 +4580,7 @@
         "858"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4506": {
     "study": "soep-base",
@@ -4912,24 +4591,24 @@
     "label": "betriebsvermoegen vorjahr",
     "categories": {
       "frequencies": [
+        1308,
         11,
-        0,
-        1308
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -4942,10 +4621,7 @@
         "1308"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4507": {
     "study": "soep-base",
@@ -4956,28 +4632,28 @@
     "label": "keine wertanlagen vorjahr",
     "categories": {
       "frequencies": [
-        241,
+        1073,
         5,
-        0,
-        1073
+        241,
+        0
       ],
       "labels": [
-        "ja",
+        "-2",
         "-1",
-        "nein",
-        "-2"
+        "ja",
+        "nein"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "2",
-        "-2"
+        "1",
+        "2"
       ]
     },
     "statistics": {
@@ -4990,10 +4666,7 @@
         "1078"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4508": {
     "study": "soep-base",
@@ -5004,28 +4677,28 @@
     "label": "verluste steuerlich absetzen",
     "categories": {
       "frequencies": [
-        39,
+        856,
         8,
-        416,
-        856
+        39,
+        416
       ],
       "labels": [
-        "ja",
+        "-2",
         "-1",
-        "nein",
-        "-2"
+        "ja",
+        "nein"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "2",
-        "-2"
+        "1",
+        "2"
       ]
     },
     "statistics": {
@@ -5038,10 +4711,7 @@
         "864"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4509": {
     "study": "soep-base",
@@ -5080,10 +4750,7 @@
         "1287"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4510": {
     "study": "soep-base",
@@ -5102,10 +4769,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4601": {
     "study": "soep-base",
@@ -5144,10 +4808,7 @@
         "735"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4602": {
     "study": "soep-base",
@@ -5158,40 +4819,40 @@
     "label": "zins-u. dividendeneinnahmen geschaetzt vorjahr",
     "categories": {
       "frequencies": [
-        203,
-        34,
-        137,
         857,
+        34,
+        203,
+        137,
         50,
         28,
         6,
         4
       ],
       "labels": [
-        "unter 250 euro",
-        "-1",
-        "250 bis unter 1000",
         "-2",
+        "-1",
+        "unter 250 euro",
+        "250 bis unter 1000",
         "1000 bis unter 2500",
         "2500 bis unter 5000",
         "5000 bis unter 10000",
         "10000 euro und mehr"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
         "5",
@@ -5208,10 +4869,7 @@
         "891"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4701": {
     "study": "soep-base",
@@ -5222,23 +4880,23 @@
     "label": "unerw. geldbetraege,sachw. ue.5000 dm er",
     "categories": {
       "frequencies": [
-        74,
         3,
+        74,
         1242
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -5252,10 +4910,7 @@
         "3"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4702": {
     "study": "soep-base",
@@ -5266,24 +4921,24 @@
     "label": "erbschaft",
     "categories": {
       "frequencies": [
+        1276,
         43,
-        0,
-        1276
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -5296,10 +4951,7 @@
         "1276"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4703": {
     "study": "soep-base",
@@ -5310,24 +4962,24 @@
     "label": "schenkung",
     "categories": {
       "frequencies": [
+        1292,
         27,
-        0,
-        1292
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -5340,10 +4992,7 @@
         "1292"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4704": {
     "study": "soep-base",
@@ -5354,24 +5003,24 @@
     "label": "lotteriegewinn",
     "categories": {
       "frequencies": [
+        1315,
         4,
-        0,
-        1315
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -5384,10 +5033,7 @@
         "1315"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4705": {
     "study": "soep-base",
@@ -5418,10 +5064,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh48": {
     "study": "soep-base",
@@ -5460,10 +5103,7 @@
         "1249"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4901": {
     "study": "soep-base",
@@ -5474,23 +5114,23 @@
     "label": "kindergeldbezug letztes jahr",
     "categories": {
       "frequencies": [
-        170,
         202,
+        170,
         947
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -5504,10 +5144,7 @@
         "202"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4902": {
     "study": "soep-base",
@@ -5546,10 +5183,7 @@
         "1157"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4903": {
     "study": "soep-base",
@@ -5588,10 +5222,7 @@
         "1157"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4904": {
     "study": "soep-base",
@@ -5602,23 +5233,23 @@
     "label": "kinderzuschlag letztes jahr",
     "categories": {
       "frequencies": [
-        18,
         216,
+        18,
         1085
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -5632,10 +5263,7 @@
         "216"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4905": {
     "study": "soep-base",
@@ -5674,10 +5302,7 @@
         "1305"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4906": {
     "study": "soep-base",
@@ -5716,10 +5341,7 @@
         "1304"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4907": {
     "study": "soep-base",
@@ -5730,23 +5352,23 @@
     "label": "alg2, sozialgeld im letzten jahr: bezogen",
     "categories": {
       "frequencies": [
-        81,
         202,
+        81,
         1036
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -5760,10 +5382,7 @@
         "202"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4908": {
     "study": "soep-base",
@@ -5802,10 +5421,7 @@
         "1241"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4909": {
     "study": "soep-base",
@@ -5844,10 +5460,7 @@
         "1239"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4910": {
     "study": "soep-base",
@@ -5858,23 +5471,23 @@
     "label": "wohngeld,lastenzuschuss vorjahr",
     "categories": {
       "frequencies": [
-        32,
         24,
+        32,
         1263
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -5888,10 +5501,7 @@
         "24"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4911": {
     "study": "soep-base",
@@ -5930,10 +5540,7 @@
         "1291"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4912": {
     "study": "soep-base",
@@ -5972,10 +5579,7 @@
         "1288"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4913": {
     "study": "soep-base",
@@ -5986,23 +5590,23 @@
     "label": "leistungen der pflegeversicherung vorjahr",
     "categories": {
       "frequencies": [
-        13,
         7,
+        13,
         1299
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -6016,10 +5620,7 @@
         "7"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh4914": {
     "study": "soep-base",
@@ -6058,10 +5659,7 @@
         "1307"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4915": {
     "study": "soep-base",
@@ -6100,10 +5698,7 @@
         "1307"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh4916": {
     "study": "soep-base",
@@ -6114,23 +5709,23 @@
     "label": "sozialhilfebezug letzt.j",
     "categories": {
       "frequencies": [
-        50,
         7,
+        50,
         1262
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -6144,10 +5739,7 @@
         "7"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5001": {
     "study": "soep-base",
@@ -6158,24 +5750,24 @@
     "label": "hilfe lebensunterhalt",
     "categories": {
       "frequencies": [
+        1301,
         18,
-        0,
-        1301
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -6188,10 +5780,7 @@
         "1301"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5002": {
     "study": "soep-base",
@@ -6230,10 +5819,7 @@
         "1302"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5003": {
     "study": "soep-base",
@@ -6272,10 +5858,7 @@
         "1303"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5004": {
     "study": "soep-base",
@@ -6286,24 +5869,24 @@
     "label": "hilfe alter/erwerbsminderung",
     "categories": {
       "frequencies": [
+        1300,
         19,
-        0,
-        1300
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -6316,10 +5899,7 @@
         "1300"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5005": {
     "study": "soep-base",
@@ -6358,10 +5938,7 @@
         "1303"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5006": {
     "study": "soep-base",
@@ -6400,10 +5977,7 @@
         "1300"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5007": {
     "study": "soep-base",
@@ -6434,10 +6008,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5008": {
     "study": "soep-base",
@@ -6456,10 +6027,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5009": {
     "study": "soep-base",
@@ -6478,10 +6046,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5010": {
     "study": "soep-base",
@@ -6512,10 +6077,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5011": {
     "study": "soep-base",
@@ -6534,10 +6096,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5101": {
     "study": "soep-base",
@@ -6548,24 +6107,24 @@
     "label": "kindergeldbezug heute",
     "categories": {
       "frequencies": [
+        1200,
         119,
-        0,
-        1200
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -6578,10 +6137,7 @@
         "1200"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5102": {
     "study": "soep-base",
@@ -6620,10 +6176,7 @@
         "1203"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5103": {
     "study": "soep-base",
@@ -6662,10 +6215,7 @@
         "1202"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5104": {
     "study": "soep-base",
@@ -6676,24 +6226,24 @@
     "label": "kinderzuschlagbezug heute",
     "categories": {
       "frequencies": [
+        1308,
         11,
-        0,
-        1308
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -6706,10 +6256,7 @@
         "1308"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5105": {
     "study": "soep-base",
@@ -6748,10 +6295,7 @@
         "1309"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5106": {
     "study": "soep-base",
@@ -6762,24 +6306,24 @@
     "label": "alg ii, sozialgeld heute",
     "categories": {
       "frequencies": [
+        1258,
         61,
-        0,
-        1258
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -6792,10 +6336,7 @@
         "1258"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5107": {
     "study": "soep-base",
@@ -6834,10 +6375,7 @@
         "1258"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5108": {
     "study": "soep-base",
@@ -6848,24 +6386,24 @@
     "label": "wohngeldbezug heute",
     "categories": {
       "frequencies": [
+        1290,
         29,
-        0,
-        1290
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -6878,10 +6416,7 @@
         "1290"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5109": {
     "study": "soep-base",
@@ -6920,10 +6455,7 @@
         "1290"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5110": {
     "study": "soep-base",
@@ -6934,24 +6466,24 @@
     "label": "pflegevers. leistungen",
     "categories": {
       "frequencies": [
+        1308,
         11,
-        0,
-        1308
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -6964,10 +6496,7 @@
         "1308"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5111": {
     "study": "soep-base",
@@ -7006,10 +6535,7 @@
         "1308"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5112": {
     "study": "soep-base",
@@ -7020,24 +6546,24 @@
     "label": "alter/erwerbsminderung heute",
     "categories": {
       "frequencies": [
+        1293,
         26,
-        0,
-        1293
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -7050,10 +6576,7 @@
         "1293"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5113": {
     "study": "soep-base",
@@ -7092,10 +6615,7 @@
         "1293"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5114": {
     "study": "soep-base",
@@ -7106,24 +6626,24 @@
     "label": "sozialhilfebezug heute",
     "categories": {
       "frequencies": [
+        1313,
         6,
-        0,
-        1313
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -7136,10 +6656,7 @@
         "1313"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5115": {
     "study": "soep-base",
@@ -7178,10 +6695,7 @@
         "1314"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5116": {
     "study": "soep-base",
@@ -7192,24 +6706,24 @@
     "label": "keine staatl leistungen",
     "categories": {
       "frequencies": [
-        1082,
+        228,
         9,
-        228
+        1082
       ],
       "labels": [
-        "keine staatl. leistungen",
+        "-2",
         "-1",
-        "-2"
+        "keine staatl. leistungen"
       ],
       "missings": [
-        false,
         true,
-        true
+        true,
+        false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
-        "-2"
+        "1"
       ]
     },
     "statistics": {
@@ -7222,10 +6736,7 @@
         "237"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5201": {
     "study": "soep-base",
@@ -7264,10 +6775,7 @@
         "51"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh5202": {
     "study": "soep-base",
@@ -7278,50 +6786,50 @@
     "label": "hh-nettoeinkommensgruppen, nur capi",
     "categories": {
       "frequencies": [
-        2,
-        8,
-        0,
-        0,
-        0,
-        0,
-        0,
         1300,
+        8,
+        2,
         0,
         4,
         2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
         2,
         0,
-        0,
-        0,
-        1
+        0
       ],
       "labels": [
-        "le    750 euro",
+        "-2",
         "-1",
+        "le    750 euro",
+        "gt    750 euro und le    1500 euro",
+        "gt   1500 euro und le    2500 euro",
+        "gt   2500 euro und le    3500 euro",
+        "gt   3500 euro und le    5000 euro",
+        "gt   5000 euro",
         "lt 1500 lt    o. gt     750 ka",
         "gt 1500 lt    o. gt    2500 ka",
         "gt 2500 lt    o. gt    3500 ka",
         "gt 3500 lt    o. gt    5000 ka",
-        "gt    750 euro und le    1500 euro",
-        "-2",
         "lt  1500 euro oder gt  750 euro, ka",
-        "gt   1500 euro und le    2500 euro",
         "gt  1500 euro oder gt 2500 euro, ka",
-        "gt   2500 euro und le    3500 euro",
         "gt  2500 euro oder gt 3500 euro, ka",
-        "gt   3500 euro und le    5000 euro",
-        "gt  3500 euro oder gt 5000 euro, ka",
-        "gt   5000 euro"
+        "gt  3500 euro oder gt 5000 euro, ka"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
         false,
         false,
         false,
         false,
-        true,
+        false,
         false,
         false,
         false,
@@ -7332,22 +6840,22 @@
         false
       ],
       "values": [
-        "1",
+        "-2",
         "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "12",
         "13",
         "14",
         "15",
-        "2",
-        "-2",
         "21",
-        "3",
         "31",
-        "4",
         "41",
-        "5",
-        "51",
-        "6"
+        "51"
       ]
     },
     "statistics": {
@@ -7360,10 +6868,7 @@
         "1308"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5301": {
     "study": "soep-base",
@@ -7374,23 +6879,23 @@
     "label": "sparbetrag monatlich",
     "categories": {
       "frequencies": [
-        723,
         8,
+        723,
         588
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -7404,10 +6909,7 @@
         "8"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5302": {
     "study": "soep-base",
@@ -7446,10 +6948,7 @@
         "618"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh54": {
     "study": "soep-base",
@@ -7460,8 +6959,8 @@
     "label": "entfernung z. zentrum d.n. grossstadt",
     "categories": {
       "frequencies": [
-        528,
         15,
+        528,
         340,
         342,
         69,
@@ -7469,8 +6968,8 @@
         7
       ],
       "labels": [
-        "whg. liegt im grossstadtzentrum",
         "-1",
+        "whg. liegt im grossstadtzentrum",
         "unter 10 km",
         "10 bis unter 25 km",
         "25 bis unter 40 km",
@@ -7478,8 +6977,8 @@
         "60 km und mehr"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false,
@@ -7487,8 +6986,8 @@
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4",
@@ -7506,10 +7005,7 @@
         "15"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5501": {
     "study": "soep-base",
@@ -7520,29 +7016,29 @@
     "label": "entfernung z. fuss z. geschaefte",
     "categories": {
       "frequencies": [
-        936,
         1,
+        936,
         327,
         45,
         10
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7558,10 +7054,7 @@
         "1"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5502": {
     "study": "soep-base",
@@ -7572,29 +7065,29 @@
     "label": "entfernung z. fuss z. gaststaetten",
     "categories": {
       "frequencies": [
-        893,
         6,
+        893,
         346,
         64,
         10
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7610,10 +7103,7 @@
         "6"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5503": {
     "study": "soep-base",
@@ -7624,29 +7114,29 @@
     "label": "entfernung z. fuss z. bank",
     "categories": {
       "frequencies": [
-        624,
         6,
+        624,
         505,
         141,
         43
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7662,10 +7152,7 @@
         "6"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5504": {
     "study": "soep-base",
@@ -7676,29 +7163,29 @@
     "label": "entfernung z. fuss z. hausarzt",
     "categories": {
       "frequencies": [
-        552,
         9,
+        552,
         434,
         231,
         93
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7714,10 +7201,7 @@
         "9"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5505": {
     "study": "soep-base",
@@ -7728,29 +7212,29 @@
     "label": "entfernung z. fuss z. kindergarten",
     "categories": {
       "frequencies": [
-        611,
         257,
+        611,
         307,
         81,
         63
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7766,10 +7250,7 @@
         "257"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5506": {
     "study": "soep-base",
@@ -7780,29 +7261,29 @@
     "label": "entfernung z. fuss z. grundschule",
     "categories": {
       "frequencies": [
-        594,
         233,
+        594,
         361,
         79,
         52
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7818,10 +7299,7 @@
         "233"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5507": {
     "study": "soep-base",
@@ -7832,29 +7310,29 @@
     "label": "entfernung z. fuss z. gymnasium",
     "categories": {
       "frequencies": [
-        316,
         245,
+        316,
         414,
         225,
         119
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7870,10 +7348,7 @@
         "245"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5508": {
     "study": "soep-base",
@@ -7884,29 +7359,29 @@
     "label": "entfernung z. fuss z. treffp f. jugendl.",
     "categories": {
       "frequencies": [
-        373,
         283,
+        373,
         336,
         179,
         148
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7922,10 +7397,7 @@
         "283"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5509": {
     "study": "soep-base",
@@ -7936,29 +7408,29 @@
     "label": "entfernung z. fuss z. einricht. f. alte",
     "categories": {
       "frequencies": [
-        428,
         128,
+        428,
         455,
         202,
         106
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -7974,10 +7446,7 @@
         "128"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5510": {
     "study": "soep-base",
@@ -7988,29 +7457,29 @@
     "label": "entfernung z. fuss z. gruenanlagen",
     "categories": {
       "frequencies": [
-        938,
         19,
+        938,
         284,
         62,
         16
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -8026,10 +7495,7 @@
         "19"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5511": {
     "study": "soep-base",
@@ -8040,29 +7506,29 @@
     "label": "entfernung z. fuss z. sportstaetten",
     "categories": {
       "frequencies": [
-        517,
         69,
+        517,
         471,
         203,
         59
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -8078,10 +7544,7 @@
         "69"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5512": {
     "study": "soep-base",
@@ -8092,29 +7555,29 @@
     "label": "entfernung z.fuss z. oefftl.verkehrsmittel",
     "categories": {
       "frequencies": [
-        1172,
         5,
+        1172,
         136,
         5,
         1
       ],
       "labels": [
-        "unter 10 min.",
         "-1",
+        "unter 10 min.",
         "10 - 20 min.",
         "mehr als 20 min.",
         "nicht vorhanden, z.fuss n. erreichbar"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -8130,10 +7593,7 @@
         "5"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5601": {
     "study": "soep-base",
@@ -8144,32 +7604,32 @@
     "label": "beintraechtigung d. laermbelaestigung",
     "categories": {
       "frequencies": [
-        394,
         1,
+        394,
         508,
         263,
         103,
         50
       ],
       "labels": [
-        "gar nicht",
         "-1",
+        "gar nicht",
         "gering",
         "gerade ertraeglich",
         "stark",
         "sehr stark"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4",
@@ -8186,10 +7646,7 @@
         "1"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5602": {
     "study": "soep-base",
@@ -8200,32 +7657,32 @@
     "label": "beintraechtigung d. luftverschmutzung",
     "categories": {
       "frequencies": [
-        484,
         17,
+        484,
         541,
         176,
         72,
         29
       ],
       "labels": [
-        "gar nicht",
         "-1",
+        "gar nicht",
         "gering",
         "gerade ertraeglich",
         "stark",
         "sehr stark"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4",
@@ -8242,10 +7699,7 @@
         "17"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh5603": {
     "study": "soep-base",
@@ -8256,32 +7710,32 @@
     "label": "beintraechtigung d.mangel a.gruenflaeche",
     "categories": {
       "frequencies": [
-        1008,
         34,
+        1008,
         193,
         56,
         19,
         9
       ],
       "labels": [
-        "gar nicht",
         "-1",
+        "gar nicht",
         "gering",
         "gerade ertraeglich",
         "stark",
         "sehr stark"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4",
@@ -8298,10 +7752,7 @@
         "34"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh57": {
     "study": "soep-base",
@@ -8312,29 +7763,29 @@
     "label": "kriminalitaet im wohngebiet",
     "categories": {
       "frequencies": [
-        167,
         2,
+        167,
         1028,
         113,
         9
       ],
       "labels": [
-        "sehr sicher",
         "-1",
+        "sehr sicher",
         "ziemlich sicher",
         "ziemlich unsicher",
         "sehr unsicher"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -8350,10 +7801,7 @@
         "2"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh58": {
     "study": "soep-base",
@@ -8364,29 +7812,29 @@
     "label": "verhaeltnis d. bewohner zueinander",
     "categories": {
       "frequencies": [
-        208,
         5,
+        208,
         836,
         152,
         118
       ],
       "labels": [
-        "kennen sich kaum",
         "-1",
+        "kennen sich kaum",
         "reden schon mal miteinander",
         "relativ enger zusammenhalt",
         "unterschiedlich"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -8402,10 +7850,7 @@
         "5"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh59": {
     "study": "soep-base",
@@ -8416,29 +7861,29 @@
     "label": "leben auslaend. familien im wohngebiet",
     "categories": {
       "frequencies": [
-        310,
         2,
+        310,
         743,
         174,
         90
       ],
       "labels": [
-        "ja, viele",
         "-1",
+        "ja, viele",
         "ja, wenige",
         "nein",
         "weiss nicht"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4"
@@ -8454,10 +7899,7 @@
         "2"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh60": {
     "study": "soep-base",
@@ -8468,32 +7910,32 @@
     "label": "kontakt mit nachbarn",
     "categories": {
       "frequencies": [
-        39,
         5,
+        39,
         230,
         616,
         392,
         37
       ],
       "labels": [
-        "sehr eng",
         "-1",
+        "sehr eng",
         "eng",
         "mittel",
         "nur fluechtig",
         "gar kein kontakt"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3",
         "4",
@@ -8510,10 +7952,7 @@
         "5"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6101": {
     "study": "soep-base",
@@ -8524,23 +7963,23 @@
     "label": "besuche von,bei nachbarn",
     "categories": {
       "frequencies": [
-        656,
         2,
+        656,
         661
       ],
       "labels": [
-        "ja",
         "-1",
+        "ja",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2"
       ]
     },
@@ -8554,10 +7993,7 @@
         "2"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6102": {
     "study": "soep-base",
@@ -8568,34 +8004,34 @@
     "label": "hfgkt nachbarschaftsbesuche",
     "categories": {
       "frequencies": [
-        55,
-        3,
-        167,
         663,
+        3,
+        55,
+        167,
         221,
         210
       ],
       "labels": [
-        "beinahe taeglich",
-        "-1",
-        "mindestens 1x pro woche",
         "-2",
+        "-1",
+        "beinahe taeglich",
+        "mindestens 1x pro woche",
         "mindestens 1x pro monat",
         "seltener"
       ],
       "missings": [
-        false,
+        true,
         true,
         false,
-        true,
+        false,
         false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4"
       ]
@@ -8610,10 +8046,7 @@
         "666"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh62": {
     "study": "soep-base",
@@ -8650,10 +8083,7 @@
         "0"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6301": {
     "study": "soep-base",
@@ -8692,10 +8122,7 @@
         "1293"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh6302": {
     "study": "soep-base",
@@ -8706,24 +8133,24 @@
     "label": "hilfe bei besorgungen ausser hh",
     "categories": {
       "frequencies": [
+        1294,
         25,
-        0,
-        1294
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -8736,10 +8163,7 @@
         "1294"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6303": {
     "study": "soep-base",
@@ -8778,10 +8202,7 @@
         "1299"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh6304": {
     "study": "soep-base",
@@ -8792,24 +8213,24 @@
     "label": "hilfe bei einfacher pflegetaetigkeit",
     "categories": {
       "frequencies": [
+        1311,
         8,
-        0,
-        1311
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -8822,10 +8243,7 @@
         "1311"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6305": {
     "study": "soep-base",
@@ -8836,24 +8254,24 @@
     "label": "hilfe bei schwieriger pflegetaetigkeit",
     "categories": {
       "frequencies": [
+        1317,
         2,
-        0,
-        1317
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -8866,10 +8284,7 @@
         "1317"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6306": {
     "study": "soep-base",
@@ -8888,10 +8303,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh6401": {
     "study": "soep-base",
@@ -8902,24 +8314,24 @@
     "label": "leistungen der pflegeversicherung",
     "categories": {
       "frequencies": [
+        1293,
         12,
-        14,
-        1293
+        14
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -8932,10 +8344,7 @@
         "1293"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6402": {
     "study": "soep-base",
@@ -8946,27 +8355,27 @@
     "label": "pflegestufe",
     "categories": {
       "frequencies": [
+        1307,
         10,
         2,
-        1307,
         0
       ],
       "labels": [
+        "-2",
         "pflegestufe 1",
         "pflegestufe 2",
-        "-2",
         "pflegestufe 3"
       ],
       "missings": [
-        false,
-        false,
         true,
+        false,
+        false,
         false
       ],
       "values": [
+        "-2",
         "1",
         "2",
-        "-2",
         "3"
       ]
     },
@@ -8980,10 +8389,7 @@
         "1307"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6501": {
     "study": "soep-base",
@@ -8994,24 +8400,24 @@
     "label": "hilfe v.schwester,sozialhelfer",
     "categories": {
       "frequencies": [
+        1294,
         25,
-        0,
-        1294
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -9024,10 +8430,7 @@
         "1294"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6502": {
     "study": "soep-base",
@@ -9066,10 +8469,7 @@
         "1294"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh6503": {
     "study": "soep-base",
@@ -9100,10 +8500,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh6504": {
     "study": "soep-base",
@@ -9114,24 +8511,24 @@
     "label": "hilfe v.priv.pflegedienst",
     "categories": {
       "frequencies": [
+        1318,
         1,
-        0,
-        1318
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -9144,10 +8541,7 @@
         "1318"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6505": {
     "study": "soep-base",
@@ -9158,24 +8552,24 @@
     "label": "hilfe v.nachbarn",
     "categories": {
       "frequencies": [
+        1318,
         1,
-        0,
-        1318
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -9188,10 +8582,7 @@
         "1318"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6506": {
     "study": "soep-base",
@@ -9202,24 +8593,24 @@
     "label": "hilfe v. nachbarn",
     "categories": {
       "frequencies": [
+        1318,
         1,
-        0,
-        1318
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -9232,10 +8623,7 @@
         "1318"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6507": {
     "study": "soep-base",
@@ -9246,24 +8634,24 @@
     "label": "hilfe v. angehoerige ausser hh",
     "categories": {
       "frequencies": [
+        1316,
         3,
-        0,
-        1316
+        0
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -9276,10 +8664,7 @@
         "1316"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6508": {
     "study": "soep-base",
@@ -9298,10 +8683,7 @@
       "names": [],
       "values": []
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh6509": {
     "study": "soep-base",
@@ -9340,10 +8722,7 @@
         "1314"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh6601": {
     "study": "soep-base",
@@ -9354,24 +8733,24 @@
     "label": "weitere pflegebeduerftige personen im hh",
     "categories": {
       "frequencies": [
+        1293,
         1,
-        25,
-        1293
+        25
       ],
       "labels": [
+        "-2",
         "ja",
-        "nein",
-        "-2"
+        "nein"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-2",
         "1",
-        "2",
-        "-2"
+        "2"
       ]
     },
     "statistics": {
@@ -9384,10 +8763,7 @@
         "1293"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zh6602": {
     "study": "soep-base",
@@ -9426,10 +8802,7 @@
         "1318"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zh67": {
     "study": "soep-base",
@@ -9440,26 +8813,26 @@
     "label": "putz-,haushaltshilfe beschaeftigt",
     "categories": {
       "frequencies": [
-        63,
         18,
+        63,
         49,
         1189
       ],
       "labels": [
-        "ja, regelmaessig",
         "-1",
+        "ja, regelmaessig",
         "ja, gelegentlich",
         "nein"
       ],
       "missings": [
-        false,
         true,
+        false,
         false,
         false
       ],
       "values": [
-        "1",
         "-1",
+        "1",
         "2",
         "3"
       ]
@@ -9474,10 +8847,7 @@
         "18"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zhivform": {
     "study": "soep-base",
@@ -9534,10 +8904,7 @@
         "0"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zhhdaer1": {
     "study": "soep-base",
@@ -9576,10 +8943,7 @@
         "1162"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zhhdaer2": {
     "study": "soep-base",
@@ -9618,10 +8982,7 @@
         "1318"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zhhtagin": {
     "study": "soep-base",
@@ -9658,10 +9019,7 @@
         "0"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zhhmonin": {
     "study": "soep-base",
@@ -9738,10 +9096,7 @@
         "0"
       ]
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   "zhintnr": {
     "study": "soep-base",
@@ -9780,10 +9135,7 @@
         "1107"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zhpmax": {
     "study": "soep-base",
@@ -9820,10 +9172,7 @@
         "0"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "hhnr": {
     "study": "soep-base",
@@ -9860,10 +9209,7 @@
         "0"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   "zhhdaer": {
     "study": "soep-base",
@@ -9888,9 +9234,6 @@
         "9"
       ]
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   }
 }
