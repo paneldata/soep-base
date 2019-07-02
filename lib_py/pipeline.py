@@ -5,22 +5,44 @@
 import pathlib
 
 import pandas as pd
-from ddi.onrails.repos import convert_r2ddi
+from convert_r2ddi import Parser as XmlParser
 
-from helpers import add_columns, extract_unique_values, link_to
+from helpers import add_columns, extract_unique_values, link_to, preprocess
 
 STUDY = "soep-base"
 VERSION = "v1"
 
 INPUT_DIRECTORY = pathlib.Path("metadata")
+LINK_TO_INPUT_DIRECTORY = pathlib.Path("..").joinpath(INPUT_DIRECTORY)
 OUTPUT_DIRECTORY = pathlib.Path("ddionrails")
 
 
-def preprocess_datasets():
-    """ Add columns to datasets.csv """
-    datasets = pd.read_csv(INPUT_DIRECTORY.joinpath("datasets.csv"))
-    add_columns(datasets, ["label", "label_de", "description"])
-    wanted_columns = [
+def preprocess_datasets() -> None:
+    """ Preprocess datasets
+        -------------------
+
+        read from: metadata/datasets.csv
+
+        add new columns:
+            - label
+            - label_de
+            - description
+
+        select subset of columns in specific order:
+            - study
+            - name
+            - label
+            - label_de
+            - description
+            - analysis_unit
+            - conceptual_dataset
+            - period
+
+        write to: ddionrails/datasets.csv
+    """
+
+    NEW_COLUMNS = ["label", "label_de", "description"]
+    WANTED_COLUMNS = [
         "study",
         "name",
         "label",
@@ -30,15 +52,28 @@ def preprocess_datasets():
         "conceptual_dataset",
         "period",
     ]
-    datasets = datasets[wanted_columns]
-    datasets.to_csv(OUTPUT_DIRECTORY.joinpath("datasets.csv"), index=False)
+    preprocess(
+        in_filename=INPUT_DIRECTORY.joinpath("datasets.csv"),
+        out_filename=OUTPUT_DIRECTORY.joinpath("datasets.csv"),
+        wanted_columns=WANTED_COLUMNS,
+        new_columns=NEW_COLUMNS,
+    )
 
 
 def run():
     # create symlinks
-    link_to("../metadata/study.md", OUTPUT_DIRECTORY.joinpath("study.md"))
-    link_to("../metadata/bibtex.bib", OUTPUT_DIRECTORY.joinpath("bibtex.bib"))
-    link_to("../metadata/variables.csv", OUTPUT_DIRECTORY.joinpath("variables.csv"))
+    link_to(
+        LINK_TO_INPUT_DIRECTORY.joinpath("study.md"),
+        OUTPUT_DIRECTORY.joinpath("study.md"),
+    )
+    link_to(
+        LINK_TO_INPUT_DIRECTORY.joinpath("bibtex.bib"),
+        OUTPUT_DIRECTORY.joinpath("bibtex.bib"),
+    )
+    link_to(
+        LINK_TO_INPUT_DIRECTORY.joinpath("variables.csv"),
+        OUTPUT_DIRECTORY.joinpath("variables.csv"),
+    )
 
     # extract related objects from datasets
     datasets = pd.read_csv(INPUT_DIRECTORY.joinpath("datasets.csv"))
@@ -61,7 +96,7 @@ def run():
 
     # preprocessing
     preprocess_datasets()
-    convert_r2ddi.Parser(STUDY, version=VERSION).write_json()
+    XmlParser(STUDY, version=VERSION).write_json()
 
 
 if __name__ == "__main__":

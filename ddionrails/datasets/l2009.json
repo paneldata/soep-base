@@ -13,28 +13,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2009",
-        "2009",
-        "2009",
-        "2009",
-        "2009",
-        "2009",
-        "210",
-        "0"
-      ]
+      "Min.": "2009",
+      "1st Qu.": "2009",
+      "Median": "2009",
+      "Mean": "2009",
+      "3rd Qu.": "2009",
+      "Max.": "2009",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "sample1": {
     "study": "soep-base",
@@ -62,16 +54,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "hhnrakt": {
     "study": "soep-base",
@@ -87,28 +77,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "630000",
-        "630500",
-        "631000",
-        "631000",
-        "631400",
-        "632100",
-        "210",
-        "0"
-      ]
+      "Min.": "630000",
+      "1st Qu.": "630500",
+      "Median": "631000",
+      "Mean": "631000",
+      "3rd Qu.": "631400",
+      "Max.": "632100",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zpnr": {
     "study": "soep-base",
@@ -148,16 +130,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb0101": {
     "study": "soep-base",
@@ -173,28 +153,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1914",
-        "1935",
-        "1940",
-        "1951",
-        "1978",
-        "1988",
-        "210",
-        "0"
-      ]
+      "Min.": "1914",
+      "1st Qu.": "1935",
+      "Median": "1940",
+      "Mean": "1951",
+      "3rd Qu.": "1978",
+      "Max.": "1988",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb0102": {
     "study": "soep-base",
@@ -274,16 +246,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb02": {
     "study": "soep-base",
@@ -323,16 +293,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb03": {
     "study": "soep-base",
@@ -968,16 +936,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "8",
-        "202"
-      ]
+      "valid": "8",
+      "invalid": "202"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb04": {
     "study": "soep-base",
@@ -993,30 +959,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1939",
-        "1939",
-        "1954",
-        "1963",
-        "1982",
-        "2003",
-        "202",
-        "8",
-        "202"
-      ]
+      "Min.": "1939",
+      "1st Qu.": "1939",
+      "Median": "1954",
+      "Mean": "1963",
+      "3rd Qu.": "1982",
+      "Max.": "2003",
+      "NA's": "202",
+      "valid": "8",
+      "invalid": "202"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb05": {
     "study": "soep-base",
@@ -1068,16 +1025,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "8",
-        "202"
-      ]
+      "valid": "8",
+      "invalid": "202"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb06": {
     "study": "soep-base",
@@ -1121,16 +1076,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "208"
-      ]
+      "valid": "2",
+      "invalid": "208"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb0701": {
     "study": "soep-base",
@@ -1169,11 +1122,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb0702": {
     "study": "soep-base",
@@ -1188,11 +1142,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb0703": {
     "study": "soep-base",
@@ -1207,11 +1162,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb08": {
     "study": "soep-base",
@@ -1250,11 +1206,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb09": {
     "study": "soep-base",
@@ -1293,11 +1250,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb10": {
     "study": "soep-base",
@@ -1336,11 +1294,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb11": {
     "study": "soep-base",
@@ -1379,11 +1338,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb12": {
     "study": "soep-base",
@@ -1398,11 +1358,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb13": {
     "study": "soep-base",
@@ -1441,11 +1402,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1401": {
     "study": "soep-base",
@@ -1480,11 +1442,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1402": {
     "study": "soep-base",
@@ -1519,11 +1482,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1403": {
     "study": "soep-base",
@@ -1558,11 +1522,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1404": {
     "study": "soep-base",
@@ -1597,11 +1562,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1405": {
     "study": "soep-base",
@@ -1636,11 +1602,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1406": {
     "study": "soep-base",
@@ -1675,11 +1642,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1407": {
     "study": "soep-base",
@@ -1714,11 +1682,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1408": {
     "study": "soep-base",
@@ -1753,11 +1722,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1501": {
     "study": "soep-base",
@@ -1800,11 +1770,12 @@
         "3"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1502": {
     "study": "soep-base",
@@ -1851,11 +1822,12 @@
         "4"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1503": {
     "study": "soep-base",
@@ -1902,11 +1874,12 @@
         "4"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1504": {
     "study": "soep-base",
@@ -1953,11 +1926,12 @@
         "4"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb16": {
     "study": "soep-base",
@@ -2005,16 +1979,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1701": {
     "study": "soep-base",
@@ -2062,16 +2034,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1702": {
     "study": "soep-base",
@@ -2115,16 +2085,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1801": {
     "study": "soep-base",
@@ -2164,16 +2132,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1802": {
     "study": "soep-base",
@@ -2189,30 +2155,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "0",
-        "1",
-        "1",
-        "1.382",
-        "2",
-        "5",
-        "108",
-        "102",
-        "108"
-      ]
+      "Min.": "0",
+      "1st Qu.": "1",
+      "Median": "1",
+      "Mean": "1.382",
+      "3rd Qu.": "2",
+      "Max.": "5",
+      "NA's": "108",
+      "valid": "102",
+      "invalid": "108"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1803": {
     "study": "soep-base",
@@ -2228,30 +2185,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "0",
-        "1",
-        "1",
-        "1.552",
-        "2",
-        "8",
-        "94",
-        "116",
-        "94"
-      ]
+      "Min.": "0",
+      "1st Qu.": "1",
+      "Median": "1",
+      "Mean": "1.552",
+      "3rd Qu.": "2",
+      "Max.": "8",
+      "NA's": "94",
+      "valid": "116",
+      "invalid": "94"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1804": {
     "study": "soep-base",
@@ -2295,16 +2243,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "156",
-        "54"
-      ]
+      "valid": "156",
+      "invalid": "54"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1805": {
     "study": "soep-base",
@@ -2319,11 +2265,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1901": {
     "study": "soep-base",
@@ -2339,30 +2286,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "11",
-        "15",
-        "12.5",
-        "15",
-        "15",
-        "27",
-        "183",
-        "27"
-      ]
+      "Min.": "1",
+      "1st Qu.": "11",
+      "Median": "15",
+      "Mean": "12.5",
+      "3rd Qu.": "15",
+      "Max.": "15",
+      "NA's": "27",
+      "valid": "183",
+      "invalid": "27"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1902": {
     "study": "soep-base",
@@ -2378,30 +2316,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "5",
-        "8",
-        "8.574",
-        "13",
-        "15",
-        "149",
-        "61",
-        "149"
-      ]
+      "Min.": "1",
+      "1st Qu.": "5",
+      "Median": "8",
+      "Mean": "8.574",
+      "3rd Qu.": "13",
+      "Max.": "15",
+      "NA's": "149",
+      "valid": "61",
+      "invalid": "149"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1903": {
     "study": "soep-base",
@@ -2417,30 +2346,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "4",
-        "4",
-        "6.808",
-        "11.75",
-        "15",
-        "184",
-        "26",
-        "184"
-      ]
+      "Min.": "1",
+      "1st Qu.": "4",
+      "Median": "4",
+      "Mean": "6.808",
+      "3rd Qu.": "11.75",
+      "Max.": "15",
+      "NA's": "184",
+      "valid": "26",
+      "invalid": "184"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1904": {
     "study": "soep-base",
@@ -2456,30 +2376,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "3",
-        "3.8",
-        "6",
-        "8",
-        "205",
-        "5",
-        "205"
-      ]
+      "Min.": "1",
+      "1st Qu.": "1",
+      "Median": "3",
+      "Mean": "3.8",
+      "3rd Qu.": "6",
+      "Max.": "8",
+      "NA's": "205",
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1905": {
     "study": "soep-base",
@@ -2495,30 +2406,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "4",
-        "3.2",
-        "5",
-        "5",
-        "205",
-        "5",
-        "205"
-      ]
+      "Min.": "1",
+      "1st Qu.": "1",
+      "Median": "4",
+      "Mean": "3.2",
+      "3rd Qu.": "5",
+      "Max.": "5",
+      "NA's": "205",
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1906": {
     "study": "soep-base",
@@ -2534,30 +2436,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "2.5",
-        "4",
-        "6.182",
-        "10.5",
-        "15",
-        "199",
-        "11",
-        "199"
-      ]
+      "Min.": "1",
+      "1st Qu.": "2.5",
+      "Median": "4",
+      "Mean": "6.182",
+      "3rd Qu.": "10.5",
+      "Max.": "15",
+      "NA's": "199",
+      "valid": "11",
+      "invalid": "199"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1907": {
     "study": "soep-base",
@@ -2573,30 +2466,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "5.5",
-        "6",
-        "8.667",
-        "10.5",
-        "15",
-        "207",
-        "3",
-        "207"
-      ]
+      "Min.": "5",
+      "1st Qu.": "5.5",
+      "Median": "6",
+      "Mean": "8.667",
+      "3rd Qu.": "10.5",
+      "Max.": "15",
+      "NA's": "207",
+      "valid": "3",
+      "invalid": "207"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1908": {
     "study": "soep-base",
@@ -2612,30 +2496,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "2",
-        "9",
-        "6.8",
-        "9",
-        "13",
-        "205",
-        "5",
-        "205"
-      ]
+      "Min.": "1",
+      "1st Qu.": "2",
+      "Median": "9",
+      "Mean": "6.8",
+      "3rd Qu.": "9",
+      "Max.": "13",
+      "NA's": "205",
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb1909": {
     "study": "soep-base",
@@ -2650,11 +2525,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb20": {
     "study": "soep-base",
@@ -2702,16 +2578,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2101": {
     "study": "soep-base",
@@ -2759,16 +2633,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "58",
-        "152"
-      ]
+      "valid": "58",
+      "invalid": "152"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2102": {
     "study": "soep-base",
@@ -2816,16 +2688,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "66",
-        "144"
-      ]
+      "valid": "66",
+      "invalid": "144"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2103": {
     "study": "soep-base",
@@ -2841,30 +2711,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1935",
-        "1946",
-        "1971",
-        "1969",
-        "1985",
-        "2009",
-        "79",
-        "131",
-        "79"
-      ]
+      "Min.": "1935",
+      "1st Qu.": "1946",
+      "Median": "1971",
+      "Mean": "1969",
+      "3rd Qu.": "1985",
+      "Max.": "2009",
+      "NA's": "79",
+      "valid": "131",
+      "invalid": "79"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2104": {
     "study": "soep-base",
@@ -2880,30 +2741,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1927",
-        "1972",
-        "1987",
-        "1984",
-        "1996",
-        "2009",
-        "83",
-        "127",
-        "83"
-      ]
+      "Min.": "1927",
+      "1st Qu.": "1972",
+      "Median": "1987",
+      "Mean": "1984",
+      "3rd Qu.": "1996",
+      "Max.": "2009",
+      "NA's": "83",
+      "valid": "127",
+      "invalid": "83"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2205": {
     "study": "soep-base",
@@ -2919,30 +2771,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1885",
-        "1902",
-        "1908",
-        "1918",
-        "1943",
-        "1964",
-        "14",
-        "196",
-        "14"
-      ]
+      "Min.": "1885",
+      "1st Qu.": "1902",
+      "Median": "1908",
+      "Mean": "1918",
+      "3rd Qu.": "1943",
+      "Max.": "1964",
+      "NA's": "14",
+      "valid": "196",
+      "invalid": "14"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2206": {
     "study": "soep-base",
@@ -2958,30 +2801,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1887",
-        "1906",
-        "1912",
-        "1921",
-        "1946",
-        "1966",
-        "11",
-        "199",
-        "11"
-      ]
+      "Min.": "1887",
+      "1st Qu.": "1906",
+      "Median": "1912",
+      "Mean": "1921",
+      "3rd Qu.": "1946",
+      "Max.": "1966",
+      "NA's": "11",
+      "valid": "199",
+      "invalid": "11"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2301": {
     "study": "soep-base",
@@ -3021,16 +2855,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "194",
-        "16"
-      ]
+      "valid": "194",
+      "invalid": "16"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2302": {
     "study": "soep-base",
@@ -3070,16 +2902,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "192",
-        "18"
-      ]
+      "valid": "192",
+      "invalid": "18"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2304": {
     "study": "soep-base",
@@ -3763,16 +3593,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "10",
-        "200"
-      ]
+      "valid": "10",
+      "invalid": "200"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2306": {
     "study": "soep-base",
@@ -4456,16 +4284,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "9",
-        "201"
-      ]
+      "valid": "9",
+      "invalid": "201"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb23a01": {
     "study": "soep-base",
@@ -4505,16 +4331,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "204",
-        "6"
-      ]
+      "valid": "204",
+      "invalid": "6"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb23a02": {
     "study": "soep-base",
@@ -4554,16 +4378,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "201",
-        "9"
-      ]
+      "valid": "201",
+      "invalid": "9"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2401": {
     "study": "soep-base",
@@ -4619,16 +4441,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "203",
-        "7"
-      ]
+      "valid": "203",
+      "invalid": "7"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2402": {
     "study": "soep-base",
@@ -4684,16 +4504,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "201",
-        "9"
-      ]
+      "valid": "201",
+      "invalid": "9"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2501": {
     "study": "soep-base",
@@ -4741,16 +4559,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "203",
-        "7"
-      ]
+      "valid": "203",
+      "invalid": "7"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2502": {
     "study": "soep-base",
@@ -4798,16 +4614,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "201",
-        "9"
-      ]
+      "valid": "201",
+      "invalid": "9"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2701": {
     "study": "soep-base",
@@ -4859,16 +4673,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "36",
-        "174"
-      ]
+      "valid": "36",
+      "invalid": "174"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2702": {
     "study": "soep-base",
@@ -4920,16 +4732,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "22",
-        "188"
-      ]
+      "valid": "22",
+      "invalid": "188"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2703": {
     "study": "soep-base",
@@ -4985,16 +4795,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "66",
-        "144"
-      ]
+      "valid": "66",
+      "invalid": "144"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2704": {
     "study": "soep-base",
@@ -5050,16 +4858,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "76",
-        "134"
-      ]
+      "valid": "76",
+      "invalid": "134"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2705": {
     "study": "soep-base",
@@ -5107,16 +4913,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "22",
-        "188"
-      ]
+      "valid": "22",
+      "invalid": "188"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2706": {
     "study": "soep-base",
@@ -5164,16 +4968,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "8",
-        "202"
-      ]
+      "valid": "8",
+      "invalid": "202"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2707": {
     "study": "soep-base",
@@ -5233,16 +5035,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "28",
-        "182"
-      ]
+      "valid": "28",
+      "invalid": "182"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2708": {
     "study": "soep-base",
@@ -5302,16 +5102,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "16",
-        "194"
-      ]
+      "valid": "16",
+      "invalid": "194"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2709": {
     "study": "soep-base",
@@ -5351,16 +5149,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "40",
-        "170"
-      ]
+      "valid": "40",
+      "invalid": "170"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2710": {
     "study": "soep-base",
@@ -5400,16 +5196,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "75",
-        "135"
-      ]
+      "valid": "75",
+      "invalid": "135"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2801": {
     "study": "soep-base",
@@ -5465,16 +5259,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "194",
-        "16"
-      ]
+      "valid": "194",
+      "invalid": "16"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb2802": {
     "study": "soep-base",
@@ -5530,16 +5322,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "198",
-        "12"
-      ]
+      "valid": "198",
+      "invalid": "12"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb29": {
     "study": "soep-base",
@@ -5587,16 +5377,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "208",
-        "2"
-      ]
+      "valid": "208",
+      "invalid": "2"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3001": {
     "study": "soep-base",
@@ -5656,16 +5444,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "209",
-        "1"
-      ]
+      "valid": "209",
+      "invalid": "1"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3002": {
     "study": "soep-base",
@@ -5725,16 +5511,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "209",
-        "1"
-      ]
+      "valid": "209",
+      "invalid": "1"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3003": {
     "study": "soep-base",
@@ -5794,16 +5578,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "207",
-        "3"
-      ]
+      "valid": "207",
+      "invalid": "3"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3101": {
     "study": "soep-base",
@@ -5859,16 +5641,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "205",
-        "5"
-      ]
+      "valid": "205",
+      "invalid": "5"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3102": {
     "study": "soep-base",
@@ -5924,16 +5704,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "208",
-        "2"
-      ]
+      "valid": "208",
+      "invalid": "2"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb32": {
     "study": "soep-base",
@@ -5973,16 +5751,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb33": {
     "study": "soep-base",
@@ -6022,16 +5798,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb34": {
     "study": "soep-base",
@@ -6203,16 +5977,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "114",
-        "96"
-      ]
+      "valid": "114",
+      "invalid": "96"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb35": {
     "study": "soep-base",
@@ -6252,16 +6024,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "120",
-        "90"
-      ]
+      "valid": "120",
+      "invalid": "90"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3601": {
     "study": "soep-base",
@@ -6277,28 +6047,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1929",
-        "1950",
-        "1955",
-        "1966",
-        "1993",
-        "2003",
-        "210",
-        "0"
-      ]
+      "Min.": "1929",
+      "1st Qu.": "1950",
+      "Median": "1955",
+      "Mean": "1966",
+      "3rd Qu.": "1993",
+      "Max.": "2003",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3602": {
     "study": "soep-base",
@@ -6314,28 +6076,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1934",
-        "1955",
-        "1960",
-        "1971",
-        "1998",
-        "2008",
-        "210",
-        "0"
-      ]
+      "Min.": "1934",
+      "1st Qu.": "1955",
+      "Median": "1960",
+      "Mean": "1971",
+      "3rd Qu.": "1998",
+      "Max.": "2008",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3603": {
     "study": "soep-base",
@@ -6351,30 +6105,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1939",
-        "1960",
-        "1964",
-        "1975",
-        "2002",
-        "2009",
-        "6",
-        "204",
-        "6"
-      ]
+      "Min.": "1939",
+      "1st Qu.": "1960",
+      "Median": "1964",
+      "Mean": "1975",
+      "3rd Qu.": "2002",
+      "Max.": "2009",
+      "NA's": "6",
+      "valid": "204",
+      "invalid": "6"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3604": {
     "study": "soep-base",
@@ -6390,30 +6135,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1944",
-        "1964",
-        "1968",
-        "1974",
-        "1971",
-        "2009",
-        "38",
-        "172",
-        "38"
-      ]
+      "Min.": "1944",
+      "1st Qu.": "1964",
+      "Median": "1968",
+      "Mean": "1974",
+      "3rd Qu.": "1971",
+      "Max.": "2009",
+      "NA's": "38",
+      "valid": "172",
+      "invalid": "38"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3605": {
     "study": "soep-base",
@@ -6429,30 +6165,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1949",
-        "1968",
-        "1972",
-        "1972",
-        "1975",
-        "2007",
-        "65",
-        "145",
-        "65"
-      ]
+      "Min.": "1949",
+      "1st Qu.": "1968",
+      "Median": "1972",
+      "Mean": "1972",
+      "3rd Qu.": "1975",
+      "Max.": "2007",
+      "NA's": "65",
+      "valid": "145",
+      "invalid": "65"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3606": {
     "study": "soep-base",
@@ -6468,30 +6195,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1954",
-        "1973",
-        "1977",
-        "1977",
-        "1980",
-        "2007",
-        "66",
-        "144",
-        "66"
-      ]
+      "Min.": "1954",
+      "1st Qu.": "1973",
+      "Median": "1977",
+      "Mean": "1977",
+      "3rd Qu.": "1980",
+      "Max.": "2007",
+      "NA's": "66",
+      "valid": "144",
+      "invalid": "66"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3607": {
     "study": "soep-base",
@@ -6507,30 +6225,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1959",
-        "1978",
-        "1982",
-        "1982",
-        "1985",
-        "2008",
-        "67",
-        "143",
-        "67"
-      ]
+      "Min.": "1959",
+      "1st Qu.": "1978",
+      "Median": "1982",
+      "Mean": "1982",
+      "3rd Qu.": "1985",
+      "Max.": "2008",
+      "NA's": "67",
+      "valid": "143",
+      "invalid": "67"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3608": {
     "study": "soep-base",
@@ -6546,30 +6255,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1964",
-        "1983",
-        "1987",
-        "1986",
-        "1990",
-        "2008",
-        "70",
-        "140",
-        "70"
-      ]
+      "Min.": "1964",
+      "1st Qu.": "1983",
+      "Median": "1987",
+      "Mean": "1986",
+      "3rd Qu.": "1990",
+      "Max.": "2008",
+      "NA's": "70",
+      "valid": "140",
+      "invalid": "70"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3609": {
     "study": "soep-base",
@@ -6585,30 +6285,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1969",
-        "1988",
-        "1992",
-        "1991",
-        "1995",
-        "2006",
-        "72",
-        "138",
-        "72"
-      ]
+      "Min.": "1969",
+      "1st Qu.": "1988",
+      "Median": "1992",
+      "Mean": "1991",
+      "3rd Qu.": "1995",
+      "Max.": "2006",
+      "NA's": "72",
+      "valid": "138",
+      "invalid": "72"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3610": {
     "study": "soep-base",
@@ -6624,30 +6315,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1974",
-        "1993",
-        "1996",
-        "1996",
-        "1999",
-        "2009",
-        "74",
-        "136",
-        "74"
-      ]
+      "Min.": "1974",
+      "1st Qu.": "1993",
+      "Median": "1996",
+      "Mean": "1996",
+      "3rd Qu.": "1999",
+      "Max.": "2009",
+      "NA's": "74",
+      "valid": "136",
+      "invalid": "74"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3611": {
     "study": "soep-base",
@@ -6663,30 +6345,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1979",
-        "1997",
-        "2001",
-        "2000",
-        "2004",
-        "2009",
-        "79",
-        "131",
-        "79"
-      ]
+      "Min.": "1979",
+      "1st Qu.": "1997",
+      "Median": "2001",
+      "Mean": "2000",
+      "3rd Qu.": "2004",
+      "Max.": "2009",
+      "NA's": "79",
+      "valid": "131",
+      "invalid": "79"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3612": {
     "study": "soep-base",
@@ -6702,16 +6375,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3613": {
     "study": "soep-base",
@@ -6727,16 +6398,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3614": {
     "study": "soep-base",
@@ -6752,16 +6421,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3615": {
     "study": "soep-base",
@@ -6777,16 +6444,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3616": {
     "study": "soep-base",
@@ -6802,16 +6467,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3617": {
     "study": "soep-base",
@@ -6827,16 +6490,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3618": {
     "study": "soep-base",
@@ -6852,16 +6513,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3619": {
     "study": "soep-base",
@@ -6877,16 +6536,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3620": {
     "study": "soep-base",
@@ -6902,16 +6559,14 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3701": {
     "study": "soep-base",
@@ -6927,28 +6582,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1928",
-        "1952",
-        "1956",
-        "1969",
-        "1998",
-        "2007",
-        "210",
-        "0"
-      ]
+      "Min.": "1928",
+      "1st Qu.": "1952",
+      "Median": "1956",
+      "Mean": "1969",
+      "3rd Qu.": "1998",
+      "Max.": "2007",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb3702": {
     "study": "soep-base",
@@ -6983,11 +6630,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb38": {
     "study": "soep-base",
@@ -7031,16 +6679,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "209",
-        "1"
-      ]
+      "valid": "209",
+      "invalid": "1"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb39": {
     "study": "soep-base",
@@ -7056,30 +6702,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "10",
-        "11",
-        "12",
-        "11.4",
-        "12",
-        "12",
-        "205",
-        "5",
-        "205"
-      ]
+      "Min.": "10",
+      "1st Qu.": "11",
+      "Median": "12",
+      "Mean": "11.4",
+      "3rd Qu.": "12",
+      "Max.": "12",
+      "NA's": "205",
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb40": {
     "study": "soep-base",
@@ -7123,16 +6760,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "205"
-      ]
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb41": {
     "study": "soep-base",
@@ -7240,16 +6875,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "146",
-        "64"
-      ]
+      "valid": "146",
+      "invalid": "64"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb42": {
     "study": "soep-base",
@@ -7305,16 +6938,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "204",
-        "6"
-      ]
+      "valid": "204",
+      "invalid": "6"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb43": {
     "study": "soep-base",
@@ -7370,16 +7001,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "203",
-        "7"
-      ]
+      "valid": "203",
+      "invalid": "7"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb44": {
     "study": "soep-base",
@@ -7423,16 +7052,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb45": {
     "study": "soep-base",
@@ -7480,16 +7107,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "205"
-      ]
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb46": {
     "study": "soep-base",
@@ -7529,16 +7154,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb4701": {
     "study": "soep-base",
@@ -7574,16 +7197,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "65",
-        "145"
-      ]
+      "valid": "65",
+      "invalid": "145"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb4703": {
     "study": "soep-base",
@@ -7619,16 +7240,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "24",
-        "186"
-      ]
+      "valid": "24",
+      "invalid": "186"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb4705": {
     "study": "soep-base",
@@ -7664,16 +7283,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "19",
-        "191"
-      ]
+      "valid": "19",
+      "invalid": "191"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb4707": {
     "study": "soep-base",
@@ -7709,16 +7326,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3",
-        "207"
-      ]
+      "valid": "3",
+      "invalid": "207"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb4709": {
     "study": "soep-base",
@@ -7754,16 +7369,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "24",
-        "186"
-      ]
+      "valid": "24",
+      "invalid": "186"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb4711": {
     "study": "soep-base",
@@ -7799,16 +7412,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "63",
-        "147"
-      ]
+      "valid": "63",
+      "invalid": "147"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb4713": {
     "study": "soep-base",
@@ -7844,16 +7455,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "208"
-      ]
+      "valid": "2",
+      "invalid": "208"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb4715": {
     "study": "soep-base",
@@ -7868,11 +7477,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb48": {
     "study": "soep-base",
@@ -7888,30 +7498,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1931",
-        "1958",
-        "1968",
-        "1973",
-        "1985",
-        "2009",
-        "58",
-        "152",
-        "58"
-      ]
+      "Min.": "1931",
+      "1st Qu.": "1958",
+      "Median": "1968",
+      "Mean": "1973",
+      "3rd Qu.": "1985",
+      "Max.": "2009",
+      "NA's": "58",
+      "valid": "152",
+      "invalid": "58"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb49": {
     "study": "soep-base",
@@ -7951,16 +7552,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5001": {
     "study": "soep-base",
@@ -7995,11 +7594,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5002": {
     "study": "soep-base",
@@ -8035,16 +7635,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "4",
-        "206"
-      ]
+      "valid": "4",
+      "invalid": "206"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5003": {
     "study": "soep-base",
@@ -8080,16 +7678,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "4",
-        "206"
-      ]
+      "valid": "4",
+      "invalid": "206"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5004": {
     "study": "soep-base",
@@ -8125,16 +7721,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "8",
-        "202"
-      ]
+      "valid": "8",
+      "invalid": "202"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5005": {
     "study": "soep-base",
@@ -8170,16 +7764,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "209"
-      ]
+      "valid": "1",
+      "invalid": "209"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5006": {
     "study": "soep-base",
@@ -8194,11 +7786,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb51": {
     "study": "soep-base",
@@ -8214,30 +7807,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1952",
-        "1958",
-        "1968",
-        "1975",
-        "2001",
-        "2009",
-        "194",
-        "16",
-        "194"
-      ]
+      "Min.": "1952",
+      "1st Qu.": "1958",
+      "Median": "1968",
+      "Mean": "1975",
+      "3rd Qu.": "2001",
+      "Max.": "2009",
+      "NA's": "194",
+      "valid": "16",
+      "invalid": "194"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5201": {
     "study": "soep-base",
@@ -8277,16 +7861,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "16",
-        "194"
-      ]
+      "valid": "16",
+      "invalid": "194"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5202": {
     "study": "soep-base",
@@ -8326,16 +7908,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "14",
-        "196"
-      ]
+      "valid": "14",
+      "invalid": "196"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb53": {
     "study": "soep-base",
@@ -8379,16 +7959,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "209",
-        "1"
-      ]
+      "valid": "209",
+      "invalid": "1"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5401": {
     "study": "soep-base",
@@ -8424,16 +8002,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "208"
-      ]
+      "valid": "2",
+      "invalid": "208"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5402": {
     "study": "soep-base",
@@ -8469,16 +8045,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "208"
-      ]
+      "valid": "2",
+      "invalid": "208"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5403": {
     "study": "soep-base",
@@ -8514,16 +8088,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "209"
-      ]
+      "valid": "1",
+      "invalid": "209"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5404": {
     "study": "soep-base",
@@ -8559,16 +8131,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "209"
-      ]
+      "valid": "1",
+      "invalid": "209"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5405": {
     "study": "soep-base",
@@ -8604,16 +8174,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "208"
-      ]
+      "valid": "2",
+      "invalid": "208"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5406": {
     "study": "soep-base",
@@ -8649,16 +8217,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "208"
-      ]
+      "valid": "2",
+      "invalid": "208"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5407": {
     "study": "soep-base",
@@ -8694,16 +8260,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "46",
-        "164"
-      ]
+      "valid": "46",
+      "invalid": "164"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5408": {
     "study": "soep-base",
@@ -8718,11 +8282,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5501": {
     "study": "soep-base",
@@ -8738,30 +8303,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "14",
-        "18",
-        "20",
-        "20.95",
-        "23",
-        "33",
-        "10",
-        "200",
-        "10"
-      ]
+      "Min.": "14",
+      "1st Qu.": "18",
+      "Median": "20",
+      "Mean": "20.95",
+      "3rd Qu.": "23",
+      "Max.": "33",
+      "NA's": "10",
+      "valid": "200",
+      "invalid": "10"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5502": {
     "study": "soep-base",
@@ -8797,16 +8353,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "10",
-        "200"
-      ]
+      "valid": "10",
+      "invalid": "200"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb56": {
     "study": "soep-base",
@@ -8846,16 +8400,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "198",
-        "12"
-      ]
+      "valid": "198",
+      "invalid": "12"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5701": {
     "study": "soep-base",
@@ -8899,16 +8451,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "40",
-        "170"
-      ]
+      "valid": "40",
+      "invalid": "170"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5702": {
     "study": "soep-base",
@@ -8951,11 +8501,12 @@
         "3"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5703": {
     "study": "soep-base",
@@ -8999,16 +8550,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "208"
-      ]
+      "valid": "2",
+      "invalid": "208"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5704": {
     "study": "soep-base",
@@ -9052,16 +8601,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3",
-        "207"
-      ]
+      "valid": "3",
+      "invalid": "207"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5705": {
     "study": "soep-base",
@@ -9096,11 +8643,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5706": {
     "study": "soep-base",
@@ -9148,16 +8696,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "136",
-        "74"
-      ]
+      "valid": "136",
+      "invalid": "74"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5707": {
     "study": "soep-base",
@@ -9205,16 +8751,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "4",
-        "206"
-      ]
+      "valid": "4",
+      "invalid": "206"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb5708": {
     "study": "soep-base",
@@ -9229,11 +8773,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb59": {
     "study": "soep-base",
@@ -9281,16 +8826,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "187",
-        "23"
-      ]
+      "valid": "187",
+      "invalid": "23"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb60a": {
     "study": "soep-base",
@@ -9330,16 +8873,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "186",
-        "24"
-      ]
+      "valid": "186",
+      "invalid": "24"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6101": {
     "study": "soep-base",
@@ -9383,16 +8924,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "186",
-        "24"
-      ]
+      "valid": "186",
+      "invalid": "24"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6102": {
     "study": "soep-base",
@@ -9408,30 +8947,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1945",
-        "1970",
-        "1986",
-        "1984",
-        "2003",
-        "2009",
-        "98",
-        "112",
-        "98"
-      ]
+      "Min.": "1945",
+      "1st Qu.": "1970",
+      "Median": "1986",
+      "Mean": "1984",
+      "3rd Qu.": "2003",
+      "Max.": "2009",
+      "NA's": "98",
+      "valid": "112",
+      "invalid": "98"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb62": {
     "study": "soep-base",
@@ -9471,16 +9001,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "187",
-        "23"
-      ]
+      "valid": "187",
+      "invalid": "23"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb63": {
     "study": "soep-base",
@@ -9496,30 +9024,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1955",
-        "1991",
-        "1997",
-        "1995",
-        "2002",
-        "2009",
-        "73",
-        "137",
-        "73"
-      ]
+      "Min.": "1955",
+      "1st Qu.": "1991",
+      "Median": "1997",
+      "Mean": "1995",
+      "3rd Qu.": "2002",
+      "Max.": "2009",
+      "NA's": "73",
+      "valid": "137",
+      "invalid": "73"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb64": {
     "study": "soep-base",
@@ -9563,16 +9082,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "135",
-        "75"
-      ]
+      "valid": "135",
+      "invalid": "75"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb65": {
     "study": "soep-base",
@@ -9612,16 +9129,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "137",
-        "73"
-      ]
+      "valid": "137",
+      "invalid": "73"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6701": {
     "study": "soep-base",
@@ -9673,16 +9188,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "205"
-      ]
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6702": {
     "study": "soep-base",
@@ -9725,11 +9238,12 @@
         "3"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6703": {
     "study": "soep-base",
@@ -9773,16 +9287,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6",
-        "204"
-      ]
+      "valid": "6",
+      "invalid": "204"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6704": {
     "study": "soep-base",
@@ -9826,16 +9338,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "8",
-        "202"
-      ]
+      "valid": "8",
+      "invalid": "202"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6705": {
     "study": "soep-base",
@@ -9870,11 +9380,12 @@
         "1"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6706": {
     "study": "soep-base",
@@ -9913,11 +9424,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6707": {
     "study": "soep-base",
@@ -9973,16 +9485,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "110",
-        "100"
-      ]
+      "valid": "110",
+      "invalid": "100"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6708": {
     "study": "soep-base",
@@ -10030,16 +9540,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "8",
-        "202"
-      ]
+      "valid": "8",
+      "invalid": "202"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6709": {
     "study": "soep-base",
@@ -10054,11 +9562,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb68": {
     "study": "soep-base",
@@ -10074,28 +9583,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1940",
-        "1985",
-        "2000",
-        "1994",
-        "2006",
-        "2009",
-        "210",
-        "0"
-      ]
+      "Min.": "1940",
+      "1st Qu.": "1985",
+      "Median": "2000",
+      "Mean": "1994",
+      "3rd Qu.": "2006",
+      "Max.": "2009",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6901": {
     "study": "soep-base",
@@ -10135,16 +9636,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "209",
-        "1"
-      ]
+      "valid": "209",
+      "invalid": "1"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6902": {
     "study": "soep-base",
@@ -10188,16 +9687,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "205"
-      ]
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6903": {
     "study": "soep-base",
@@ -10241,16 +9738,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "205"
-      ]
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb6904": {
     "study": "soep-base",
@@ -10294,16 +9789,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "205"
-      ]
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7001": {
     "study": "soep-base",
@@ -10319,30 +9812,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "2",
-        "2.159",
-        "3",
-        "5",
-        "78",
-        "132",
-        "78"
-      ]
+      "Min.": "1",
+      "1st Qu.": "1",
+      "Median": "2",
+      "Mean": "2.159",
+      "3rd Qu.": "3",
+      "Max.": "5",
+      "NA's": "78",
+      "valid": "132",
+      "invalid": "78"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7002": {
     "study": "soep-base",
@@ -10378,16 +9862,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "78",
-        "132"
-      ]
+      "valid": "78",
+      "invalid": "132"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7003": {
     "study": "soep-base",
@@ -10403,30 +9885,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1949",
-        "1959",
-        "1964",
-        "1967",
-        "1968",
-        "2009",
-        "78",
-        "132",
-        "78"
-      ]
+      "Min.": "1949",
+      "1st Qu.": "1959",
+      "Median": "1964",
+      "Mean": "1967",
+      "3rd Qu.": "1968",
+      "Max.": "2009",
+      "NA's": "78",
+      "valid": "132",
+      "invalid": "78"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7004": {
     "study": "soep-base",
@@ -10466,16 +9939,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "132",
-        "78"
-      ]
+      "valid": "132",
+      "invalid": "78"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7005": {
     "study": "soep-base",
@@ -10531,16 +10002,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "132",
-        "78"
-      ]
+      "valid": "132",
+      "invalid": "78"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7006": {
     "study": "soep-base",
@@ -10556,30 +10025,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1951",
-        "1962",
-        "1967",
-        "1968",
-        "1970",
-        "2009",
-        "117",
-        "93",
-        "117"
-      ]
+      "Min.": "1951",
+      "1st Qu.": "1962",
+      "Median": "1967",
+      "Mean": "1968",
+      "3rd Qu.": "1970",
+      "Max.": "2009",
+      "NA's": "117",
+      "valid": "93",
+      "invalid": "117"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7007": {
     "study": "soep-base",
@@ -10619,16 +10079,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "93",
-        "117"
-      ]
+      "valid": "93",
+      "invalid": "117"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7008": {
     "study": "soep-base",
@@ -10684,16 +10142,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "93",
-        "117"
-      ]
+      "valid": "93",
+      "invalid": "117"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7009": {
     "study": "soep-base",
@@ -10709,30 +10165,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1956",
-        "1963",
-        "1967",
-        "1970",
-        "1973",
-        "2009",
-        "170",
-        "40",
-        "170"
-      ]
+      "Min.": "1956",
+      "1st Qu.": "1963",
+      "Median": "1967",
+      "Mean": "1970",
+      "3rd Qu.": "1973",
+      "Max.": "2009",
+      "NA's": "170",
+      "valid": "40",
+      "invalid": "170"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7010": {
     "study": "soep-base",
@@ -10772,16 +10219,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "40",
-        "170"
-      ]
+      "valid": "40",
+      "invalid": "170"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7011": {
     "study": "soep-base",
@@ -10837,16 +10282,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "40",
-        "170"
-      ]
+      "valid": "40",
+      "invalid": "170"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7012": {
     "study": "soep-base",
@@ -10862,30 +10305,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1961",
-        "1963",
-        "1967",
-        "1969",
-        "1971",
-        "1988",
-        "193",
-        "17",
-        "193"
-      ]
+      "Min.": "1961",
+      "1st Qu.": "1963",
+      "Median": "1967",
+      "Mean": "1969",
+      "3rd Qu.": "1971",
+      "Max.": "1988",
+      "NA's": "193",
+      "valid": "17",
+      "invalid": "193"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7013": {
     "study": "soep-base",
@@ -10925,16 +10359,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "17",
-        "193"
-      ]
+      "valid": "17",
+      "invalid": "193"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7014": {
     "study": "soep-base",
@@ -10990,16 +10422,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "17",
-        "193"
-      ]
+      "valid": "17",
+      "invalid": "193"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7015": {
     "study": "soep-base",
@@ -11015,30 +10445,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1964",
-        "1965",
-        "1966",
-        "1971",
-        "1974",
-        "1983",
-        "207",
-        "3",
-        "207"
-      ]
+      "Min.": "1964",
+      "1st Qu.": "1965",
+      "Median": "1966",
+      "Mean": "1971",
+      "3rd Qu.": "1974",
+      "Max.": "1983",
+      "NA's": "207",
+      "valid": "3",
+      "invalid": "207"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7016": {
     "study": "soep-base",
@@ -11078,16 +10499,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3",
-        "207"
-      ]
+      "valid": "3",
+      "invalid": "207"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7017": {
     "study": "soep-base",
@@ -11143,16 +10562,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3",
-        "207"
-      ]
+      "valid": "3",
+      "invalid": "207"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7018": {
     "study": "soep-base",
@@ -11167,11 +10584,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7019": {
     "study": "soep-base",
@@ -11210,11 +10628,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7020": {
     "study": "soep-base",
@@ -11269,11 +10688,12 @@
         "6"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7021": {
     "study": "soep-base",
@@ -11288,11 +10708,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7022": {
     "study": "soep-base",
@@ -11331,11 +10752,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7023": {
     "study": "soep-base",
@@ -11390,11 +10812,12 @@
         "6"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7024": {
     "study": "soep-base",
@@ -11409,11 +10832,12 @@
       "missings": [],
       "values": []
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7025": {
     "study": "soep-base",
@@ -11452,11 +10876,12 @@
         "2"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7026": {
     "study": "soep-base",
@@ -11511,11 +10936,12 @@
         "6"
       ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": ""
+    "statistics": {},
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb71": {
     "study": "soep-base",
@@ -11555,16 +10981,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7201": {
     "study": "soep-base",
@@ -11580,30 +11004,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1947",
-        "1957",
-        "1962",
-        "1965",
-        "1967",
-        "2009",
-        "73",
-        "137",
-        "73"
-      ]
+      "Min.": "1947",
+      "1st Qu.": "1957",
+      "Median": "1962",
+      "Mean": "1965",
+      "3rd Qu.": "1967",
+      "Max.": "2009",
+      "NA's": "73",
+      "valid": "137",
+      "invalid": "73"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7202": {
     "study": "soep-base",
@@ -11647,16 +11062,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "138",
-        "72"
-      ]
+      "valid": "138",
+      "invalid": "72"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7203": {
     "study": "soep-base",
@@ -11672,30 +11085,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1953",
-        "1969",
-        "1975",
-        "1978",
-        "1987",
-        "2008",
-        "141",
-        "69",
-        "141"
-      ]
+      "Min.": "1953",
+      "1st Qu.": "1969",
+      "Median": "1975",
+      "Mean": "1978",
+      "3rd Qu.": "1987",
+      "Max.": "2008",
+      "NA's": "141",
+      "valid": "69",
+      "invalid": "141"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7204": {
     "study": "soep-base",
@@ -11711,30 +11115,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1961",
-        "1969",
-        "1976",
-        "1978",
-        "1987",
-        "2003",
-        "172",
-        "38",
-        "172"
-      ]
+      "Min.": "1961",
+      "1st Qu.": "1969",
+      "Median": "1976",
+      "Mean": "1978",
+      "3rd Qu.": "1987",
+      "Max.": "2003",
+      "NA's": "172",
+      "valid": "38",
+      "invalid": "172"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7205": {
     "study": "soep-base",
@@ -11778,16 +11173,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "38",
-        "172"
-      ]
+      "valid": "38",
+      "invalid": "172"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7206": {
     "study": "soep-base",
@@ -11803,30 +11196,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1967",
-        "1974",
-        "1982",
-        "1984",
-        "1997",
-        "2000",
-        "192",
-        "18",
-        "192"
-      ]
+      "Min.": "1967",
+      "1st Qu.": "1974",
+      "Median": "1982",
+      "Mean": "1984",
+      "3rd Qu.": "1997",
+      "Max.": "2000",
+      "NA's": "192",
+      "valid": "18",
+      "invalid": "192"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7207": {
     "study": "soep-base",
@@ -11842,30 +11226,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1972",
-        "1975",
-        "1981",
-        "1985",
-        "1993",
-        "2004",
-        "201",
-        "9",
-        "201"
-      ]
+      "Min.": "1972",
+      "1st Qu.": "1975",
+      "Median": "1981",
+      "Mean": "1985",
+      "3rd Qu.": "1993",
+      "Max.": "2004",
+      "NA's": "201",
+      "valid": "9",
+      "invalid": "201"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7208": {
     "study": "soep-base",
@@ -11909,16 +11284,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "9",
-        "201"
-      ]
+      "valid": "9",
+      "invalid": "201"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7209": {
     "study": "soep-base",
@@ -11934,30 +11307,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1974",
-        "1983",
-        "1985",
-        "1989",
-        "2000",
-        "2004",
-        "205",
-        "5",
-        "205"
-      ]
+      "Min.": "1974",
+      "1st Qu.": "1983",
+      "Median": "1985",
+      "Mean": "1989",
+      "3rd Qu.": "2000",
+      "Max.": "2004",
+      "NA's": "205",
+      "valid": "5",
+      "invalid": "205"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb73": {
     "study": "soep-base",
@@ -11997,16 +11361,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7401": {
     "study": "soep-base",
@@ -12046,16 +11408,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "94",
-        "116"
-      ]
+      "valid": "94",
+      "invalid": "116"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7402": {
     "study": "soep-base",
@@ -12103,16 +11463,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "40",
-        "170"
-      ]
+      "valid": "40",
+      "invalid": "170"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zb7403": {
     "study": "soep-base",
@@ -12160,16 +11518,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "47",
-        "163"
-      ]
+      "valid": "47",
+      "invalid": "163"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zbinta": {
     "study": "soep-base",
@@ -12241,16 +11597,14 @@
       ]
     },
     "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "210",
-        "0"
-      ]
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zbintc01": {
     "study": "soep-base",
@@ -12266,30 +11620,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "10",
-        "15",
-        "20",
-        "23.15",
-        "30",
-        "68",
-        "14",
-        "196",
-        "14"
-      ]
+      "Min.": "10",
+      "1st Qu.": "15",
+      "Median": "20",
+      "Mean": "23.15",
+      "3rd Qu.": "30",
+      "Max.": "68",
+      "NA's": "14",
+      "valid": "196",
+      "invalid": "14"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zbintc02": {
     "study": "soep-base",
@@ -12305,30 +11650,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "10",
-        "15",
-        "20",
-        "22.73",
-        "25",
-        "60",
-        "199",
-        "11",
-        "199"
-      ]
+      "Min.": "10",
+      "1st Qu.": "15",
+      "Median": "20",
+      "Mean": "22.73",
+      "3rd Qu.": "25",
+      "Max.": "60",
+      "NA's": "199",
+      "valid": "11",
+      "invalid": "199"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zbtagin": {
     "study": "soep-base",
@@ -12344,28 +11680,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "7",
-        "16",
-        "15.99",
-        "25",
-        "30",
-        "210",
-        "0"
-      ]
+      "Min.": "1",
+      "1st Qu.": "7",
+      "Median": "16",
+      "Mean": "15.99",
+      "3rd Qu.": "25",
+      "Max.": "30",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zbmonin": {
     "study": "soep-base",
@@ -12381,28 +11709,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6",
-        "7",
-        "7",
-        "7.176",
-        "7",
-        "10",
-        "210",
-        "0"
-      ]
+      "Min.": "6",
+      "1st Qu.": "7",
+      "Median": "7",
+      "Mean": "7.176",
+      "3rd Qu.": "7",
+      "Max.": "10",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "zbintnr": {
     "study": "soep-base",
@@ -12418,30 +11738,21 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "11030",
-        "262500",
-        "287100",
-        "245500",
-        "306700",
-        "316300",
-        "2",
-        "208",
-        "2"
-      ]
+      "Min.": "11030",
+      "1st Qu.": "262500",
+      "Median": "287100",
+      "Mean": "245500",
+      "3rd Qu.": "306700",
+      "Max.": "316300",
+      "NA's": "2",
+      "valid": "208",
+      "invalid": "2"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "hhnr": {
     "study": "soep-base",
@@ -12457,28 +11768,20 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "630000",
-        "630500",
-        "631000",
-        "631000",
-        "631400",
-        "632100",
-        "210",
-        "0"
-      ]
+      "Min.": "630000",
+      "1st Qu.": "630500",
+      "Median": "631000",
+      "Mean": "631000",
+      "3rd Qu.": "631400",
+      "Max.": "632100",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   },
   "persnr": {
     "study": "soep-base",
@@ -12494,27 +11797,19 @@
       "values": []
     },
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6300000",
-        "6305000",
-        "6310000",
-        "6310000",
-        "6314000",
-        "6321000",
-        "210",
-        "0"
-      ]
+      "Min.": "6300000",
+      "1st Qu.": "6305000",
+      "Median": "6310000",
+      "Mean": "6310000",
+      "3rd Qu.": "6314000",
+      "Max.": "6321000",
+      "valid": "210",
+      "invalid": "0"
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "boost": "1",
+    "period": "2009"
   }
 }
