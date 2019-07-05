@@ -1,5 +1,5 @@
-{
-  "welle": {
+[
+  {
     "study": "soep-base",
     "name": "welle",
     "name_cs": "welle",
@@ -28,7 +28,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "sample1": {
+  {
     "study": "soep-base",
     "name": "sample1",
     "name_cs": "sample1",
@@ -63,7 +63,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "hhnrakt": {
+  {
     "study": "soep-base",
     "name": "hhnrakt",
     "name_cs": "hhnrakt",
@@ -92,7 +92,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "ypnr": {
+  {
     "study": "soep-base",
     "name": "ypnr",
     "name_cs": "ypnr",
@@ -143,7 +143,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0101": {
+  {
     "study": "soep-base",
     "name": "yp0101",
     "name_cs": "yp0101",
@@ -214,7 +214,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0102": {
+  {
     "study": "soep-base",
     "name": "yp0102",
     "name_cs": "yp0102",
@@ -285,7 +285,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0103": {
+  {
     "study": "soep-base",
     "name": "yp0103",
     "name_cs": "yp0103",
@@ -364,7 +364,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0104": {
+  {
     "study": "soep-base",
     "name": "yp0104",
     "name_cs": "yp0104",
@@ -439,7 +439,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0105": {
+  {
     "study": "soep-base",
     "name": "yp0105",
     "name_cs": "yp0105",
@@ -510,7 +510,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0106": {
+  {
     "study": "soep-base",
     "name": "yp0106",
     "name_cs": "yp0106",
@@ -585,7 +585,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0107": {
+  {
     "study": "soep-base",
     "name": "yp0107",
     "name_cs": "yp0107",
@@ -660,7 +660,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0108": {
+  {
     "study": "soep-base",
     "name": "yp0108",
     "name_cs": "yp0108",
@@ -731,7 +731,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0109": {
+  {
     "study": "soep-base",
     "name": "yp0109",
     "name_cs": "yp0109",
@@ -802,7 +802,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0110": {
+  {
     "study": "soep-base",
     "name": "yp0110",
     "name_cs": "yp0110",
@@ -877,7 +877,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0111": {
+  {
     "study": "soep-base",
     "name": "yp0111",
     "name_cs": "yp0111",
@@ -952,7 +952,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0201": {
+  {
     "study": "soep-base",
     "name": "yp0201",
     "name_cs": "yp0201",
@@ -999,7 +999,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0202": {
+  {
     "study": "soep-base",
     "name": "yp0202",
     "name_cs": "yp0202",
@@ -1046,7 +1046,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0203": {
+  {
     "study": "soep-base",
     "name": "yp0203",
     "name_cs": "yp0203",
@@ -1093,7 +1093,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0204": {
+  {
     "study": "soep-base",
     "name": "yp0204",
     "name_cs": "yp0204",
@@ -1140,7 +1140,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0301": {
+  {
     "study": "soep-base",
     "name": "yp0301",
     "name_cs": "yp0301",
@@ -1187,7 +1187,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0302": {
+  {
     "study": "soep-base",
     "name": "yp0302",
     "name_cs": "yp0302",
@@ -1230,7 +1230,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0303": {
+  {
     "study": "soep-base",
     "name": "yp0303",
     "name_cs": "yp0303",
@@ -1273,7 +1273,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp04": {
+  {
     "study": "soep-base",
     "name": "yp04",
     "name_cs": "yp04",
@@ -1312,7 +1312,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp05": {
+  {
     "study": "soep-base",
     "name": "yp05",
     "name_cs": "yp05",
@@ -1351,7 +1351,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp06": {
+  {
     "study": "soep-base",
     "name": "yp06",
     "name_cs": "yp06",
@@ -1381,7 +1381,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0701": {
+  {
     "study": "soep-base",
     "name": "yp0701",
     "name_cs": "yp0701",
@@ -1432,7 +1432,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0702": {
+  {
     "study": "soep-base",
     "name": "yp0702",
     "name_cs": "yp0702",
@@ -1483,7 +1483,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp0703": {
+  {
     "study": "soep-base",
     "name": "yp0703",
     "name_cs": "yp0703",
@@ -1534,7 +1534,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp08": {
+  {
     "study": "soep-base",
     "name": "yp08",
     "name_cs": "yp08",
@@ -1573,7 +1573,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp09": {
+  {
     "study": "soep-base",
     "name": "yp09",
     "name_cs": "yp09",
@@ -1644,7 +1644,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10": {
+  {
     "study": "soep-base",
     "name": "yp10",
     "name_cs": "yp10",
@@ -1715,7 +1715,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp11": {
+  {
     "study": "soep-base",
     "name": "yp11",
     "name_cs": "yp11",
@@ -1786,7 +1786,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1201": {
+  {
     "study": "soep-base",
     "name": "yp1201",
     "name_cs": "yp1201",
@@ -1816,7 +1816,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1202": {
+  {
     "study": "soep-base",
     "name": "yp1202",
     "name_cs": "yp1202",
@@ -1846,7 +1846,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1203": {
+  {
     "study": "soep-base",
     "name": "yp1203",
     "name_cs": "yp1203",
@@ -1875,7 +1875,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1204": {
+  {
     "study": "soep-base",
     "name": "yp1204",
     "name_cs": "yp1204",
@@ -1904,7 +1904,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1205": {
+  {
     "study": "soep-base",
     "name": "yp1205",
     "name_cs": "yp1205",
@@ -1934,7 +1934,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1206": {
+  {
     "study": "soep-base",
     "name": "yp1206",
     "name_cs": "yp1206",
@@ -1964,7 +1964,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1207": {
+  {
     "study": "soep-base",
     "name": "yp1207",
     "name_cs": "yp1207",
@@ -1994,7 +1994,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1208": {
+  {
     "study": "soep-base",
     "name": "yp1208",
     "name_cs": "yp1208",
@@ -2023,7 +2023,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1209": {
+  {
     "study": "soep-base",
     "name": "yp1209",
     "name_cs": "yp1209",
@@ -2043,7 +2043,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13": {
+  {
     "study": "soep-base",
     "name": "yp13",
     "name_cs": "yp13",
@@ -2078,7 +2078,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp14": {
+  {
     "study": "soep-base",
     "name": "yp14",
     "name_cs": "yp14",
@@ -2117,7 +2117,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15": {
+  {
     "study": "soep-base",
     "name": "yp15",
     "name_cs": "yp15",
@@ -2152,7 +2152,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp16": {
+  {
     "study": "soep-base",
     "name": "yp16",
     "name_cs": "yp16",
@@ -2187,7 +2187,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1701": {
+  {
     "study": "soep-base",
     "name": "yp1701",
     "name_cs": "yp1701",
@@ -2235,7 +2235,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1702": {
+  {
     "study": "soep-base",
     "name": "yp1702",
     "name_cs": "yp1702",
@@ -2278,7 +2278,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1703": {
+  {
     "study": "soep-base",
     "name": "yp1703",
     "name_cs": "yp1703",
@@ -2321,7 +2321,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1704": {
+  {
     "study": "soep-base",
     "name": "yp1704",
     "name_cs": "yp1704",
@@ -2372,7 +2372,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1705": {
+  {
     "study": "soep-base",
     "name": "yp1705",
     "name_cs": "yp1705",
@@ -2435,7 +2435,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1706": {
+  {
     "study": "soep-base",
     "name": "yp1706",
     "name_cs": "yp1706",
@@ -2455,7 +2455,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1801": {
+  {
     "study": "soep-base",
     "name": "yp1801",
     "name_cs": "yp1801",
@@ -2502,7 +2502,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1802": {
+  {
     "study": "soep-base",
     "name": "yp1802",
     "name_cs": "yp1802",
@@ -2549,7 +2549,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1803": {
+  {
     "study": "soep-base",
     "name": "yp1803",
     "name_cs": "yp1803",
@@ -2600,7 +2600,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1804": {
+  {
     "study": "soep-base",
     "name": "yp1804",
     "name_cs": "yp1804",
@@ -2647,7 +2647,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1805": {
+  {
     "study": "soep-base",
     "name": "yp1805",
     "name_cs": "yp1805",
@@ -2694,7 +2694,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1806": {
+  {
     "study": "soep-base",
     "name": "yp1806",
     "name_cs": "yp1806",
@@ -2741,7 +2741,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1807": {
+  {
     "study": "soep-base",
     "name": "yp1807",
     "name_cs": "yp1807",
@@ -2788,7 +2788,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1808": {
+  {
     "study": "soep-base",
     "name": "yp1808",
     "name_cs": "yp1808",
@@ -2835,7 +2835,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1809": {
+  {
     "study": "soep-base",
     "name": "yp1809",
     "name_cs": "yp1809",
@@ -2882,7 +2882,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1810": {
+  {
     "study": "soep-base",
     "name": "yp1810",
     "name_cs": "yp1810",
@@ -2929,7 +2929,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1811": {
+  {
     "study": "soep-base",
     "name": "yp1811",
     "name_cs": "yp1811",
@@ -2976,7 +2976,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1812": {
+  {
     "study": "soep-base",
     "name": "yp1812",
     "name_cs": "yp1812",
@@ -3023,7 +3023,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1813": {
+  {
     "study": "soep-base",
     "name": "yp1813",
     "name_cs": "yp1813",
@@ -3070,7 +3070,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1814": {
+  {
     "study": "soep-base",
     "name": "yp1814",
     "name_cs": "yp1814",
@@ -3121,7 +3121,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1815": {
+  {
     "study": "soep-base",
     "name": "yp1815",
     "name_cs": "yp1815",
@@ -3168,7 +3168,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1816": {
+  {
     "study": "soep-base",
     "name": "yp1816",
     "name_cs": "yp1816",
@@ -3215,7 +3215,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1817": {
+  {
     "study": "soep-base",
     "name": "yp1817",
     "name_cs": "yp1817",
@@ -3262,7 +3262,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp1818": {
+  {
     "study": "soep-base",
     "name": "yp1818",
     "name_cs": "yp1818",
@@ -3309,7 +3309,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp19": {
+  {
     "study": "soep-base",
     "name": "yp19",
     "name_cs": "yp19",
@@ -3372,7 +3372,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp20": {
+  {
     "study": "soep-base",
     "name": "yp20",
     "name_cs": "yp20",
@@ -3423,7 +3423,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp21": {
+  {
     "study": "soep-base",
     "name": "yp21",
     "name_cs": "yp21",
@@ -3474,7 +3474,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp22": {
+  {
     "study": "soep-base",
     "name": "yp22",
     "name_cs": "yp22",
@@ -3521,7 +3521,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp23": {
+  {
     "study": "soep-base",
     "name": "yp23",
     "name_cs": "yp23",
@@ -3572,7 +3572,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp2401": {
+  {
     "study": "soep-base",
     "name": "yp2401",
     "name_cs": "yp2401",
@@ -3602,7 +3602,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp2402": {
+  {
     "study": "soep-base",
     "name": "yp2402",
     "name_cs": "yp2402",
@@ -3641,7 +3641,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp25": {
+  {
     "study": "soep-base",
     "name": "yp25",
     "name_cs": "yp25",
@@ -3671,7 +3671,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp26": {
+  {
     "study": "soep-base",
     "name": "yp26",
     "name_cs": "yp26",
@@ -3710,7 +3710,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp27": {
+  {
     "study": "soep-base",
     "name": "yp27",
     "name_cs": "yp27",
@@ -3753,7 +3753,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp2801": {
+  {
     "study": "soep-base",
     "name": "yp2801",
     "name_cs": "yp2801",
@@ -3792,7 +3792,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp2802": {
+  {
     "study": "soep-base",
     "name": "yp2802",
     "name_cs": "yp2802",
@@ -3822,7 +3822,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp29": {
+  {
     "study": "soep-base",
     "name": "yp29",
     "name_cs": "yp29",
@@ -3865,7 +3865,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3001": {
+  {
     "study": "soep-base",
     "name": "yp3001",
     "name_cs": "yp3001",
@@ -3944,7 +3944,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3002": {
+  {
     "study": "soep-base",
     "name": "yp3002",
     "name_cs": "yp3002",
@@ -4023,7 +4023,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3003": {
+  {
     "study": "soep-base",
     "name": "yp3003",
     "name_cs": "yp3003",
@@ -4043,7 +4043,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3101": {
+  {
     "study": "soep-base",
     "name": "yp3101",
     "name_cs": "yp3101",
@@ -4098,7 +4098,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3102": {
+  {
     "study": "soep-base",
     "name": "yp3102",
     "name_cs": "yp3102",
@@ -4141,7 +4141,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp32": {
+  {
     "study": "soep-base",
     "name": "yp32",
     "name_cs": "yp32",
@@ -4180,7 +4180,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp33": {
+  {
     "study": "soep-base",
     "name": "yp33",
     "name_cs": "yp33",
@@ -4247,7 +4247,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3401": {
+  {
     "study": "soep-base",
     "name": "yp3401",
     "name_cs": "yp3401",
@@ -4290,7 +4290,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3402": {
+  {
     "study": "soep-base",
     "name": "yp3402",
     "name_cs": "yp3402",
@@ -4310,7 +4310,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp36": {
+  {
     "study": "soep-base",
     "name": "yp36",
     "name_cs": "yp36",
@@ -4361,7 +4361,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp37": {
+  {
     "study": "soep-base",
     "name": "yp37",
     "name_cs": "yp37",
@@ -4412,7 +4412,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3801": {
+  {
     "study": "soep-base",
     "name": "yp3801",
     "name_cs": "yp3801",
@@ -4447,7 +4447,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3802": {
+  {
     "study": "soep-base",
     "name": "yp3802",
     "name_cs": "yp3802",
@@ -4482,7 +4482,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3803": {
+  {
     "study": "soep-base",
     "name": "yp3803",
     "name_cs": "yp3803",
@@ -4517,7 +4517,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp3804": {
+  {
     "study": "soep-base",
     "name": "yp3804",
     "name_cs": "yp3804",
@@ -4537,7 +4537,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp39": {
+  {
     "study": "soep-base",
     "name": "yp39",
     "name_cs": "yp39",
@@ -4580,7 +4580,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp41": {
+  {
     "study": "soep-base",
     "name": "yp41",
     "name_cs": "yp41",
@@ -4647,7 +4647,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4201": {
+  {
     "study": "soep-base",
     "name": "yp4201",
     "name_cs": "yp4201",
@@ -4730,7 +4730,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4202": {
+  {
     "study": "soep-base",
     "name": "yp4202",
     "name_cs": "yp4202",
@@ -4760,7 +4760,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp43": {
+  {
     "study": "soep-base",
     "name": "yp43",
     "name_cs": "yp43",
@@ -4799,7 +4799,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp44": {
+  {
     "study": "soep-base",
     "name": "yp44",
     "name_cs": "yp44",
@@ -4842,7 +4842,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp45": {
+  {
     "study": "soep-base",
     "name": "yp45",
     "name_cs": "yp45",
@@ -4885,7 +4885,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4601": {
+  {
     "study": "soep-base",
     "name": "yp4601",
     "name_cs": "yp4601",
@@ -4936,7 +4936,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4602a": {
+  {
     "study": "soep-base",
     "name": "yp4602a",
     "name_cs": "yp4602a",
@@ -4972,7 +4972,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4602b": {
+  {
     "study": "soep-base",
     "name": "yp4602b",
     "name_cs": "yp4602b",
@@ -5015,7 +5015,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4602c": {
+  {
     "study": "soep-base",
     "name": "yp4602c",
     "name_cs": "yp4602c",
@@ -5062,7 +5062,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4602d": {
+  {
     "study": "soep-base",
     "name": "yp4602d",
     "name_cs": "yp4602d",
@@ -5090,7 +5090,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4603": {
+  {
     "study": "soep-base",
     "name": "yp4603",
     "name_cs": "yp4603",
@@ -5133,7 +5133,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4604": {
+  {
     "study": "soep-base",
     "name": "yp4604",
     "name_cs": "yp4604",
@@ -5188,7 +5188,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4605": {
+  {
     "study": "soep-base",
     "name": "yp4605",
     "name_cs": "yp4605",
@@ -5228,7 +5228,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4606": {
+  {
     "study": "soep-base",
     "name": "yp4606",
     "name_cs": "yp4606",
@@ -5248,7 +5248,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp47": {
+  {
     "study": "soep-base",
     "name": "yp47",
     "name_cs": "yp47",
@@ -5287,7 +5287,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4801": {
+  {
     "study": "soep-base",
     "name": "yp4801",
     "name_cs": "yp4801",
@@ -5330,7 +5330,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4802": {
+  {
     "study": "soep-base",
     "name": "yp4802",
     "name_cs": "yp4802",
@@ -5377,7 +5377,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4803": {
+  {
     "study": "soep-base",
     "name": "yp4803",
     "name_cs": "yp4803",
@@ -5420,7 +5420,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp4804": {
+  {
     "study": "soep-base",
     "name": "yp4804",
     "name_cs": "yp4804",
@@ -5463,7 +5463,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp49": {
+  {
     "study": "soep-base",
     "name": "yp49",
     "name_cs": "yp49",
@@ -5514,7 +5514,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp50": {
+  {
     "study": "soep-base",
     "name": "yp50",
     "name_cs": "yp50",
@@ -5561,7 +5561,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp51": {
+  {
     "study": "soep-base",
     "name": "yp51",
     "name_cs": "yp51",
@@ -5616,7 +5616,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp52": {
+  {
     "study": "soep-base",
     "name": "yp52",
     "name_cs": "yp52",
@@ -5663,7 +5663,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp53": {
+  {
     "study": "soep-base",
     "name": "yp53",
     "name_cs": "yp53",
@@ -5710,7 +5710,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5401": {
+  {
     "study": "soep-base",
     "name": "yp5401",
     "name_cs": "yp5401",
@@ -5740,7 +5740,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5402": {
+  {
     "study": "soep-base",
     "name": "yp5402",
     "name_cs": "yp5402",
@@ -5783,7 +5783,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp55": {
+  {
     "study": "soep-base",
     "name": "yp55",
     "name_cs": "yp55",
@@ -5813,7 +5813,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5601": {
+  {
     "study": "soep-base",
     "name": "yp5601",
     "name_cs": "yp5601",
@@ -5843,7 +5843,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5602": {
+  {
     "study": "soep-base",
     "name": "yp5602",
     "name_cs": "yp5602",
@@ -5882,7 +5882,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5701": {
+  {
     "study": "soep-base",
     "name": "yp5701",
     "name_cs": "yp5701",
@@ -5912,7 +5912,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5702": {
+  {
     "study": "soep-base",
     "name": "yp5702",
     "name_cs": "yp5702",
@@ -5947,7 +5947,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5801": {
+  {
     "study": "soep-base",
     "name": "yp5801",
     "name_cs": "yp5801",
@@ -5977,7 +5977,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5802": {
+  {
     "study": "soep-base",
     "name": "yp5802",
     "name_cs": "yp5802",
@@ -6007,7 +6007,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5803": {
+  {
     "study": "soep-base",
     "name": "yp5803",
     "name_cs": "yp5803",
@@ -6042,7 +6042,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5901": {
+  {
     "study": "soep-base",
     "name": "yp5901",
     "name_cs": "yp5901",
@@ -6072,7 +6072,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp5902": {
+  {
     "study": "soep-base",
     "name": "yp5902",
     "name_cs": "yp5902",
@@ -6111,7 +6111,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp60": {
+  {
     "study": "soep-base",
     "name": "yp60",
     "name_cs": "yp60",
@@ -6141,7 +6141,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp61": {
+  {
     "study": "soep-base",
     "name": "yp61",
     "name_cs": "yp61",
@@ -6184,7 +6184,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp62": {
+  {
     "study": "soep-base",
     "name": "yp62",
     "name_cs": "yp62",
@@ -6223,7 +6223,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6301": {
+  {
     "study": "soep-base",
     "name": "yp6301",
     "name_cs": "yp6301",
@@ -6262,7 +6262,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6302": {
+  {
     "study": "soep-base",
     "name": "yp6302",
     "name_cs": "yp6302",
@@ -6294,7 +6294,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp64": {
+  {
     "study": "soep-base",
     "name": "yp64",
     "name_cs": "yp64",
@@ -6337,7 +6337,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6501": {
+  {
     "study": "soep-base",
     "name": "yp6501",
     "name_cs": "yp6501",
@@ -6376,7 +6376,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6502": {
+  {
     "study": "soep-base",
     "name": "yp6502",
     "name_cs": "yp6502",
@@ -6423,7 +6423,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp66": {
+  {
     "study": "soep-base",
     "name": "yp66",
     "name_cs": "yp66",
@@ -6470,7 +6470,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6701": {
+  {
     "study": "soep-base",
     "name": "yp6701",
     "name_cs": "yp6701",
@@ -6513,7 +6513,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6702": {
+  {
     "study": "soep-base",
     "name": "yp6702",
     "name_cs": "yp6702",
@@ -6543,7 +6543,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6703": {
+  {
     "study": "soep-base",
     "name": "yp6703",
     "name_cs": "yp6703",
@@ -6573,7 +6573,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6801": {
+  {
     "study": "soep-base",
     "name": "yp6801",
     "name_cs": "yp6801",
@@ -6603,7 +6603,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6802": {
+  {
     "study": "soep-base",
     "name": "yp6802",
     "name_cs": "yp6802",
@@ -6633,7 +6633,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6901": {
+  {
     "study": "soep-base",
     "name": "yp6901",
     "name_cs": "yp6901",
@@ -6668,7 +6668,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6902": {
+  {
     "study": "soep-base",
     "name": "yp6902",
     "name_cs": "yp6902",
@@ -6703,7 +6703,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6903": {
+  {
     "study": "soep-base",
     "name": "yp6903",
     "name_cs": "yp6903",
@@ -6738,7 +6738,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6904": {
+  {
     "study": "soep-base",
     "name": "yp6904",
     "name_cs": "yp6904",
@@ -6773,7 +6773,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6905": {
+  {
     "study": "soep-base",
     "name": "yp6905",
     "name_cs": "yp6905",
@@ -6808,7 +6808,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6906": {
+  {
     "study": "soep-base",
     "name": "yp6906",
     "name_cs": "yp6906",
@@ -6843,7 +6843,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp6907": {
+  {
     "study": "soep-base",
     "name": "yp6907",
     "name_cs": "yp6907",
@@ -6878,7 +6878,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7001": {
+  {
     "study": "soep-base",
     "name": "yp7001",
     "name_cs": "yp7001",
@@ -6913,7 +6913,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7002": {
+  {
     "study": "soep-base",
     "name": "yp7002",
     "name_cs": "yp7002",
@@ -6941,7 +6941,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7003": {
+  {
     "study": "soep-base",
     "name": "yp7003",
     "name_cs": "yp7003",
@@ -6976,7 +6976,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7004": {
+  {
     "study": "soep-base",
     "name": "yp7004",
     "name_cs": "yp7004",
@@ -7011,7 +7011,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7005": {
+  {
     "study": "soep-base",
     "name": "yp7005",
     "name_cs": "yp7005",
@@ -7046,7 +7046,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7006": {
+  {
     "study": "soep-base",
     "name": "yp7006",
     "name_cs": "yp7006",
@@ -7081,7 +7081,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7007": {
+  {
     "study": "soep-base",
     "name": "yp7007",
     "name_cs": "yp7007",
@@ -7116,7 +7116,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7101": {
+  {
     "study": "soep-base",
     "name": "yp7101",
     "name_cs": "yp7101",
@@ -7151,7 +7151,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7102": {
+  {
     "study": "soep-base",
     "name": "yp7102",
     "name_cs": "yp7102",
@@ -7186,7 +7186,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7103": {
+  {
     "study": "soep-base",
     "name": "yp7103",
     "name_cs": "yp7103",
@@ -7221,7 +7221,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7104": {
+  {
     "study": "soep-base",
     "name": "yp7104",
     "name_cs": "yp7104",
@@ -7256,7 +7256,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp73": {
+  {
     "study": "soep-base",
     "name": "yp73",
     "name_cs": "yp73",
@@ -7286,7 +7286,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp74": {
+  {
     "study": "soep-base",
     "name": "yp74",
     "name_cs": "yp74",
@@ -7316,7 +7316,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp75": {
+  {
     "study": "soep-base",
     "name": "yp75",
     "name_cs": "yp75",
@@ -7346,7 +7346,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp76": {
+  {
     "study": "soep-base",
     "name": "yp76",
     "name_cs": "yp76",
@@ -7376,7 +7376,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7701": {
+  {
     "study": "soep-base",
     "name": "yp7701",
     "name_cs": "yp7701",
@@ -7411,7 +7411,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7702": {
+  {
     "study": "soep-base",
     "name": "yp7702",
     "name_cs": "yp7702",
@@ -7441,7 +7441,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7703": {
+  {
     "study": "soep-base",
     "name": "yp7703",
     "name_cs": "yp7703",
@@ -7476,7 +7476,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7704": {
+  {
     "study": "soep-base",
     "name": "yp7704",
     "name_cs": "yp7704",
@@ -7506,7 +7506,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7705": {
+  {
     "study": "soep-base",
     "name": "yp7705",
     "name_cs": "yp7705",
@@ -7534,7 +7534,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7706": {
+  {
     "study": "soep-base",
     "name": "yp7706",
     "name_cs": "yp7706",
@@ -7554,7 +7554,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7707": {
+  {
     "study": "soep-base",
     "name": "yp7707",
     "name_cs": "yp7707",
@@ -7589,7 +7589,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7708": {
+  {
     "study": "soep-base",
     "name": "yp7708",
     "name_cs": "yp7708",
@@ -7624,7 +7624,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7709": {
+  {
     "study": "soep-base",
     "name": "yp7709",
     "name_cs": "yp7709",
@@ -7654,7 +7654,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7710": {
+  {
     "study": "soep-base",
     "name": "yp7710",
     "name_cs": "yp7710",
@@ -7682,7 +7682,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7711": {
+  {
     "study": "soep-base",
     "name": "yp7711",
     "name_cs": "yp7711",
@@ -7702,7 +7702,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7712": {
+  {
     "study": "soep-base",
     "name": "yp7712",
     "name_cs": "yp7712",
@@ -7737,7 +7737,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7713": {
+  {
     "study": "soep-base",
     "name": "yp7713",
     "name_cs": "yp7713",
@@ -7767,7 +7767,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7714": {
+  {
     "study": "soep-base",
     "name": "yp7714",
     "name_cs": "yp7714",
@@ -7802,7 +7802,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7715": {
+  {
     "study": "soep-base",
     "name": "yp7715",
     "name_cs": "yp7715",
@@ -7832,7 +7832,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7716": {
+  {
     "study": "soep-base",
     "name": "yp7716",
     "name_cs": "yp7716",
@@ -7860,7 +7860,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7717": {
+  {
     "study": "soep-base",
     "name": "yp7717",
     "name_cs": "yp7717",
@@ -7880,7 +7880,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7718": {
+  {
     "study": "soep-base",
     "name": "yp7718",
     "name_cs": "yp7718",
@@ -7915,7 +7915,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7719": {
+  {
     "study": "soep-base",
     "name": "yp7719",
     "name_cs": "yp7719",
@@ -7945,7 +7945,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7720": {
+  {
     "study": "soep-base",
     "name": "yp7720",
     "name_cs": "yp7720",
@@ -7980,7 +7980,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7721": {
+  {
     "study": "soep-base",
     "name": "yp7721",
     "name_cs": "yp7721",
@@ -8010,7 +8010,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7722": {
+  {
     "study": "soep-base",
     "name": "yp7722",
     "name_cs": "yp7722",
@@ -8045,7 +8045,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7801": {
+  {
     "study": "soep-base",
     "name": "yp7801",
     "name_cs": "yp7801",
@@ -8088,7 +8088,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7802": {
+  {
     "study": "soep-base",
     "name": "yp7802",
     "name_cs": "yp7802",
@@ -8131,7 +8131,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7803": {
+  {
     "study": "soep-base",
     "name": "yp7803",
     "name_cs": "yp7803",
@@ -8178,7 +8178,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7804": {
+  {
     "study": "soep-base",
     "name": "yp7804",
     "name_cs": "yp7804",
@@ -8225,7 +8225,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7805": {
+  {
     "study": "soep-base",
     "name": "yp7805",
     "name_cs": "yp7805",
@@ -8268,7 +8268,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7806": {
+  {
     "study": "soep-base",
     "name": "yp7806",
     "name_cs": "yp7806",
@@ -8315,7 +8315,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7807": {
+  {
     "study": "soep-base",
     "name": "yp7807",
     "name_cs": "yp7807",
@@ -8362,7 +8362,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7808": {
+  {
     "study": "soep-base",
     "name": "yp7808",
     "name_cs": "yp7808",
@@ -8409,7 +8409,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7809": {
+  {
     "study": "soep-base",
     "name": "yp7809",
     "name_cs": "yp7809",
@@ -8452,7 +8452,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7901": {
+  {
     "study": "soep-base",
     "name": "yp7901",
     "name_cs": "yp7901",
@@ -8499,7 +8499,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7902": {
+  {
     "study": "soep-base",
     "name": "yp7902",
     "name_cs": "yp7902",
@@ -8542,7 +8542,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7903": {
+  {
     "study": "soep-base",
     "name": "yp7903",
     "name_cs": "yp7903",
@@ -8589,7 +8589,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp7904": {
+  {
     "study": "soep-base",
     "name": "yp7904",
     "name_cs": "yp7904",
@@ -8632,7 +8632,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp80": {
+  {
     "study": "soep-base",
     "name": "yp80",
     "name_cs": "yp80",
@@ -8667,7 +8667,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8101": {
+  {
     "study": "soep-base",
     "name": "yp8101",
     "name_cs": "yp8101",
@@ -8699,7 +8699,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8102": {
+  {
     "study": "soep-base",
     "name": "yp8102",
     "name_cs": "yp8102",
@@ -8731,7 +8731,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8103": {
+  {
     "study": "soep-base",
     "name": "yp8103",
     "name_cs": "yp8103",
@@ -8763,7 +8763,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp82": {
+  {
     "study": "soep-base",
     "name": "yp82",
     "name_cs": "yp82",
@@ -8783,7 +8783,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83a101": {
+  {
     "study": "soep-base",
     "name": "yp83a101",
     "name_cs": "yp83a101",
@@ -8803,7 +8803,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83a102": {
+  {
     "study": "soep-base",
     "name": "yp83a102",
     "name_cs": "yp83a102",
@@ -8823,7 +8823,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83a103": {
+  {
     "study": "soep-base",
     "name": "yp83a103",
     "name_cs": "yp83a103",
@@ -8843,7 +8843,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83a201": {
+  {
     "study": "soep-base",
     "name": "yp83a201",
     "name_cs": "yp83a201",
@@ -8863,7 +8863,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83a202": {
+  {
     "study": "soep-base",
     "name": "yp83a202",
     "name_cs": "yp83a202",
@@ -8883,7 +8883,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83a203": {
+  {
     "study": "soep-base",
     "name": "yp83a203",
     "name_cs": "yp83a203",
@@ -8903,7 +8903,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b101": {
+  {
     "study": "soep-base",
     "name": "yp83b101",
     "name_cs": "yp83b101",
@@ -8923,7 +8923,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b102": {
+  {
     "study": "soep-base",
     "name": "yp83b102",
     "name_cs": "yp83b102",
@@ -8943,7 +8943,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b103": {
+  {
     "study": "soep-base",
     "name": "yp83b103",
     "name_cs": "yp83b103",
@@ -8963,7 +8963,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b201": {
+  {
     "study": "soep-base",
     "name": "yp83b201",
     "name_cs": "yp83b201",
@@ -8983,7 +8983,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b202": {
+  {
     "study": "soep-base",
     "name": "yp83b202",
     "name_cs": "yp83b202",
@@ -9003,7 +9003,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b203": {
+  {
     "study": "soep-base",
     "name": "yp83b203",
     "name_cs": "yp83b203",
@@ -9023,7 +9023,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b301": {
+  {
     "study": "soep-base",
     "name": "yp83b301",
     "name_cs": "yp83b301",
@@ -9043,7 +9043,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b302": {
+  {
     "study": "soep-base",
     "name": "yp83b302",
     "name_cs": "yp83b302",
@@ -9063,7 +9063,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83b303": {
+  {
     "study": "soep-base",
     "name": "yp83b303",
     "name_cs": "yp83b303",
@@ -9083,7 +9083,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83c101": {
+  {
     "study": "soep-base",
     "name": "yp83c101",
     "name_cs": "yp83c101",
@@ -9103,7 +9103,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83c102": {
+  {
     "study": "soep-base",
     "name": "yp83c102",
     "name_cs": "yp83c102",
@@ -9123,7 +9123,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83c103": {
+  {
     "study": "soep-base",
     "name": "yp83c103",
     "name_cs": "yp83c103",
@@ -9143,7 +9143,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83c201": {
+  {
     "study": "soep-base",
     "name": "yp83c201",
     "name_cs": "yp83c201",
@@ -9171,7 +9171,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83c202": {
+  {
     "study": "soep-base",
     "name": "yp83c202",
     "name_cs": "yp83c202",
@@ -9199,7 +9199,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83c203": {
+  {
     "study": "soep-base",
     "name": "yp83c203",
     "name_cs": "yp83c203",
@@ -9227,7 +9227,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d101": {
+  {
     "study": "soep-base",
     "name": "yp83d101",
     "name_cs": "yp83d101",
@@ -9255,7 +9255,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d102": {
+  {
     "study": "soep-base",
     "name": "yp83d102",
     "name_cs": "yp83d102",
@@ -9283,7 +9283,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d103": {
+  {
     "study": "soep-base",
     "name": "yp83d103",
     "name_cs": "yp83d103",
@@ -9311,7 +9311,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d201": {
+  {
     "study": "soep-base",
     "name": "yp83d201",
     "name_cs": "yp83d201",
@@ -9339,7 +9339,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d202": {
+  {
     "study": "soep-base",
     "name": "yp83d202",
     "name_cs": "yp83d202",
@@ -9367,7 +9367,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d203": {
+  {
     "study": "soep-base",
     "name": "yp83d203",
     "name_cs": "yp83d203",
@@ -9395,7 +9395,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d301": {
+  {
     "study": "soep-base",
     "name": "yp83d301",
     "name_cs": "yp83d301",
@@ -9423,7 +9423,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d302": {
+  {
     "study": "soep-base",
     "name": "yp83d302",
     "name_cs": "yp83d302",
@@ -9451,7 +9451,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d303": {
+  {
     "study": "soep-base",
     "name": "yp83d303",
     "name_cs": "yp83d303",
@@ -9479,7 +9479,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d401": {
+  {
     "study": "soep-base",
     "name": "yp83d401",
     "name_cs": "yp83d401",
@@ -9507,7 +9507,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d402": {
+  {
     "study": "soep-base",
     "name": "yp83d402",
     "name_cs": "yp83d402",
@@ -9535,7 +9535,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d403": {
+  {
     "study": "soep-base",
     "name": "yp83d403",
     "name_cs": "yp83d403",
@@ -9563,7 +9563,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d501": {
+  {
     "study": "soep-base",
     "name": "yp83d501",
     "name_cs": "yp83d501",
@@ -9591,7 +9591,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d502": {
+  {
     "study": "soep-base",
     "name": "yp83d502",
     "name_cs": "yp83d502",
@@ -9619,7 +9619,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83d503": {
+  {
     "study": "soep-base",
     "name": "yp83d503",
     "name_cs": "yp83d503",
@@ -9647,7 +9647,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83e101": {
+  {
     "study": "soep-base",
     "name": "yp83e101",
     "name_cs": "yp83e101",
@@ -9687,7 +9687,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83e102": {
+  {
     "study": "soep-base",
     "name": "yp83e102",
     "name_cs": "yp83e102",
@@ -9727,7 +9727,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83e103": {
+  {
     "study": "soep-base",
     "name": "yp83e103",
     "name_cs": "yp83e103",
@@ -9767,7 +9767,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83f101": {
+  {
     "study": "soep-base",
     "name": "yp83f101",
     "name_cs": "yp83f101",
@@ -9787,7 +9787,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83f102": {
+  {
     "study": "soep-base",
     "name": "yp83f102",
     "name_cs": "yp83f102",
@@ -9807,7 +9807,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83f103": {
+  {
     "study": "soep-base",
     "name": "yp83f103",
     "name_cs": "yp83f103",
@@ -9827,7 +9827,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83f201": {
+  {
     "study": "soep-base",
     "name": "yp83f201",
     "name_cs": "yp83f201",
@@ -9855,7 +9855,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83f202": {
+  {
     "study": "soep-base",
     "name": "yp83f202",
     "name_cs": "yp83f202",
@@ -9883,7 +9883,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83f203": {
+  {
     "study": "soep-base",
     "name": "yp83f203",
     "name_cs": "yp83f203",
@@ -9911,7 +9911,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83g101": {
+  {
     "study": "soep-base",
     "name": "yp83g101",
     "name_cs": "yp83g101",
@@ -9967,7 +9967,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83g102": {
+  {
     "study": "soep-base",
     "name": "yp83g102",
     "name_cs": "yp83g102",
@@ -10023,7 +10023,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83g103": {
+  {
     "study": "soep-base",
     "name": "yp83g103",
     "name_cs": "yp83g103",
@@ -10079,7 +10079,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83h101": {
+  {
     "study": "soep-base",
     "name": "yp83h101",
     "name_cs": "yp83h101",
@@ -10123,7 +10123,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83h102": {
+  {
     "study": "soep-base",
     "name": "yp83h102",
     "name_cs": "yp83h102",
@@ -10167,7 +10167,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83h103": {
+  {
     "study": "soep-base",
     "name": "yp83h103",
     "name_cs": "yp83h103",
@@ -10211,7 +10211,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83j101": {
+  {
     "study": "soep-base",
     "name": "yp83j101",
     "name_cs": "yp83j101",
@@ -10243,7 +10243,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83j102": {
+  {
     "study": "soep-base",
     "name": "yp83j102",
     "name_cs": "yp83j102",
@@ -10275,7 +10275,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83j103": {
+  {
     "study": "soep-base",
     "name": "yp83j103",
     "name_cs": "yp83j103",
@@ -10307,7 +10307,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83k101": {
+  {
     "study": "soep-base",
     "name": "yp83k101",
     "name_cs": "yp83k101",
@@ -10347,7 +10347,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83k102": {
+  {
     "study": "soep-base",
     "name": "yp83k102",
     "name_cs": "yp83k102",
@@ -10387,7 +10387,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83k103": {
+  {
     "study": "soep-base",
     "name": "yp83k103",
     "name_cs": "yp83k103",
@@ -10415,7 +10415,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83l101": {
+  {
     "study": "soep-base",
     "name": "yp83l101",
     "name_cs": "yp83l101",
@@ -10455,7 +10455,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83l102": {
+  {
     "study": "soep-base",
     "name": "yp83l102",
     "name_cs": "yp83l102",
@@ -10495,7 +10495,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp83l103": {
+  {
     "study": "soep-base",
     "name": "yp83l103",
     "name_cs": "yp83l103",
@@ -10535,7 +10535,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8401": {
+  {
     "study": "soep-base",
     "name": "yp8401",
     "name_cs": "yp8401",
@@ -10570,7 +10570,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8402": {
+  {
     "study": "soep-base",
     "name": "yp8402",
     "name_cs": "yp8402",
@@ -10649,7 +10649,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8403": {
+  {
     "study": "soep-base",
     "name": "yp8403",
     "name_cs": "yp8403",
@@ -10728,7 +10728,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8404": {
+  {
     "study": "soep-base",
     "name": "yp8404",
     "name_cs": "yp8404",
@@ -10748,7 +10748,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp85": {
+  {
     "study": "soep-base",
     "name": "yp85",
     "name_cs": "yp85",
@@ -10787,7 +10787,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp86": {
+  {
     "study": "soep-base",
     "name": "yp86",
     "name_cs": "yp86",
@@ -10854,7 +10854,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8701": {
+  {
     "study": "soep-base",
     "name": "yp8701",
     "name_cs": "yp8701",
@@ -10905,7 +10905,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8702": {
+  {
     "study": "soep-base",
     "name": "yp8702",
     "name_cs": "yp8702",
@@ -10948,7 +10948,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8703": {
+  {
     "study": "soep-base",
     "name": "yp8703",
     "name_cs": "yp8703",
@@ -11243,7 +11243,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8704": {
+  {
     "study": "soep-base",
     "name": "yp8704",
     "name_cs": "yp8704",
@@ -11534,7 +11534,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8705": {
+  {
     "study": "soep-base",
     "name": "yp8705",
     "name_cs": "yp8705",
@@ -12733,7 +12733,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8706": {
+  {
     "study": "soep-base",
     "name": "yp8706",
     "name_cs": "yp8706",
@@ -12792,7 +12792,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8707": {
+  {
     "study": "soep-base",
     "name": "yp8707",
     "name_cs": "yp8707",
@@ -12812,7 +12812,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp88": {
+  {
     "study": "soep-base",
     "name": "yp88",
     "name_cs": "yp88",
@@ -12851,7 +12851,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8901": {
+  {
     "study": "soep-base",
     "name": "yp8901",
     "name_cs": "yp8901",
@@ -12934,7 +12934,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8902": {
+  {
     "study": "soep-base",
     "name": "yp8902",
     "name_cs": "yp8902",
@@ -13013,7 +13013,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp8903": {
+  {
     "study": "soep-base",
     "name": "yp8903",
     "name_cs": "yp8903",
@@ -13033,7 +13033,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9001": {
+  {
     "study": "soep-base",
     "name": "yp9001",
     "name_cs": "yp9001",
@@ -13063,7 +13063,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9002": {
+  {
     "study": "soep-base",
     "name": "yp9002",
     "name_cs": "yp9002",
@@ -13093,7 +13093,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp91": {
+  {
     "study": "soep-base",
     "name": "yp91",
     "name_cs": "yp91",
@@ -13156,7 +13156,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9201": {
+  {
     "study": "soep-base",
     "name": "yp9201",
     "name_cs": "yp9201",
@@ -13195,7 +13195,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9202": {
+  {
     "study": "soep-base",
     "name": "yp9202",
     "name_cs": "yp9202",
@@ -13225,7 +13225,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp93": {
+  {
     "study": "soep-base",
     "name": "yp93",
     "name_cs": "yp93",
@@ -13276,7 +13276,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9401": {
+  {
     "study": "soep-base",
     "name": "yp9401",
     "name_cs": "yp9401",
@@ -13299,7 +13299,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9402": {
+  {
     "study": "soep-base",
     "name": "yp9402",
     "name_cs": "yp9402",
@@ -13322,7 +13322,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9403": {
+  {
     "study": "soep-base",
     "name": "yp9403",
     "name_cs": "yp9403",
@@ -13345,7 +13345,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9404": {
+  {
     "study": "soep-base",
     "name": "yp9404",
     "name_cs": "yp9404",
@@ -13416,7 +13416,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9405": {
+  {
     "study": "soep-base",
     "name": "yp9405",
     "name_cs": "yp9405",
@@ -13439,7 +13439,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9406": {
+  {
     "study": "soep-base",
     "name": "yp9406",
     "name_cs": "yp9406",
@@ -13462,7 +13462,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9407": {
+  {
     "study": "soep-base",
     "name": "yp9407",
     "name_cs": "yp9407",
@@ -13485,7 +13485,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9408": {
+  {
     "study": "soep-base",
     "name": "yp9408",
     "name_cs": "yp9408",
@@ -13508,7 +13508,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9409": {
+  {
     "study": "soep-base",
     "name": "yp9409",
     "name_cs": "yp9409",
@@ -13531,7 +13531,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9410": {
+  {
     "study": "soep-base",
     "name": "yp9410",
     "name_cs": "yp9410",
@@ -13559,7 +13559,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9411": {
+  {
     "study": "soep-base",
     "name": "yp9411",
     "name_cs": "yp9411",
@@ -13630,7 +13630,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9412": {
+  {
     "study": "soep-base",
     "name": "yp9412",
     "name_cs": "yp9412",
@@ -13653,7 +13653,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9413": {
+  {
     "study": "soep-base",
     "name": "yp9413",
     "name_cs": "yp9413",
@@ -13676,7 +13676,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95a01": {
+  {
     "study": "soep-base",
     "name": "yp95a01",
     "name_cs": "yp95a01",
@@ -13711,7 +13711,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95a02": {
+  {
     "study": "soep-base",
     "name": "yp95a02",
     "name_cs": "yp95a02",
@@ -13790,7 +13790,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95a03": {
+  {
     "study": "soep-base",
     "name": "yp95a03",
     "name_cs": "yp95a03",
@@ -13820,7 +13820,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95a04": {
+  {
     "study": "soep-base",
     "name": "yp95a04",
     "name_cs": "yp95a04",
@@ -13840,7 +13840,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95b01": {
+  {
     "study": "soep-base",
     "name": "yp95b01",
     "name_cs": "yp95b01",
@@ -13875,7 +13875,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95b02": {
+  {
     "study": "soep-base",
     "name": "yp95b02",
     "name_cs": "yp95b02",
@@ -13954,7 +13954,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95b03": {
+  {
     "study": "soep-base",
     "name": "yp95b03",
     "name_cs": "yp95b03",
@@ -13984,7 +13984,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95b04": {
+  {
     "study": "soep-base",
     "name": "yp95b04",
     "name_cs": "yp95b04",
@@ -14004,7 +14004,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95c01": {
+  {
     "study": "soep-base",
     "name": "yp95c01",
     "name_cs": "yp95c01",
@@ -14039,7 +14039,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95c02": {
+  {
     "study": "soep-base",
     "name": "yp95c02",
     "name_cs": "yp95c02",
@@ -14118,7 +14118,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95c03": {
+  {
     "study": "soep-base",
     "name": "yp95c03",
     "name_cs": "yp95c03",
@@ -14148,7 +14148,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95d01": {
+  {
     "study": "soep-base",
     "name": "yp95d01",
     "name_cs": "yp95d01",
@@ -14183,7 +14183,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95d02": {
+  {
     "study": "soep-base",
     "name": "yp95d02",
     "name_cs": "yp95d02",
@@ -14262,7 +14262,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95e01": {
+  {
     "study": "soep-base",
     "name": "yp95e01",
     "name_cs": "yp95e01",
@@ -14297,7 +14297,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95e02": {
+  {
     "study": "soep-base",
     "name": "yp95e02",
     "name_cs": "yp95e02",
@@ -14376,7 +14376,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95h01": {
+  {
     "study": "soep-base",
     "name": "yp95h01",
     "name_cs": "yp95h01",
@@ -14404,7 +14404,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95h02": {
+  {
     "study": "soep-base",
     "name": "yp95h02",
     "name_cs": "yp95h02",
@@ -14476,7 +14476,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95h03": {
+  {
     "study": "soep-base",
     "name": "yp95h03",
     "name_cs": "yp95h03",
@@ -14496,7 +14496,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95q01": {
+  {
     "study": "soep-base",
     "name": "yp95q01",
     "name_cs": "yp95q01",
@@ -14531,7 +14531,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95q02": {
+  {
     "study": "soep-base",
     "name": "yp95q02",
     "name_cs": "yp95q02",
@@ -14610,7 +14610,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95j01": {
+  {
     "study": "soep-base",
     "name": "yp95j01",
     "name_cs": "yp95j01",
@@ -14645,7 +14645,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95j02": {
+  {
     "study": "soep-base",
     "name": "yp95j02",
     "name_cs": "yp95j02",
@@ -14724,7 +14724,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95j03": {
+  {
     "study": "soep-base",
     "name": "yp95j03",
     "name_cs": "yp95j03",
@@ -14754,7 +14754,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95k01": {
+  {
     "study": "soep-base",
     "name": "yp95k01",
     "name_cs": "yp95k01",
@@ -14789,7 +14789,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95k02": {
+  {
     "study": "soep-base",
     "name": "yp95k02",
     "name_cs": "yp95k02",
@@ -14868,7 +14868,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95k03": {
+  {
     "study": "soep-base",
     "name": "yp95k03",
     "name_cs": "yp95k03",
@@ -14898,7 +14898,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95l01": {
+  {
     "study": "soep-base",
     "name": "yp95l01",
     "name_cs": "yp95l01",
@@ -14933,7 +14933,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95l02": {
+  {
     "study": "soep-base",
     "name": "yp95l02",
     "name_cs": "yp95l02",
@@ -15012,7 +15012,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95l03": {
+  {
     "study": "soep-base",
     "name": "yp95l03",
     "name_cs": "yp95l03",
@@ -15042,7 +15042,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95m01": {
+  {
     "study": "soep-base",
     "name": "yp95m01",
     "name_cs": "yp95m01",
@@ -15070,7 +15070,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95m02": {
+  {
     "study": "soep-base",
     "name": "yp95m02",
     "name_cs": "yp95m02",
@@ -15142,7 +15142,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95m03": {
+  {
     "study": "soep-base",
     "name": "yp95m03",
     "name_cs": "yp95m03",
@@ -15162,7 +15162,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95n01": {
+  {
     "study": "soep-base",
     "name": "yp95n01",
     "name_cs": "yp95n01",
@@ -15197,7 +15197,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95n02": {
+  {
     "study": "soep-base",
     "name": "yp95n02",
     "name_cs": "yp95n02",
@@ -15276,7 +15276,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95n03": {
+  {
     "study": "soep-base",
     "name": "yp95n03",
     "name_cs": "yp95n03",
@@ -15306,7 +15306,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95o01": {
+  {
     "study": "soep-base",
     "name": "yp95o01",
     "name_cs": "yp95o01",
@@ -15341,7 +15341,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95o02": {
+  {
     "study": "soep-base",
     "name": "yp95o02",
     "name_cs": "yp95o02",
@@ -15424,7 +15424,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95o03": {
+  {
     "study": "soep-base",
     "name": "yp95o03",
     "name_cs": "yp95o03",
@@ -15454,7 +15454,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp95p01": {
+  {
     "study": "soep-base",
     "name": "yp95p01",
     "name_cs": "yp95p01",
@@ -15489,7 +15489,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9601": {
+  {
     "study": "soep-base",
     "name": "yp9601",
     "name_cs": "yp9601",
@@ -15524,7 +15524,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9602": {
+  {
     "study": "soep-base",
     "name": "yp9602",
     "name_cs": "yp9602",
@@ -15554,7 +15554,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9603": {
+  {
     "study": "soep-base",
     "name": "yp9603",
     "name_cs": "yp9603",
@@ -15589,7 +15589,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9604": {
+  {
     "study": "soep-base",
     "name": "yp9604",
     "name_cs": "yp9604",
@@ -15609,7 +15609,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9605": {
+  {
     "study": "soep-base",
     "name": "yp9605",
     "name_cs": "yp9605",
@@ -15644,7 +15644,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9606": {
+  {
     "study": "soep-base",
     "name": "yp9606",
     "name_cs": "yp9606",
@@ -15674,7 +15674,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9607": {
+  {
     "study": "soep-base",
     "name": "yp9607",
     "name_cs": "yp9607",
@@ -15709,7 +15709,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9608": {
+  {
     "study": "soep-base",
     "name": "yp9608",
     "name_cs": "yp9608",
@@ -15739,7 +15739,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9609": {
+  {
     "study": "soep-base",
     "name": "yp9609",
     "name_cs": "yp9609",
@@ -15774,7 +15774,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9610": {
+  {
     "study": "soep-base",
     "name": "yp9610",
     "name_cs": "yp9610",
@@ -15804,7 +15804,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9611": {
+  {
     "study": "soep-base",
     "name": "yp9611",
     "name_cs": "yp9611",
@@ -15839,7 +15839,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9612": {
+  {
     "study": "soep-base",
     "name": "yp9612",
     "name_cs": "yp9612",
@@ -15869,7 +15869,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9613": {
+  {
     "study": "soep-base",
     "name": "yp9613",
     "name_cs": "yp9613",
@@ -15908,7 +15908,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9701": {
+  {
     "study": "soep-base",
     "name": "yp9701",
     "name_cs": "yp9701",
@@ -15951,7 +15951,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9702": {
+  {
     "study": "soep-base",
     "name": "yp9702",
     "name_cs": "yp9702",
@@ -15981,7 +15981,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9801": {
+  {
     "study": "soep-base",
     "name": "yp9801",
     "name_cs": "yp9801",
@@ -16011,7 +16011,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9802": {
+  {
     "study": "soep-base",
     "name": "yp9802",
     "name_cs": "yp9802",
@@ -16041,7 +16041,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9803": {
+  {
     "study": "soep-base",
     "name": "yp9803",
     "name_cs": "yp9803",
@@ -16071,7 +16071,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9804": {
+  {
     "study": "soep-base",
     "name": "yp9804",
     "name_cs": "yp9804",
@@ -16091,7 +16091,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9805": {
+  {
     "study": "soep-base",
     "name": "yp9805",
     "name_cs": "yp9805",
@@ -16111,7 +16111,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9806": {
+  {
     "study": "soep-base",
     "name": "yp9806",
     "name_cs": "yp9806",
@@ -16131,7 +16131,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9807": {
+  {
     "study": "soep-base",
     "name": "yp9807",
     "name_cs": "yp9807",
@@ -16161,7 +16161,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9808": {
+  {
     "study": "soep-base",
     "name": "yp9808",
     "name_cs": "yp9808",
@@ -16181,7 +16181,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9809": {
+  {
     "study": "soep-base",
     "name": "yp9809",
     "name_cs": "yp9809",
@@ -16211,7 +16211,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9810": {
+  {
     "study": "soep-base",
     "name": "yp9810",
     "name_cs": "yp9810",
@@ -16231,7 +16231,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9811": {
+  {
     "study": "soep-base",
     "name": "yp9811",
     "name_cs": "yp9811",
@@ -16261,7 +16261,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9812": {
+  {
     "study": "soep-base",
     "name": "yp9812",
     "name_cs": "yp9812",
@@ -16281,7 +16281,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9813": {
+  {
     "study": "soep-base",
     "name": "yp9813",
     "name_cs": "yp9813",
@@ -16311,7 +16311,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9814": {
+  {
     "study": "soep-base",
     "name": "yp9814",
     "name_cs": "yp9814",
@@ -16331,7 +16331,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9815": {
+  {
     "study": "soep-base",
     "name": "yp9815",
     "name_cs": "yp9815",
@@ -16361,7 +16361,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9816": {
+  {
     "study": "soep-base",
     "name": "yp9816",
     "name_cs": "yp9816",
@@ -16381,7 +16381,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9817": {
+  {
     "study": "soep-base",
     "name": "yp9817",
     "name_cs": "yp9817",
@@ -16404,7 +16404,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9818": {
+  {
     "study": "soep-base",
     "name": "yp9818",
     "name_cs": "yp9818",
@@ -16434,7 +16434,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9819": {
+  {
     "study": "soep-base",
     "name": "yp9819",
     "name_cs": "yp9819",
@@ -16454,7 +16454,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp9820": {
+  {
     "study": "soep-base",
     "name": "yp9820",
     "name_cs": "yp9820",
@@ -16474,7 +16474,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp99": {
+  {
     "study": "soep-base",
     "name": "yp99",
     "name_cs": "yp99",
@@ -16521,7 +16521,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp100": {
+  {
     "study": "soep-base",
     "name": "yp100",
     "name_cs": "yp100",
@@ -16560,7 +16560,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp101": {
+  {
     "study": "soep-base",
     "name": "yp101",
     "name_cs": "yp101",
@@ -16599,7 +16599,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10201": {
+  {
     "study": "soep-base",
     "name": "yp10201",
     "name_cs": "yp10201",
@@ -16646,7 +16646,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10202": {
+  {
     "study": "soep-base",
     "name": "yp10202",
     "name_cs": "yp10202",
@@ -16693,7 +16693,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10203": {
+  {
     "study": "soep-base",
     "name": "yp10203",
     "name_cs": "yp10203",
@@ -16740,7 +16740,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10204": {
+  {
     "study": "soep-base",
     "name": "yp10204",
     "name_cs": "yp10204",
@@ -16787,7 +16787,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10205": {
+  {
     "study": "soep-base",
     "name": "yp10205",
     "name_cs": "yp10205",
@@ -16834,7 +16834,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10206": {
+  {
     "study": "soep-base",
     "name": "yp10206",
     "name_cs": "yp10206",
@@ -16881,7 +16881,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10207": {
+  {
     "study": "soep-base",
     "name": "yp10207",
     "name_cs": "yp10207",
@@ -16932,7 +16932,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10208": {
+  {
     "study": "soep-base",
     "name": "yp10208",
     "name_cs": "yp10208",
@@ -16983,7 +16983,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10209": {
+  {
     "study": "soep-base",
     "name": "yp10209",
     "name_cs": "yp10209",
@@ -17034,7 +17034,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10210": {
+  {
     "study": "soep-base",
     "name": "yp10210",
     "name_cs": "yp10210",
@@ -17081,7 +17081,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10301": {
+  {
     "study": "soep-base",
     "name": "yp10301",
     "name_cs": "yp10301",
@@ -17110,7 +17110,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10302": {
+  {
     "study": "soep-base",
     "name": "yp10302",
     "name_cs": "yp10302",
@@ -17139,7 +17139,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp104": {
+  {
     "study": "soep-base",
     "name": "yp104",
     "name_cs": "yp104",
@@ -17182,7 +17182,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10501": {
+  {
     "study": "soep-base",
     "name": "yp10501",
     "name_cs": "yp10501",
@@ -17225,7 +17225,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10502": {
+  {
     "study": "soep-base",
     "name": "yp10502",
     "name_cs": "yp10502",
@@ -17268,7 +17268,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10503": {
+  {
     "study": "soep-base",
     "name": "yp10503",
     "name_cs": "yp10503",
@@ -17311,7 +17311,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10504": {
+  {
     "study": "soep-base",
     "name": "yp10504",
     "name_cs": "yp10504",
@@ -17354,7 +17354,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10601": {
+  {
     "study": "soep-base",
     "name": "yp10601",
     "name_cs": "yp10601",
@@ -17389,7 +17389,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10602": {
+  {
     "study": "soep-base",
     "name": "yp10602",
     "name_cs": "yp10602",
@@ -17419,7 +17419,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10603": {
+  {
     "study": "soep-base",
     "name": "yp10603",
     "name_cs": "yp10603",
@@ -17439,7 +17439,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10604": {
+  {
     "study": "soep-base",
     "name": "yp10604",
     "name_cs": "yp10604",
@@ -17469,7 +17469,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10605": {
+  {
     "study": "soep-base",
     "name": "yp10605",
     "name_cs": "yp10605",
@@ -17489,7 +17489,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp107": {
+  {
     "study": "soep-base",
     "name": "yp107",
     "name_cs": "yp107",
@@ -17518,7 +17518,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp108": {
+  {
     "study": "soep-base",
     "name": "yp108",
     "name_cs": "yp108",
@@ -17548,7 +17548,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10901": {
+  {
     "study": "soep-base",
     "name": "yp10901",
     "name_cs": "yp10901",
@@ -17583,7 +17583,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp10902": {
+  {
     "study": "soep-base",
     "name": "yp10902",
     "name_cs": "yp10902",
@@ -17613,7 +17613,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp11001": {
+  {
     "study": "soep-base",
     "name": "yp11001",
     "name_cs": "yp11001",
@@ -17643,7 +17643,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp11002": {
+  {
     "study": "soep-base",
     "name": "yp11002",
     "name_cs": "yp11002",
@@ -17678,7 +17678,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp111": {
+  {
     "study": "soep-base",
     "name": "yp111",
     "name_cs": "yp111",
@@ -17713,7 +17713,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp11201": {
+  {
     "study": "soep-base",
     "name": "yp11201",
     "name_cs": "yp11201",
@@ -17743,7 +17743,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp11202": {
+  {
     "study": "soep-base",
     "name": "yp11202",
     "name_cs": "yp11202",
@@ -17773,7 +17773,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp113": {
+  {
     "study": "soep-base",
     "name": "yp113",
     "name_cs": "yp113",
@@ -17816,7 +17816,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp11401": {
+  {
     "study": "soep-base",
     "name": "yp11401",
     "name_cs": "yp11401",
@@ -17851,7 +17851,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp11402": {
+  {
     "study": "soep-base",
     "name": "yp11402",
     "name_cs": "yp11402",
@@ -17881,7 +17881,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp115": {
+  {
     "study": "soep-base",
     "name": "yp115",
     "name_cs": "yp115",
@@ -17916,7 +17916,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp116": {
+  {
     "study": "soep-base",
     "name": "yp116",
     "name_cs": "yp116",
@@ -17963,7 +17963,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp117": {
+  {
     "study": "soep-base",
     "name": "yp117",
     "name_cs": "yp117",
@@ -18006,7 +18006,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp118": {
+  {
     "study": "soep-base",
     "name": "yp118",
     "name_cs": "yp118",
@@ -18081,7 +18081,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp119": {
+  {
     "study": "soep-base",
     "name": "yp119",
     "name_cs": "yp119",
@@ -18128,7 +18128,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12001": {
+  {
     "study": "soep-base",
     "name": "yp12001",
     "name_cs": "yp12001",
@@ -18171,7 +18171,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12002": {
+  {
     "study": "soep-base",
     "name": "yp12002",
     "name_cs": "yp12002",
@@ -18206,7 +18206,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12003": {
+  {
     "study": "soep-base",
     "name": "yp12003",
     "name_cs": "yp12003",
@@ -18234,7 +18234,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12004": {
+  {
     "study": "soep-base",
     "name": "yp12004",
     "name_cs": "yp12004",
@@ -18262,7 +18262,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12005": {
+  {
     "study": "soep-base",
     "name": "yp12005",
     "name_cs": "yp12005",
@@ -18297,7 +18297,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12006": {
+  {
     "study": "soep-base",
     "name": "yp12006",
     "name_cs": "yp12006",
@@ -18325,7 +18325,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12007": {
+  {
     "study": "soep-base",
     "name": "yp12007",
     "name_cs": "yp12007",
@@ -18360,7 +18360,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12008": {
+  {
     "study": "soep-base",
     "name": "yp12008",
     "name_cs": "yp12008",
@@ -18388,7 +18388,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12009": {
+  {
     "study": "soep-base",
     "name": "yp12009",
     "name_cs": "yp12009",
@@ -18423,7 +18423,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12010": {
+  {
     "study": "soep-base",
     "name": "yp12010",
     "name_cs": "yp12010",
@@ -18443,7 +18443,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp121": {
+  {
     "study": "soep-base",
     "name": "yp121",
     "name_cs": "yp121",
@@ -18482,7 +18482,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12201": {
+  {
     "study": "soep-base",
     "name": "yp12201",
     "name_cs": "yp12201",
@@ -18512,7 +18512,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12202": {
+  {
     "study": "soep-base",
     "name": "yp12202",
     "name_cs": "yp12202",
@@ -18547,7 +18547,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12301": {
+  {
     "study": "soep-base",
     "name": "yp12301",
     "name_cs": "yp12301",
@@ -18582,7 +18582,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12302": {
+  {
     "study": "soep-base",
     "name": "yp12302",
     "name_cs": "yp12302",
@@ -18617,7 +18617,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12303": {
+  {
     "study": "soep-base",
     "name": "yp12303",
     "name_cs": "yp12303",
@@ -18652,7 +18652,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12304": {
+  {
     "study": "soep-base",
     "name": "yp12304",
     "name_cs": "yp12304",
@@ -18687,7 +18687,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12305": {
+  {
     "study": "soep-base",
     "name": "yp12305",
     "name_cs": "yp12305",
@@ -18722,7 +18722,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12306": {
+  {
     "study": "soep-base",
     "name": "yp12306",
     "name_cs": "yp12306",
@@ -18750,7 +18750,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp124": {
+  {
     "study": "soep-base",
     "name": "yp124",
     "name_cs": "yp124",
@@ -18789,7 +18789,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12501": {
+  {
     "study": "soep-base",
     "name": "yp12501",
     "name_cs": "yp12501",
@@ -18819,7 +18819,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12502": {
+  {
     "study": "soep-base",
     "name": "yp12502",
     "name_cs": "yp12502",
@@ -18858,7 +18858,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12601": {
+  {
     "study": "soep-base",
     "name": "yp12601",
     "name_cs": "yp12601",
@@ -18893,7 +18893,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12602": {
+  {
     "study": "soep-base",
     "name": "yp12602",
     "name_cs": "yp12602",
@@ -18913,7 +18913,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp127": {
+  {
     "study": "soep-base",
     "name": "yp127",
     "name_cs": "yp127",
@@ -18956,7 +18956,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12801": {
+  {
     "study": "soep-base",
     "name": "yp12801",
     "name_cs": "yp12801",
@@ -18986,7 +18986,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp12802": {
+  {
     "study": "soep-base",
     "name": "yp12802",
     "name_cs": "yp12802",
@@ -19016,7 +19016,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp129": {
+  {
     "study": "soep-base",
     "name": "yp129",
     "name_cs": "yp129",
@@ -19059,7 +19059,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp130": {
+  {
     "study": "soep-base",
     "name": "yp130",
     "name_cs": "yp130",
@@ -19098,7 +19098,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13101": {
+  {
     "study": "soep-base",
     "name": "yp13101",
     "name_cs": "yp13101",
@@ -19233,7 +19233,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13102": {
+  {
     "study": "soep-base",
     "name": "yp13102",
     "name_cs": "yp13102",
@@ -19284,7 +19284,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13201": {
+  {
     "study": "soep-base",
     "name": "yp13201",
     "name_cs": "yp13201",
@@ -19323,7 +19323,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13202": {
+  {
     "study": "soep-base",
     "name": "yp13202",
     "name_cs": "yp13202",
@@ -19362,7 +19362,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13203": {
+  {
     "study": "soep-base",
     "name": "yp13203",
     "name_cs": "yp13203",
@@ -19401,7 +19401,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13204": {
+  {
     "study": "soep-base",
     "name": "yp13204",
     "name_cs": "yp13204",
@@ -19440,7 +19440,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13205": {
+  {
     "study": "soep-base",
     "name": "yp13205",
     "name_cs": "yp13205",
@@ -19483,7 +19483,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13206": {
+  {
     "study": "soep-base",
     "name": "yp13206",
     "name_cs": "yp13206",
@@ -19526,7 +19526,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13207": {
+  {
     "study": "soep-base",
     "name": "yp13207",
     "name_cs": "yp13207",
@@ -19569,7 +19569,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13208": {
+  {
     "study": "soep-base",
     "name": "yp13208",
     "name_cs": "yp13208",
@@ -19612,7 +19612,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13209": {
+  {
     "study": "soep-base",
     "name": "yp13209",
     "name_cs": "yp13209",
@@ -19655,7 +19655,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13210": {
+  {
     "study": "soep-base",
     "name": "yp13210",
     "name_cs": "yp13210",
@@ -19698,7 +19698,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13211": {
+  {
     "study": "soep-base",
     "name": "yp13211",
     "name_cs": "yp13211",
@@ -19745,7 +19745,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13212": {
+  {
     "study": "soep-base",
     "name": "yp13212",
     "name_cs": "yp13212",
@@ -20068,7 +20068,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp133": {
+  {
     "study": "soep-base",
     "name": "yp133",
     "name_cs": "yp133",
@@ -20103,7 +20103,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13401": {
+  {
     "study": "soep-base",
     "name": "yp13401",
     "name_cs": "yp13401",
@@ -20154,7 +20154,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13402": {
+  {
     "study": "soep-base",
     "name": "yp13402",
     "name_cs": "yp13402",
@@ -20205,7 +20205,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13403": {
+  {
     "study": "soep-base",
     "name": "yp13403",
     "name_cs": "yp13403",
@@ -20256,7 +20256,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13404": {
+  {
     "study": "soep-base",
     "name": "yp13404",
     "name_cs": "yp13404",
@@ -20307,7 +20307,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp135": {
+  {
     "study": "soep-base",
     "name": "yp135",
     "name_cs": "yp135",
@@ -20350,7 +20350,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp136": {
+  {
     "study": "soep-base",
     "name": "yp136",
     "name_cs": "yp136",
@@ -20385,7 +20385,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp137": {
+  {
     "study": "soep-base",
     "name": "yp137",
     "name_cs": "yp137",
@@ -20420,7 +20420,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13801": {
+  {
     "study": "soep-base",
     "name": "yp13801",
     "name_cs": "yp13801",
@@ -20459,7 +20459,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp13802": {
+  {
     "study": "soep-base",
     "name": "yp13802",
     "name_cs": "yp13802",
@@ -21102,7 +21102,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp139": {
+  {
     "study": "soep-base",
     "name": "yp139",
     "name_cs": "yp139",
@@ -21145,7 +21145,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp140": {
+  {
     "study": "soep-base",
     "name": "yp140",
     "name_cs": "yp140",
@@ -21856,7 +21856,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp141": {
+  {
     "study": "soep-base",
     "name": "yp141",
     "name_cs": "yp141",
@@ -21903,7 +21903,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp142": {
+  {
     "study": "soep-base",
     "name": "yp142",
     "name_cs": "yp142",
@@ -21946,7 +21946,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp143": {
+  {
     "study": "soep-base",
     "name": "yp143",
     "name_cs": "yp143",
@@ -22001,7 +22001,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp144": {
+  {
     "study": "soep-base",
     "name": "yp144",
     "name_cs": "yp144",
@@ -22040,7 +22040,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp14501": {
+  {
     "study": "soep-base",
     "name": "yp14501",
     "name_cs": "yp14501",
@@ -22079,7 +22079,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp14502": {
+  {
     "study": "soep-base",
     "name": "yp14502",
     "name_cs": "yp14502",
@@ -22109,7 +22109,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp14503": {
+  {
     "study": "soep-base",
     "name": "yp14503",
     "name_cs": "yp14503",
@@ -22144,7 +22144,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp146": {
+  {
     "study": "soep-base",
     "name": "yp146",
     "name_cs": "yp146",
@@ -22183,7 +22183,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp147": {
+  {
     "study": "soep-base",
     "name": "yp147",
     "name_cs": "yp147",
@@ -22234,7 +22234,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp14801": {
+  {
     "study": "soep-base",
     "name": "yp14801",
     "name_cs": "yp14801",
@@ -22269,7 +22269,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp14802": {
+  {
     "study": "soep-base",
     "name": "yp14802",
     "name_cs": "yp14802",
@@ -22298,7 +22298,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp149": {
+  {
     "study": "soep-base",
     "name": "yp149",
     "name_cs": "yp149",
@@ -22353,7 +22353,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15001": {
+  {
     "study": "soep-base",
     "name": "yp15001",
     "name_cs": "yp15001",
@@ -22396,7 +22396,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15002": {
+  {
     "study": "soep-base",
     "name": "yp15002",
     "name_cs": "yp15002",
@@ -22435,7 +22435,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15003": {
+  {
     "study": "soep-base",
     "name": "yp15003",
     "name_cs": "yp15003",
@@ -22465,7 +22465,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp151": {
+  {
     "study": "soep-base",
     "name": "yp151",
     "name_cs": "yp151",
@@ -22520,7 +22520,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp152": {
+  {
     "study": "soep-base",
     "name": "yp152",
     "name_cs": "yp152",
@@ -22567,7 +22567,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153011": {
+  {
     "study": "soep-base",
     "name": "yp153011",
     "name_cs": "yp153011",
@@ -22602,7 +22602,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153012": {
+  {
     "study": "soep-base",
     "name": "yp153012",
     "name_cs": "yp153012",
@@ -22632,7 +22632,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153013": {
+  {
     "study": "soep-base",
     "name": "yp153013",
     "name_cs": "yp153013",
@@ -22667,7 +22667,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153014": {
+  {
     "study": "soep-base",
     "name": "yp153014",
     "name_cs": "yp153014",
@@ -22695,7 +22695,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153021": {
+  {
     "study": "soep-base",
     "name": "yp153021",
     "name_cs": "yp153021",
@@ -22730,7 +22730,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153022": {
+  {
     "study": "soep-base",
     "name": "yp153022",
     "name_cs": "yp153022",
@@ -22760,7 +22760,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153023": {
+  {
     "study": "soep-base",
     "name": "yp153023",
     "name_cs": "yp153023",
@@ -22795,7 +22795,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153024": {
+  {
     "study": "soep-base",
     "name": "yp153024",
     "name_cs": "yp153024",
@@ -22830,7 +22830,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153031": {
+  {
     "study": "soep-base",
     "name": "yp153031",
     "name_cs": "yp153031",
@@ -22865,7 +22865,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153032": {
+  {
     "study": "soep-base",
     "name": "yp153032",
     "name_cs": "yp153032",
@@ -22895,7 +22895,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153033": {
+  {
     "study": "soep-base",
     "name": "yp153033",
     "name_cs": "yp153033",
@@ -22930,7 +22930,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153034": {
+  {
     "study": "soep-base",
     "name": "yp153034",
     "name_cs": "yp153034",
@@ -22958,7 +22958,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153041": {
+  {
     "study": "soep-base",
     "name": "yp153041",
     "name_cs": "yp153041",
@@ -22993,7 +22993,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153042": {
+  {
     "study": "soep-base",
     "name": "yp153042",
     "name_cs": "yp153042",
@@ -23023,7 +23023,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153043": {
+  {
     "study": "soep-base",
     "name": "yp153043",
     "name_cs": "yp153043",
@@ -23058,7 +23058,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153044": {
+  {
     "study": "soep-base",
     "name": "yp153044",
     "name_cs": "yp153044",
@@ -23093,7 +23093,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153051": {
+  {
     "study": "soep-base",
     "name": "yp153051",
     "name_cs": "yp153051",
@@ -23128,7 +23128,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153052": {
+  {
     "study": "soep-base",
     "name": "yp153052",
     "name_cs": "yp153052",
@@ -23158,7 +23158,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153053": {
+  {
     "study": "soep-base",
     "name": "yp153053",
     "name_cs": "yp153053",
@@ -23193,7 +23193,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp153054": {
+  {
     "study": "soep-base",
     "name": "yp153054",
     "name_cs": "yp153054",
@@ -23228,7 +23228,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15306": {
+  {
     "study": "soep-base",
     "name": "yp15306",
     "name_cs": "yp15306",
@@ -23263,7 +23263,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15401": {
+  {
     "study": "soep-base",
     "name": "yp15401",
     "name_cs": "yp15401",
@@ -23291,7 +23291,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15402": {
+  {
     "study": "soep-base",
     "name": "yp15402",
     "name_cs": "yp15402",
@@ -23363,7 +23363,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15403": {
+  {
     "study": "soep-base",
     "name": "yp15403",
     "name_cs": "yp15403",
@@ -23435,7 +23435,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15404": {
+  {
     "study": "soep-base",
     "name": "yp15404",
     "name_cs": "yp15404",
@@ -23470,7 +23470,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15405": {
+  {
     "study": "soep-base",
     "name": "yp15405",
     "name_cs": "yp15405",
@@ -23549,7 +23549,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15406": {
+  {
     "study": "soep-base",
     "name": "yp15406",
     "name_cs": "yp15406",
@@ -23628,7 +23628,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15407": {
+  {
     "study": "soep-base",
     "name": "yp15407",
     "name_cs": "yp15407",
@@ -23663,7 +23663,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15408": {
+  {
     "study": "soep-base",
     "name": "yp15408",
     "name_cs": "yp15408",
@@ -23742,7 +23742,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15409": {
+  {
     "study": "soep-base",
     "name": "yp15409",
     "name_cs": "yp15409",
@@ -23821,7 +23821,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15410": {
+  {
     "study": "soep-base",
     "name": "yp15410",
     "name_cs": "yp15410",
@@ -23856,7 +23856,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15411": {
+  {
     "study": "soep-base",
     "name": "yp15411",
     "name_cs": "yp15411",
@@ -23935,7 +23935,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15412": {
+  {
     "study": "soep-base",
     "name": "yp15412",
     "name_cs": "yp15412",
@@ -24007,7 +24007,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15413": {
+  {
     "study": "soep-base",
     "name": "yp15413",
     "name_cs": "yp15413",
@@ -24042,7 +24042,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15414": {
+  {
     "study": "soep-base",
     "name": "yp15414",
     "name_cs": "yp15414",
@@ -24121,7 +24121,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15415": {
+  {
     "study": "soep-base",
     "name": "yp15415",
     "name_cs": "yp15415",
@@ -24193,7 +24193,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15416": {
+  {
     "study": "soep-base",
     "name": "yp15416",
     "name_cs": "yp15416",
@@ -24228,7 +24228,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15417": {
+  {
     "study": "soep-base",
     "name": "yp15417",
     "name_cs": "yp15417",
@@ -24307,7 +24307,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15418": {
+  {
     "study": "soep-base",
     "name": "yp15418",
     "name_cs": "yp15418",
@@ -24390,7 +24390,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15419": {
+  {
     "study": "soep-base",
     "name": "yp15419",
     "name_cs": "yp15419",
@@ -24418,7 +24418,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15420": {
+  {
     "study": "soep-base",
     "name": "yp15420",
     "name_cs": "yp15420",
@@ -24490,7 +24490,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15421": {
+  {
     "study": "soep-base",
     "name": "yp15421",
     "name_cs": "yp15421",
@@ -24562,7 +24562,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15422": {
+  {
     "study": "soep-base",
     "name": "yp15422",
     "name_cs": "yp15422",
@@ -24597,7 +24597,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15423": {
+  {
     "study": "soep-base",
     "name": "yp15423",
     "name_cs": "yp15423",
@@ -24669,7 +24669,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15424": {
+  {
     "study": "soep-base",
     "name": "yp15424",
     "name_cs": "yp15424",
@@ -24748,7 +24748,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15425": {
+  {
     "study": "soep-base",
     "name": "yp15425",
     "name_cs": "yp15425",
@@ -24783,7 +24783,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15426": {
+  {
     "study": "soep-base",
     "name": "yp15426",
     "name_cs": "yp15426",
@@ -24862,7 +24862,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15427": {
+  {
     "study": "soep-base",
     "name": "yp15427",
     "name_cs": "yp15427",
@@ -24934,7 +24934,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15428": {
+  {
     "study": "soep-base",
     "name": "yp15428",
     "name_cs": "yp15428",
@@ -24969,7 +24969,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15429": {
+  {
     "study": "soep-base",
     "name": "yp15429",
     "name_cs": "yp15429",
@@ -25048,7 +25048,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15430": {
+  {
     "study": "soep-base",
     "name": "yp15430",
     "name_cs": "yp15430",
@@ -25127,7 +25127,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15431": {
+  {
     "study": "soep-base",
     "name": "yp15431",
     "name_cs": "yp15431",
@@ -25155,7 +25155,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15432": {
+  {
     "study": "soep-base",
     "name": "yp15432",
     "name_cs": "yp15432",
@@ -25227,7 +25227,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15433": {
+  {
     "study": "soep-base",
     "name": "yp15433",
     "name_cs": "yp15433",
@@ -25299,7 +25299,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15434": {
+  {
     "study": "soep-base",
     "name": "yp15434",
     "name_cs": "yp15434",
@@ -25334,7 +25334,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15435": {
+  {
     "study": "soep-base",
     "name": "yp15435",
     "name_cs": "yp15435",
@@ -25413,7 +25413,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15436": {
+  {
     "study": "soep-base",
     "name": "yp15436",
     "name_cs": "yp15436",
@@ -25492,7 +25492,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15437": {
+  {
     "study": "soep-base",
     "name": "yp15437",
     "name_cs": "yp15437",
@@ -25531,7 +25531,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15501": {
+  {
     "study": "soep-base",
     "name": "yp15501",
     "name_cs": "yp15501",
@@ -25602,7 +25602,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15502": {
+  {
     "study": "soep-base",
     "name": "yp15502",
     "name_cs": "yp15502",
@@ -25673,7 +25673,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yp15503": {
+  {
     "study": "soep-base",
     "name": "yp15503",
     "name_cs": "yp15503",
@@ -25748,7 +25748,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "ypinta": {
+  {
     "study": "soep-base",
     "name": "ypinta",
     "name_cs": "ypinta",
@@ -25807,7 +25807,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "ypdauer1": {
+  {
     "study": "soep-base",
     "name": "ypdauer1",
     "name_cs": "ypdauer1",
@@ -25836,7 +25836,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "ypdauer2": {
+  {
     "study": "soep-base",
     "name": "ypdauer2",
     "name_cs": "ypdauer2",
@@ -25856,7 +25856,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "yptagin": {
+  {
     "study": "soep-base",
     "name": "yptagin",
     "name_cs": "yptagin",
@@ -25885,7 +25885,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "ypmonin": {
+  {
     "study": "soep-base",
     "name": "ypmonin",
     "name_cs": "ypmonin",
@@ -25960,7 +25960,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "ypintnr": {
+  {
     "study": "soep-base",
     "name": "ypintnr",
     "name_cs": "ypintnr",
@@ -25989,7 +25989,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "hhnr": {
+  {
     "study": "soep-base",
     "name": "hhnr",
     "name_cs": "hhnr",
@@ -26018,7 +26018,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "persnr": {
+  {
     "study": "soep-base",
     "name": "persnr",
     "name_cs": "persnr",
@@ -26047,7 +26047,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs01": {
+  {
     "study": "soep-base",
     "name": "pabs01",
     "name_cs": "pabs01",
@@ -26090,7 +26090,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs02": {
+  {
     "study": "soep-base",
     "name": "pabs02",
     "name_cs": "pabs02",
@@ -26153,7 +26153,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs03": {
+  {
     "study": "soep-base",
     "name": "pabs03",
     "name_cs": "pabs03",
@@ -26212,7 +26212,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs04": {
+  {
     "study": "soep-base",
     "name": "pabs04",
     "name_cs": "pabs04",
@@ -26235,7 +26235,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs05": {
+  {
     "study": "soep-base",
     "name": "pabs05",
     "name_cs": "pabs05",
@@ -26286,7 +26286,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs06": {
+  {
     "study": "soep-base",
     "name": "pabs06",
     "name_cs": "pabs06",
@@ -26321,7 +26321,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs07": {
+  {
     "study": "soep-base",
     "name": "pabs07",
     "name_cs": "pabs07",
@@ -26368,7 +26368,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs08": {
+  {
     "study": "soep-base",
     "name": "pabs08",
     "name_cs": "pabs08",
@@ -26415,7 +26415,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs09": {
+  {
     "study": "soep-base",
     "name": "pabs09",
     "name_cs": "pabs09",
@@ -26462,7 +26462,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs10": {
+  {
     "study": "soep-base",
     "name": "pabs10",
     "name_cs": "pabs10",
@@ -26509,7 +26509,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs11": {
+  {
     "study": "soep-base",
     "name": "pabs11",
     "name_cs": "pabs11",
@@ -26556,7 +26556,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs12": {
+  {
     "study": "soep-base",
     "name": "pabs12",
     "name_cs": "pabs12",
@@ -26603,7 +26603,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs13": {
+  {
     "study": "soep-base",
     "name": "pabs13",
     "name_cs": "pabs13",
@@ -26650,7 +26650,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs14": {
+  {
     "study": "soep-base",
     "name": "pabs14",
     "name_cs": "pabs14",
@@ -26697,7 +26697,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pabs15": {
+  {
     "study": "soep-base",
     "name": "pabs15",
     "name_cs": "pabs15",
@@ -26744,7 +26744,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu01": {
+  {
     "study": "soep-base",
     "name": "pzu01",
     "name_cs": "pzu01",
@@ -26799,7 +26799,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu02": {
+  {
     "study": "soep-base",
     "name": "pzu02",
     "name_cs": "pzu02",
@@ -26858,7 +26858,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu03": {
+  {
     "study": "soep-base",
     "name": "pzu03",
     "name_cs": "pzu03",
@@ -26913,7 +26913,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu04": {
+  {
     "study": "soep-base",
     "name": "pzu04",
     "name_cs": "pzu04",
@@ -26968,7 +26968,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu05": {
+  {
     "study": "soep-base",
     "name": "pzu05",
     "name_cs": "pzu05",
@@ -27027,7 +27027,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu06": {
+  {
     "study": "soep-base",
     "name": "pzu06",
     "name_cs": "pzu06",
@@ -27082,7 +27082,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu07": {
+  {
     "study": "soep-base",
     "name": "pzu07",
     "name_cs": "pzu07",
@@ -27141,7 +27141,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu08": {
+  {
     "study": "soep-base",
     "name": "pzu08",
     "name_cs": "pzu08",
@@ -27196,7 +27196,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu09": {
+  {
     "study": "soep-base",
     "name": "pzu09",
     "name_cs": "pzu09",
@@ -27251,7 +27251,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu10": {
+  {
     "study": "soep-base",
     "name": "pzu10",
     "name_cs": "pzu10",
@@ -27310,7 +27310,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu11": {
+  {
     "study": "soep-base",
     "name": "pzu11",
     "name_cs": "pzu11",
@@ -27365,7 +27365,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pzu15": {
+  {
     "study": "soep-base",
     "name": "pzu15",
     "name_cs": "pzu15",
@@ -27420,7 +27420,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego01": {
+  {
     "study": "soep-base",
     "name": "pego01",
     "name_cs": "pego01",
@@ -27475,7 +27475,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego02": {
+  {
     "study": "soep-base",
     "name": "pego02",
     "name_cs": "pego02",
@@ -27530,7 +27530,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego03": {
+  {
     "study": "soep-base",
     "name": "pego03",
     "name_cs": "pego03",
@@ -27585,7 +27585,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego04": {
+  {
     "study": "soep-base",
     "name": "pego04",
     "name_cs": "pego04",
@@ -27644,7 +27644,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego05": {
+  {
     "study": "soep-base",
     "name": "pego05",
     "name_cs": "pego05",
@@ -27699,7 +27699,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego06": {
+  {
     "study": "soep-base",
     "name": "pego06",
     "name_cs": "pego06",
@@ -27754,7 +27754,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego07": {
+  {
     "study": "soep-base",
     "name": "pego07",
     "name_cs": "pego07",
@@ -27809,7 +27809,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego08": {
+  {
     "study": "soep-base",
     "name": "pego08",
     "name_cs": "pego08",
@@ -27864,7 +27864,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego09": {
+  {
     "study": "soep-base",
     "name": "pego09",
     "name_cs": "pego09",
@@ -27923,7 +27923,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego10": {
+  {
     "study": "soep-base",
     "name": "pego10",
     "name_cs": "pego10",
@@ -27978,7 +27978,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego11": {
+  {
     "study": "soep-base",
     "name": "pego11",
     "name_cs": "pego11",
@@ -28033,7 +28033,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego12": {
+  {
     "study": "soep-base",
     "name": "pego12",
     "name_cs": "pego12",
@@ -28088,7 +28088,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego13": {
+  {
     "study": "soep-base",
     "name": "pego13",
     "name_cs": "pego13",
@@ -28143,7 +28143,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego14": {
+  {
     "study": "soep-base",
     "name": "pego14",
     "name_cs": "pego14",
@@ -28198,7 +28198,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego15": {
+  {
     "study": "soep-base",
     "name": "pego15",
     "name_cs": "pego15",
@@ -28253,7 +28253,7 @@
     "boost": "1",
     "period": "2008"
   },
-  "pego16": {
+  {
     "study": "soep-base",
     "name": "pego16",
     "name_cs": "pego16",
@@ -28304,4 +28304,4 @@
     "boost": "1",
     "period": "2008"
   }
-}
+]

@@ -1,5 +1,5 @@
-{
-  "jahr": {
+[
+  {
     "study": "soep-base",
     "name": "jahr",
     "name_cs": "jahr",
@@ -42,7 +42,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "stichu": {
+  {
     "study": "soep-base",
     "name": "stichu",
     "name_cs": "stichu",
@@ -165,7 +165,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "hnr": {
+  {
     "study": "soep-base",
     "name": "hnr",
     "name_cs": "hnr",
@@ -748,7 +748,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnr": {
+  {
     "study": "soep-base",
     "name": "pnr",
     "name_cs": "pnr",
@@ -807,7 +807,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf01": {
+  {
     "study": "soep-base",
     "name": "pzuf01",
     "name_cs": "pzuf01",
@@ -890,7 +890,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf20": {
+  {
     "study": "soep-base",
     "name": "pzuf20",
     "name_cs": "pzuf20",
@@ -973,7 +973,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf02": {
+  {
     "study": "soep-base",
     "name": "pzuf02",
     "name_cs": "pzuf02",
@@ -1056,7 +1056,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf03": {
+  {
     "study": "soep-base",
     "name": "pzuf03",
     "name_cs": "pzuf03",
@@ -1139,7 +1139,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf04": {
+  {
     "study": "soep-base",
     "name": "pzuf04",
     "name_cs": "pzuf04",
@@ -1222,7 +1222,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf05": {
+  {
     "study": "soep-base",
     "name": "pzuf05",
     "name_cs": "pzuf05",
@@ -1305,7 +1305,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf07": {
+  {
     "study": "soep-base",
     "name": "pzuf07",
     "name_cs": "pzuf07",
@@ -1388,7 +1388,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf08": {
+  {
     "study": "soep-base",
     "name": "pzuf08",
     "name_cs": "pzuf08",
@@ -1471,7 +1471,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf13": {
+  {
     "study": "soep-base",
     "name": "pzuf13",
     "name_cs": "pzuf13",
@@ -1554,7 +1554,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf09": {
+  {
     "study": "soep-base",
     "name": "pzuf09",
     "name_cs": "pzuf09",
@@ -1637,7 +1637,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzuf12": {
+  {
     "study": "soep-base",
     "name": "pzuf12",
     "name_cs": "pzuf12",
@@ -1720,7 +1720,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu01": {
+  {
     "study": "soep-base",
     "name": "pzu01",
     "name_cs": "pzu01",
@@ -1787,7 +1787,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu02": {
+  {
     "study": "soep-base",
     "name": "pzu02",
     "name_cs": "pzu02",
@@ -1854,7 +1854,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu03": {
+  {
     "study": "soep-base",
     "name": "pzu03",
     "name_cs": "pzu03",
@@ -1921,7 +1921,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu10": {
+  {
     "study": "soep-base",
     "name": "pzu10",
     "name_cs": "pzu10",
@@ -1988,7 +1988,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu04": {
+  {
     "study": "soep-base",
     "name": "pzu04",
     "name_cs": "pzu04",
@@ -2055,7 +2055,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu05": {
+  {
     "study": "soep-base",
     "name": "pzu05",
     "name_cs": "pzu05",
@@ -2122,7 +2122,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu06": {
+  {
     "study": "soep-base",
     "name": "pzu06",
     "name_cs": "pzu06",
@@ -2189,7 +2189,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu07": {
+  {
     "study": "soep-base",
     "name": "pzu07",
     "name_cs": "pzu07",
@@ -2256,7 +2256,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu08": {
+  {
     "study": "soep-base",
     "name": "pzu08",
     "name_cs": "pzu08",
@@ -2323,7 +2323,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzu09": {
+  {
     "study": "soep-base",
     "name": "pzu09",
     "name_cs": "pzu09",
@@ -2390,7 +2390,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerk1": {
+  {
     "study": "soep-base",
     "name": "pwerk1",
     "name_cs": "pwerk1",
@@ -2481,7 +2481,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerk2": {
+  {
     "study": "soep-base",
     "name": "pwerk2",
     "name_cs": "pwerk2",
@@ -2544,7 +2544,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerk3": {
+  {
     "study": "soep-base",
     "name": "pwerk3",
     "name_cs": "pwerk3",
@@ -2619,7 +2619,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerk4": {
+  {
     "study": "soep-base",
     "name": "pwerk4",
     "name_cs": "pwerk4",
@@ -2694,7 +2694,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerk5": {
+  {
     "study": "soep-base",
     "name": "pwerk5",
     "name_cs": "pwerk5",
@@ -2753,7 +2753,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerk6": {
+  {
     "study": "soep-base",
     "name": "pwerk6",
     "name_cs": "pwerk6",
@@ -2832,7 +2832,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerk7": {
+  {
     "study": "soep-base",
     "name": "pwerk7",
     "name_cs": "pwerk7",
@@ -2899,7 +2899,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerk8": {
+  {
     "study": "soep-base",
     "name": "pwerk8",
     "name_cs": "pwerk8",
@@ -2982,7 +2982,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwerkka": {
+  {
     "study": "soep-base",
     "name": "pwerkka",
     "name_cs": "pwerkka",
@@ -3018,7 +3018,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "p7tag": {
+  {
     "study": "soep-base",
     "name": "p7tag",
     "name_cs": "p7tag",
@@ -3065,7 +3065,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "perz": {
+  {
     "study": "soep-base",
     "name": "perz",
     "name_cs": "perz",
@@ -3116,7 +3116,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "palo": {
+  {
     "study": "soep-base",
     "name": "palo",
     "name_cs": "palo",
@@ -3163,7 +3163,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paus1": {
+  {
     "study": "soep-base",
     "name": "paus1",
     "name_cs": "paus1",
@@ -3210,7 +3210,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paus2": {
+  {
     "study": "soep-base",
     "name": "paus2",
     "name_cs": "paus2",
@@ -3270,7 +3270,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paus3": {
+  {
     "study": "soep-base",
     "name": "paus3",
     "name_cs": "paus3",
@@ -3321,7 +3321,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paus3a": {
+  {
     "study": "soep-base",
     "name": "paus3a",
     "name_cs": "paus3a",
@@ -3372,7 +3372,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paus4": {
+  {
     "study": "soep-base",
     "name": "paus4",
     "name_cs": "paus4",
@@ -3431,7 +3431,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paus5": {
+  {
     "study": "soep-base",
     "name": "paus5",
     "name_cs": "paus5",
@@ -3502,7 +3502,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pauska": {
+  {
     "study": "soep-base",
     "name": "pauska",
     "name_cs": "pauska",
@@ -3538,7 +3538,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "perw": {
+  {
     "study": "soep-base",
     "name": "perw",
     "name_cs": "perw",
@@ -3613,7 +3613,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw02": {
+  {
     "study": "soep-base",
     "name": "pnerw02",
     "name_cs": "pnerw02",
@@ -3668,7 +3668,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw03": {
+  {
     "study": "soep-base",
     "name": "pnerw03",
     "name_cs": "pnerw03",
@@ -3723,7 +3723,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw04": {
+  {
     "study": "soep-base",
     "name": "pnerw04",
     "name_cs": "pnerw04",
@@ -3778,7 +3778,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw01": {
+  {
     "study": "soep-base",
     "name": "pnerw01",
     "name_cs": "pnerw01",
@@ -3833,7 +3833,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw07": {
+  {
     "study": "soep-base",
     "name": "pnerw07",
     "name_cs": "pnerw07",
@@ -3888,7 +3888,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw08": {
+  {
     "study": "soep-base",
     "name": "pnerw08",
     "name_cs": "pnerw08",
@@ -3931,7 +3931,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw14": {
+  {
     "study": "soep-base",
     "name": "pnerw14",
     "name_cs": "pnerw14",
@@ -3986,7 +3986,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw09": {
+  {
     "study": "soep-base",
     "name": "pnerw09",
     "name_cs": "pnerw09",
@@ -4033,7 +4033,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnerw10": {
+  {
     "study": "soep-base",
     "name": "pnerw10",
     "name_cs": "pnerw10",
@@ -4080,7 +4080,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pverm1": {
+  {
     "study": "soep-base",
     "name": "pverm1",
     "name_cs": "pverm1",
@@ -4127,7 +4127,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pverm2": {
+  {
     "study": "soep-base",
     "name": "pverm2",
     "name_cs": "pverm2",
@@ -4163,7 +4163,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl1": {
+  {
     "study": "soep-base",
     "name": "pwexl1",
     "name_cs": "pwexl1",
@@ -4214,7 +4214,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl2": {
+  {
     "study": "soep-base",
     "name": "pwexl2",
     "name_cs": "pwexl2",
@@ -4301,7 +4301,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl3": {
+  {
     "study": "soep-base",
     "name": "pwexl3",
     "name_cs": "pwexl3",
@@ -4388,7 +4388,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexlka": {
+  {
     "study": "soep-base",
     "name": "pwexlka",
     "name_cs": "pwexlka",
@@ -4424,7 +4424,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl4": {
+  {
     "study": "soep-base",
     "name": "pwexl4",
     "name_cs": "pwexl4",
@@ -4487,7 +4487,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl5": {
+  {
     "study": "soep-base",
     "name": "pwexl5",
     "name_cs": "pwexl5",
@@ -4538,7 +4538,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl6": {
+  {
     "study": "soep-base",
     "name": "pwexl6",
     "name_cs": "pwexl6",
@@ -4593,7 +4593,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl7": {
+  {
     "study": "soep-base",
     "name": "pwexl7",
     "name_cs": "pwexl7",
@@ -4648,7 +4648,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl8": {
+  {
     "study": "soep-base",
     "name": "pwexl8",
     "name_cs": "pwexl8",
@@ -4703,7 +4703,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl9": {
+  {
     "study": "soep-base",
     "name": "pwexl9",
     "name_cs": "pwexl9",
@@ -4754,7 +4754,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl10": {
+  {
     "study": "soep-base",
     "name": "pwexl10",
     "name_cs": "pwexl10",
@@ -4809,7 +4809,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl11": {
+  {
     "study": "soep-base",
     "name": "pwexl11",
     "name_cs": "pwexl11",
@@ -4864,7 +4864,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl12": {
+  {
     "study": "soep-base",
     "name": "pwexl12",
     "name_cs": "pwexl12",
@@ -4915,7 +4915,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwexl13": {
+  {
     "study": "soep-base",
     "name": "pwexl13",
     "name_cs": "pwexl13",
@@ -4966,7 +4966,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psuch1": {
+  {
     "study": "soep-base",
     "name": "psuch1",
     "name_cs": "psuch1",
@@ -5013,7 +5013,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psuch2": {
+  {
     "study": "soep-base",
     "name": "psuch2",
     "name_cs": "psuch2",
@@ -5088,7 +5088,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pverm3": {
+  {
     "study": "soep-base",
     "name": "pverm3",
     "name_cs": "pverm3",
@@ -5139,7 +5139,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pverm4": {
+  {
     "study": "soep-base",
     "name": "pverm4",
     "name_cs": "pverm4",
@@ -5175,7 +5175,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pberja": {
+  {
     "study": "soep-base",
     "name": "pberja",
     "name_cs": "pberja",
@@ -5230,7 +5230,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pberaus": {
+  {
     "study": "soep-base",
     "name": "pberaus",
     "name_cs": "pberaus",
@@ -5285,7 +5285,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "peinar1": {
+  {
     "study": "soep-base",
     "name": "peinar1",
     "name_cs": "peinar1",
@@ -5328,7 +5328,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "peinar2": {
+  {
     "study": "soep-base",
     "name": "peinar2",
     "name_cs": "peinar2",
@@ -5371,7 +5371,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "peinar3": {
+  {
     "study": "soep-base",
     "name": "peinar3",
     "name_cs": "peinar3",
@@ -5414,7 +5414,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "peinka": {
+  {
     "study": "soep-base",
     "name": "peinka",
     "name_cs": "peinka",
@@ -5450,7 +5450,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "poed": {
+  {
     "study": "soep-base",
     "name": "poed",
     "name_cs": "poed",
@@ -5497,7 +5497,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgesunt": {
+  {
     "study": "soep-base",
     "name": "pgesunt",
     "name_cs": "pgesunt",
@@ -5568,7 +5568,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pseitm": {
+  {
     "study": "soep-base",
     "name": "pseitm",
     "name_cs": "pseitm",
@@ -5655,7 +5655,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pseitj": {
+  {
     "study": "soep-base",
     "name": "pseitj",
     "name_cs": "pseitj",
@@ -5758,7 +5758,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzaf": {
+  {
     "study": "soep-base",
     "name": "pzaf",
     "name_cs": "pzaf",
@@ -5805,7 +5805,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pbefr1": {
+  {
     "study": "soep-base",
     "name": "pbefr1",
     "name_cs": "pbefr1",
@@ -5856,7 +5856,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pbefr2": {
+  {
     "study": "soep-base",
     "name": "pbefr2",
     "name_cs": "pbefr2",
@@ -5907,7 +5907,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "parb": {
+  {
     "study": "soep-base",
     "name": "parb",
     "name_cs": "parb",
@@ -5966,7 +5966,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psst1": {
+  {
     "study": "soep-base",
     "name": "psst1",
     "name_cs": "psst1",
@@ -6014,7 +6014,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psst2": {
+  {
     "study": "soep-base",
     "name": "psst2",
     "name_cs": "psst2",
@@ -6065,7 +6065,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psst3": {
+  {
     "study": "soep-base",
     "name": "psst3",
     "name_cs": "psst3",
@@ -6116,7 +6116,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psst4": {
+  {
     "study": "soep-base",
     "name": "psst4",
     "name_cs": "psst4",
@@ -6156,7 +6156,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pazubi": {
+  {
     "study": "soep-base",
     "name": "pazubi",
     "name_cs": "pazubi",
@@ -6207,7 +6207,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pang": {
+  {
     "study": "soep-base",
     "name": "pang",
     "name_cs": "pang",
@@ -6270,7 +6270,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pamt": {
+  {
     "study": "soep-base",
     "name": "pamt",
     "name_cs": "pamt",
@@ -6322,7 +6322,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pberka": {
+  {
     "study": "soep-base",
     "name": "pberka",
     "name_cs": "pberka",
@@ -6358,7 +6358,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzahl": {
+  {
     "study": "soep-base",
     "name": "pzahl",
     "name_cs": "pzahl",
@@ -6413,7 +6413,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pverl": {
+  {
     "study": "soep-base",
     "name": "pverl",
     "name_cs": "pverl",
@@ -6464,7 +6464,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwohn2": {
+  {
     "study": "soep-base",
     "name": "pwohn2",
     "name_cs": "pwohn2",
@@ -6523,7 +6523,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwohn1": {
+  {
     "study": "soep-base",
     "name": "pwohn1",
     "name_cs": "pwohn1",
@@ -6574,7 +6574,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwohn3": {
+  {
     "study": "soep-base",
     "name": "pwohn3",
     "name_cs": "pwohn3",
@@ -6625,7 +6625,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwohn4": {
+  {
     "study": "soep-base",
     "name": "pwohn4",
     "name_cs": "pwohn4",
@@ -6764,7 +6764,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwohn5": {
+  {
     "study": "soep-base",
     "name": "pwohn5",
     "name_cs": "pwohn5",
@@ -6811,7 +6811,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "purl1": {
+  {
     "study": "soep-base",
     "name": "purl1",
     "name_cs": "purl1",
@@ -6902,7 +6902,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "purl2": {
+  {
     "study": "soep-base",
     "name": "purl2",
     "name_cs": "purl2",
@@ -6945,7 +6945,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "purl3": {
+  {
     "study": "soep-base",
     "name": "purl3",
     "name_cs": "purl3",
@@ -7072,7 +7072,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "purl4": {
+  {
     "study": "soep-base",
     "name": "purl4",
     "name_cs": "purl4",
@@ -7115,7 +7115,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "purl5": {
+  {
     "study": "soep-base",
     "name": "purl5",
     "name_cs": "purl5",
@@ -7162,7 +7162,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "purl6": {
+  {
     "study": "soep-base",
     "name": "purl6",
     "name_cs": "purl6",
@@ -7205,7 +7205,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "purl7": {
+  {
     "study": "soep-base",
     "name": "purl7",
     "name_cs": "purl7",
@@ -7252,7 +7252,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "purl8": {
+  {
     "study": "soep-base",
     "name": "purl8",
     "name_cs": "purl8",
@@ -7307,7 +7307,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paz08": {
+  {
     "study": "soep-base",
     "name": "paz08",
     "name_cs": "paz08",
@@ -7414,7 +7414,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paz09": {
+  {
     "study": "soep-base",
     "name": "paz09",
     "name_cs": "paz09",
@@ -7457,7 +7457,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paz10": {
+  {
     "study": "soep-base",
     "name": "paz10",
     "name_cs": "paz10",
@@ -7596,7 +7596,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paz11": {
+  {
     "study": "soep-base",
     "name": "paz11",
     "name_cs": "paz11",
@@ -7647,7 +7647,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paz12": {
+  {
     "study": "soep-base",
     "name": "paz12",
     "name_cs": "paz12",
@@ -7694,7 +7694,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "palt1": {
+  {
     "study": "soep-base",
     "name": "palt1",
     "name_cs": "palt1",
@@ -7741,7 +7741,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "palt2": {
+  {
     "study": "soep-base",
     "name": "palt2",
     "name_cs": "palt2",
@@ -7788,7 +7788,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkurz": {
+  {
     "study": "soep-base",
     "name": "pkurz",
     "name_cs": "pkurz",
@@ -7835,7 +7835,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "paz14": {
+  {
     "study": "soep-base",
     "name": "paz14",
     "name_cs": "paz14",
@@ -7962,7 +7962,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pustd1": {
+  {
     "study": "soep-base",
     "name": "pustd1",
     "name_cs": "pustd1",
@@ -8013,7 +8013,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pustd2": {
+  {
     "study": "soep-base",
     "name": "pustd2",
     "name_cs": "pustd2",
@@ -8060,7 +8060,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pustd3": {
+  {
     "study": "soep-base",
     "name": "pustd3",
     "name_cs": "pustd3",
@@ -8111,7 +8111,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pustd4": {
+  {
     "study": "soep-base",
     "name": "pustd4",
     "name_cs": "pustd4",
@@ -8166,7 +8166,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pustd5": {
+  {
     "study": "soep-base",
     "name": "pustd5",
     "name_cs": "pustd5",
@@ -8213,7 +8213,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pustd6": {
+  {
     "study": "soep-base",
     "name": "pustd6",
     "name_cs": "pustd6",
@@ -8300,7 +8300,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pustd7": {
+  {
     "study": "soep-base",
     "name": "pustd7",
     "name_cs": "pustd7",
@@ -8363,7 +8363,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pbrut": {
+  {
     "study": "soep-base",
     "name": "pbrut",
     "name_cs": "pbrut",
@@ -8586,7 +8586,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnett": {
+  {
     "study": "soep-base",
     "name": "pnett",
     "name_cs": "pnett",
@@ -8805,7 +8805,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson01": {
+  {
     "study": "soep-base",
     "name": "pson01",
     "name_cs": "pson01",
@@ -8848,7 +8848,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson02": {
+  {
     "study": "soep-base",
     "name": "pson02",
     "name_cs": "pson02",
@@ -8891,7 +8891,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson03": {
+  {
     "study": "soep-base",
     "name": "pson03",
     "name_cs": "pson03",
@@ -8934,7 +8934,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson04": {
+  {
     "study": "soep-base",
     "name": "pson04",
     "name_cs": "pson04",
@@ -8977,7 +8977,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson05": {
+  {
     "study": "soep-base",
     "name": "pson05",
     "name_cs": "pson05",
@@ -9020,7 +9020,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson06": {
+  {
     "study": "soep-base",
     "name": "pson06",
     "name_cs": "pson06",
@@ -9063,7 +9063,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson07": {
+  {
     "study": "soep-base",
     "name": "pson07",
     "name_cs": "pson07",
@@ -9106,7 +9106,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson08": {
+  {
     "study": "soep-base",
     "name": "pson08",
     "name_cs": "pson08",
@@ -9149,7 +9149,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson09": {
+  {
     "study": "soep-base",
     "name": "pson09",
     "name_cs": "pson09",
@@ -9192,7 +9192,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson10": {
+  {
     "study": "soep-base",
     "name": "pson10",
     "name_cs": "pson10",
@@ -9235,7 +9235,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson11": {
+  {
     "study": "soep-base",
     "name": "pson11",
     "name_cs": "pson11",
@@ -9278,7 +9278,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson12": {
+  {
     "study": "soep-base",
     "name": "pson12",
     "name_cs": "pson12",
@@ -9321,7 +9321,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson13": {
+  {
     "study": "soep-base",
     "name": "pson13",
     "name_cs": "pson13",
@@ -9364,7 +9364,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pson14": {
+  {
     "study": "soep-base",
     "name": "pson14",
     "name_cs": "pson14",
@@ -9407,7 +9407,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pjob01": {
+  {
     "study": "soep-base",
     "name": "pjob01",
     "name_cs": "pjob01",
@@ -9447,7 +9447,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pjob02": {
+  {
     "study": "soep-base",
     "name": "pjob02",
     "name_cs": "pjob02",
@@ -9490,7 +9490,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pjob03": {
+  {
     "study": "soep-base",
     "name": "pjob03",
     "name_cs": "pjob03",
@@ -9533,7 +9533,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pjobno": {
+  {
     "study": "soep-base",
     "name": "pjobno",
     "name_cs": "pjobno",
@@ -9576,7 +9576,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pjob12": {
+  {
     "study": "soep-base",
     "name": "pjob12",
     "name_cs": "pjob12",
@@ -9663,7 +9663,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pjob13": {
+  {
     "study": "soep-base",
     "name": "pjob13",
     "name_cs": "pjob13",
@@ -9738,7 +9738,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pjob14": {
+  {
     "study": "soep-base",
     "name": "pjob14",
     "name_cs": "pjob14",
@@ -9817,7 +9817,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pjob15": {
+  {
     "study": "soep-base",
     "name": "pjob15",
     "name_cs": "pjob15",
@@ -9920,7 +9920,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek01": {
+  {
     "study": "soep-base",
     "name": "pek01",
     "name_cs": "pek01",
@@ -9963,7 +9963,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek011": {
+  {
     "study": "soep-base",
     "name": "pek011",
     "name_cs": "pek011",
@@ -10350,7 +10350,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek02": {
+  {
     "study": "soep-base",
     "name": "pek02",
     "name_cs": "pek02",
@@ -10393,7 +10393,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek021": {
+  {
     "study": "soep-base",
     "name": "pek021",
     "name_cs": "pek021",
@@ -10492,7 +10492,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek03": {
+  {
     "study": "soep-base",
     "name": "pek03",
     "name_cs": "pek03",
@@ -10532,7 +10532,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek031": {
+  {
     "study": "soep-base",
     "name": "pek031",
     "name_cs": "pek031",
@@ -10568,7 +10568,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek04": {
+  {
     "study": "soep-base",
     "name": "pek04",
     "name_cs": "pek04",
@@ -10611,7 +10611,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek05": {
+  {
     "study": "soep-base",
     "name": "pek05",
     "name_cs": "pek05",
@@ -10654,7 +10654,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek051": {
+  {
     "study": "soep-base",
     "name": "pek051",
     "name_cs": "pek051",
@@ -10697,7 +10697,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek06": {
+  {
     "study": "soep-base",
     "name": "pek06",
     "name_cs": "pek06",
@@ -10737,7 +10737,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek061": {
+  {
     "study": "soep-base",
     "name": "pek061",
     "name_cs": "pek061",
@@ -10773,7 +10773,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek07": {
+  {
     "study": "soep-base",
     "name": "pek07",
     "name_cs": "pek07",
@@ -10816,7 +10816,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek071": {
+  {
     "study": "soep-base",
     "name": "pek071",
     "name_cs": "pek071",
@@ -10859,7 +10859,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek08": {
+  {
     "study": "soep-base",
     "name": "pek08",
     "name_cs": "pek08",
@@ -10902,7 +10902,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek081": {
+  {
     "study": "soep-base",
     "name": "pek081",
     "name_cs": "pek081",
@@ -10957,7 +10957,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek09": {
+  {
     "study": "soep-base",
     "name": "pek09",
     "name_cs": "pek09",
@@ -10997,7 +10997,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek091": {
+  {
     "study": "soep-base",
     "name": "pek091",
     "name_cs": "pek091",
@@ -11033,7 +11033,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek19": {
+  {
     "study": "soep-base",
     "name": "pek19",
     "name_cs": "pek19",
@@ -11076,7 +11076,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek191": {
+  {
     "study": "soep-base",
     "name": "pek191",
     "name_cs": "pek191",
@@ -11127,7 +11127,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek18": {
+  {
     "study": "soep-base",
     "name": "pek18",
     "name_cs": "pek18",
@@ -11163,7 +11163,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek181": {
+  {
     "study": "soep-base",
     "name": "pek181",
     "name_cs": "pek181",
@@ -11199,7 +11199,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek11": {
+  {
     "study": "soep-base",
     "name": "pek11",
     "name_cs": "pek11",
@@ -11242,7 +11242,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pek111": {
+  {
     "study": "soep-base",
     "name": "pek111",
     "name_cs": "pek111",
@@ -11313,7 +11313,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pekno": {
+  {
     "study": "soep-base",
     "name": "pekno",
     "name_cs": "pekno",
@@ -11356,7 +11356,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab1": {
+  {
     "study": "soep-base",
     "name": "pab1",
     "name_cs": "pab1",
@@ -11403,7 +11403,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab2": {
+  {
     "study": "soep-base",
     "name": "pab2",
     "name_cs": "pab2",
@@ -11490,7 +11490,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab3": {
+  {
     "study": "soep-base",
     "name": "pab3",
     "name_cs": "pab3",
@@ -11577,7 +11577,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pabka1": {
+  {
     "study": "soep-base",
     "name": "pabka1",
     "name_cs": "pabka1",
@@ -11613,7 +11613,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab4": {
+  {
     "study": "soep-base",
     "name": "pab4",
     "name_cs": "pab4",
@@ -11660,7 +11660,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab4a": {
+  {
     "study": "soep-base",
     "name": "pab4a",
     "name_cs": "pab4a",
@@ -11735,7 +11735,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab5": {
+  {
     "study": "soep-base",
     "name": "pab5",
     "name_cs": "pab5",
@@ -11791,7 +11791,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab6": {
+  {
     "study": "soep-base",
     "name": "pab6",
     "name_cs": "pab6",
@@ -11842,7 +11842,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab6nr1": {
+  {
     "study": "soep-base",
     "name": "pab6nr1",
     "name_cs": "pab6nr1",
@@ -12142,7 +12142,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab6nr2": {
+  {
     "study": "soep-base",
     "name": "pab6nr2",
     "name_cs": "pab6nr2",
@@ -12182,7 +12182,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab7nr": {
+  {
     "study": "soep-base",
     "name": "pab7nr",
     "name_cs": "pab7nr",
@@ -12242,7 +12242,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pab7": {
+  {
     "study": "soep-base",
     "name": "pab7",
     "name_cs": "pab7",
@@ -12309,7 +12309,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pabka2": {
+  {
     "study": "soep-base",
     "name": "pabka2",
     "name_cs": "pabka2",
@@ -12345,7 +12345,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend1": {
+  {
     "study": "soep-base",
     "name": "pend1",
     "name_cs": "pend1",
@@ -12396,7 +12396,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend2": {
+  {
     "study": "soep-base",
     "name": "pend2",
     "name_cs": "pend2",
@@ -12483,7 +12483,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend3": {
+  {
     "study": "soep-base",
     "name": "pend3",
     "name_cs": "pend3",
@@ -12570,7 +12570,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pendka": {
+  {
     "study": "soep-base",
     "name": "pendka",
     "name_cs": "pendka",
@@ -12606,7 +12606,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend4": {
+  {
     "study": "soep-base",
     "name": "pend4",
     "name_cs": "pend4",
@@ -12661,7 +12661,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend5": {
+  {
     "study": "soep-base",
     "name": "pend5",
     "name_cs": "pend5",
@@ -12728,7 +12728,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend6": {
+  {
     "study": "soep-base",
     "name": "pend6",
     "name_cs": "pend6",
@@ -12799,7 +12799,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend7": {
+  {
     "study": "soep-base",
     "name": "pend7",
     "name_cs": "pend7",
@@ -12846,7 +12846,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend8": {
+  {
     "study": "soep-base",
     "name": "pend8",
     "name_cs": "pend8",
@@ -12882,7 +12882,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pend9": {
+  {
     "study": "soep-base",
     "name": "pend9",
     "name_cs": "pend9",
@@ -12937,7 +12937,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal01": {
+  {
     "study": "soep-base",
     "name": "pkal01",
     "name_cs": "pkal01",
@@ -12960,7 +12960,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal13": {
+  {
     "study": "soep-base",
     "name": "pkal13",
     "name_cs": "pkal13",
@@ -12983,7 +12983,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal02": {
+  {
     "study": "soep-base",
     "name": "pkal02",
     "name_cs": "pkal02",
@@ -13006,7 +13006,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal12": {
+  {
     "study": "soep-base",
     "name": "pkal12",
     "name_cs": "pkal12",
@@ -13029,7 +13029,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal03": {
+  {
     "study": "soep-base",
     "name": "pkal03",
     "name_cs": "pkal03",
@@ -13052,7 +13052,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal04": {
+  {
     "study": "soep-base",
     "name": "pkal04",
     "name_cs": "pkal04",
@@ -13075,7 +13075,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal05": {
+  {
     "study": "soep-base",
     "name": "pkal05",
     "name_cs": "pkal05",
@@ -13098,7 +13098,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal06": {
+  {
     "study": "soep-base",
     "name": "pkal06",
     "name_cs": "pkal06",
@@ -13121,7 +13121,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal07": {
+  {
     "study": "soep-base",
     "name": "pkal07",
     "name_cs": "pkal07",
@@ -13144,7 +13144,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal08": {
+  {
     "study": "soep-base",
     "name": "pkal08",
     "name_cs": "pkal08",
@@ -13167,7 +13167,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal09a": {
+  {
     "study": "soep-base",
     "name": "pkal09a",
     "name_cs": "pkal09a",
@@ -13207,7 +13207,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal09": {
+  {
     "study": "soep-base",
     "name": "pkal09",
     "name_cs": "pkal09",
@@ -13230,7 +13230,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal10": {
+  {
     "study": "soep-base",
     "name": "pkal10",
     "name_cs": "pkal10",
@@ -13253,7 +13253,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkal11": {
+  {
     "study": "soep-base",
     "name": "pkal11",
     "name_cs": "pkal11",
@@ -13276,7 +13276,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek01": {
+  {
     "study": "soep-base",
     "name": "pvek01",
     "name_cs": "pvek01",
@@ -13319,7 +13319,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek011": {
+  {
     "study": "soep-base",
     "name": "pvek011",
     "name_cs": "pvek011",
@@ -13394,7 +13394,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek012": {
+  {
     "study": "soep-base",
     "name": "pvek012",
     "name_cs": "pvek012",
@@ -13585,7 +13585,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek013": {
+  {
     "study": "soep-base",
     "name": "pvek013",
     "name_cs": "pvek013",
@@ -13628,7 +13628,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek02": {
+  {
     "study": "soep-base",
     "name": "pvek02",
     "name_cs": "pvek02",
@@ -13671,7 +13671,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek021": {
+  {
     "study": "soep-base",
     "name": "pvek021",
     "name_cs": "pvek021",
@@ -13730,7 +13730,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek022": {
+  {
     "study": "soep-base",
     "name": "pvek022",
     "name_cs": "pvek022",
@@ -13829,7 +13829,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek023": {
+  {
     "study": "soep-base",
     "name": "pvek023",
     "name_cs": "pvek023",
@@ -13865,7 +13865,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek03": {
+  {
     "study": "soep-base",
     "name": "pvek03",
     "name_cs": "pvek03",
@@ -13908,7 +13908,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek031": {
+  {
     "study": "soep-base",
     "name": "pvek031",
     "name_cs": "pvek031",
@@ -13971,7 +13971,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek032": {
+  {
     "study": "soep-base",
     "name": "pvek032",
     "name_cs": "pvek032",
@@ -14042,7 +14042,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek04": {
+  {
     "study": "soep-base",
     "name": "pvek04",
     "name_cs": "pvek04",
@@ -14085,7 +14085,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek041": {
+  {
     "study": "soep-base",
     "name": "pvek041",
     "name_cs": "pvek041",
@@ -14132,7 +14132,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek05": {
+  {
     "study": "soep-base",
     "name": "pvek05",
     "name_cs": "pvek05",
@@ -14175,7 +14175,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek051": {
+  {
     "study": "soep-base",
     "name": "pvek051",
     "name_cs": "pvek051",
@@ -14218,7 +14218,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek06": {
+  {
     "study": "soep-base",
     "name": "pvek06",
     "name_cs": "pvek06",
@@ -14261,7 +14261,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek061": {
+  {
     "study": "soep-base",
     "name": "pvek061",
     "name_cs": "pvek061",
@@ -14304,7 +14304,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek062": {
+  {
     "study": "soep-base",
     "name": "pvek062",
     "name_cs": "pvek062",
@@ -14347,7 +14347,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek07": {
+  {
     "study": "soep-base",
     "name": "pvek07",
     "name_cs": "pvek07",
@@ -14390,7 +14390,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek071": {
+  {
     "study": "soep-base",
     "name": "pvek071",
     "name_cs": "pvek071",
@@ -14441,7 +14441,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek08": {
+  {
     "study": "soep-base",
     "name": "pvek08",
     "name_cs": "pvek08",
@@ -14484,7 +14484,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek081": {
+  {
     "study": "soep-base",
     "name": "pvek081",
     "name_cs": "pvek081",
@@ -14531,7 +14531,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek082": {
+  {
     "study": "soep-base",
     "name": "pvek082",
     "name_cs": "pvek082",
@@ -14574,7 +14574,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek09": {
+  {
     "study": "soep-base",
     "name": "pvek09",
     "name_cs": "pvek09",
@@ -14617,7 +14617,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek091": {
+  {
     "study": "soep-base",
     "name": "pvek091",
     "name_cs": "pvek091",
@@ -14664,7 +14664,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek092": {
+  {
     "study": "soep-base",
     "name": "pvek092",
     "name_cs": "pvek092",
@@ -14711,7 +14711,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek10": {
+  {
     "study": "soep-base",
     "name": "pvek10",
     "name_cs": "pvek10",
@@ -14754,7 +14754,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek101": {
+  {
     "study": "soep-base",
     "name": "pvek101",
     "name_cs": "pvek101",
@@ -14801,7 +14801,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek102": {
+  {
     "study": "soep-base",
     "name": "pvek102",
     "name_cs": "pvek102",
@@ -14864,7 +14864,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek11": {
+  {
     "study": "soep-base",
     "name": "pvek11",
     "name_cs": "pvek11",
@@ -14904,7 +14904,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek111": {
+  {
     "study": "soep-base",
     "name": "pvek111",
     "name_cs": "pvek111",
@@ -14940,7 +14940,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek112": {
+  {
     "study": "soep-base",
     "name": "pvek112",
     "name_cs": "pvek112",
@@ -14976,7 +14976,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek19": {
+  {
     "study": "soep-base",
     "name": "pvek19",
     "name_cs": "pvek19",
@@ -15019,7 +15019,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek191": {
+  {
     "study": "soep-base",
     "name": "pvek191",
     "name_cs": "pvek191",
@@ -15062,7 +15062,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek192": {
+  {
     "study": "soep-base",
     "name": "pvek192",
     "name_cs": "pvek192",
@@ -15113,7 +15113,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek18": {
+  {
     "study": "soep-base",
     "name": "pvek18",
     "name_cs": "pvek18",
@@ -15156,7 +15156,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek181": {
+  {
     "study": "soep-base",
     "name": "pvek181",
     "name_cs": "pvek181",
@@ -15199,7 +15199,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek182": {
+  {
     "study": "soep-base",
     "name": "pvek182",
     "name_cs": "pvek182",
@@ -15242,7 +15242,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek13": {
+  {
     "study": "soep-base",
     "name": "pvek13",
     "name_cs": "pvek13",
@@ -15285,7 +15285,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek131": {
+  {
     "study": "soep-base",
     "name": "pvek131",
     "name_cs": "pvek131",
@@ -15328,7 +15328,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvek132": {
+  {
     "study": "soep-base",
     "name": "pvek132",
     "name_cs": "pvek132",
@@ -15399,7 +15399,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pvekno": {
+  {
     "study": "soep-base",
     "name": "pvekno",
     "name_cs": "pvekno",
@@ -15442,7 +15442,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus01": {
+  {
     "study": "soep-base",
     "name": "pzus01",
     "name_cs": "pzus01",
@@ -15485,7 +15485,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus011": {
+  {
     "study": "soep-base",
     "name": "pzus011",
     "name_cs": "pzus011",
@@ -15540,7 +15540,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus02": {
+  {
     "study": "soep-base",
     "name": "pzus02",
     "name_cs": "pzus02",
@@ -15580,7 +15580,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus021": {
+  {
     "study": "soep-base",
     "name": "pzus021",
     "name_cs": "pzus021",
@@ -15616,7 +15616,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus03": {
+  {
     "study": "soep-base",
     "name": "pzus03",
     "name_cs": "pzus03",
@@ -15659,7 +15659,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus031": {
+  {
     "study": "soep-base",
     "name": "pzus031",
     "name_cs": "pzus031",
@@ -15722,7 +15722,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus04": {
+  {
     "study": "soep-base",
     "name": "pzus04",
     "name_cs": "pzus04",
@@ -15765,7 +15765,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus041": {
+  {
     "study": "soep-base",
     "name": "pzus041",
     "name_cs": "pzus041",
@@ -15840,7 +15840,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus05": {
+  {
     "study": "soep-base",
     "name": "pzus05",
     "name_cs": "pzus05",
@@ -15883,7 +15883,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus051": {
+  {
     "study": "soep-base",
     "name": "pzus051",
     "name_cs": "pzus051",
@@ -15942,7 +15942,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus06": {
+  {
     "study": "soep-base",
     "name": "pzus06",
     "name_cs": "pzus06",
@@ -15985,7 +15985,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus061": {
+  {
     "study": "soep-base",
     "name": "pzus061",
     "name_cs": "pzus061",
@@ -16036,7 +16036,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus07": {
+  {
     "study": "soep-base",
     "name": "pzus07",
     "name_cs": "pzus07",
@@ -16079,7 +16079,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus11": {
+  {
     "study": "soep-base",
     "name": "pzus11",
     "name_cs": "pzus11",
@@ -16126,7 +16126,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus12": {
+  {
     "study": "soep-base",
     "name": "pzus12",
     "name_cs": "pzus12",
@@ -16169,7 +16169,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus08": {
+  {
     "study": "soep-base",
     "name": "pzus08",
     "name_cs": "pzus08",
@@ -16216,7 +16216,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzus081": {
+  {
     "study": "soep-base",
     "name": "pzus081",
     "name_cs": "pzus081",
@@ -16259,7 +16259,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "par1": {
+  {
     "study": "soep-base",
     "name": "par1",
     "name_cs": "par1",
@@ -16650,7 +16650,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwr1": {
+  {
     "study": "soep-base",
     "name": "pwr1",
     "name_cs": "pwr1",
@@ -16741,7 +16741,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "par2": {
+  {
     "study": "soep-base",
     "name": "par2",
     "name_cs": "par2",
@@ -16812,7 +16812,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwr2": {
+  {
     "study": "soep-base",
     "name": "pwr2",
     "name_cs": "pwr2",
@@ -16863,7 +16863,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "par5": {
+  {
     "study": "soep-base",
     "name": "par5",
     "name_cs": "par5",
@@ -16986,7 +16986,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwr5": {
+  {
     "study": "soep-base",
     "name": "pwr5",
     "name_cs": "pwr5",
@@ -17022,7 +17022,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "par6": {
+  {
     "study": "soep-base",
     "name": "par6",
     "name_cs": "par6",
@@ -17093,7 +17093,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwr6": {
+  {
     "study": "soep-base",
     "name": "pwr6",
     "name_cs": "pwr6",
@@ -17129,7 +17129,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "par7": {
+  {
     "study": "soep-base",
     "name": "par7",
     "name_cs": "par7",
@@ -17196,7 +17196,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwr7": {
+  {
     "study": "soep-base",
     "name": "pwr7",
     "name_cs": "pwr7",
@@ -17239,7 +17239,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "par4": {
+  {
     "study": "soep-base",
     "name": "par4",
     "name_cs": "par4",
@@ -17286,7 +17286,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwr4": {
+  {
     "study": "soep-base",
     "name": "pwr4",
     "name_cs": "pwr4",
@@ -17322,7 +17322,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "par3": {
+  {
     "study": "soep-base",
     "name": "par3",
     "name_cs": "par3",
@@ -17358,7 +17358,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwr3": {
+  {
     "study": "soep-base",
     "name": "pwr3",
     "name_cs": "pwr3",
@@ -17394,7 +17394,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "par8": {
+  {
     "study": "soep-base",
     "name": "par8",
     "name_cs": "par8",
@@ -17449,7 +17449,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwr8": {
+  {
     "study": "soep-base",
     "name": "pwr8",
     "name_cs": "pwr8",
@@ -17485,7 +17485,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "parka": {
+  {
     "study": "soep-base",
     "name": "parka",
     "name_cs": "parka",
@@ -17521,7 +17521,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwrka": {
+  {
     "study": "soep-base",
     "name": "pwrka",
     "name_cs": "pwrka",
@@ -17557,7 +17557,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges01": {
+  {
     "study": "soep-base",
     "name": "pges01",
     "name_cs": "pges01",
@@ -17616,7 +17616,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges02": {
+  {
     "study": "soep-base",
     "name": "pges02",
     "name_cs": "pges02",
@@ -17667,7 +17667,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges03": {
+  {
     "study": "soep-base",
     "name": "pges03",
     "name_cs": "pges03",
@@ -17718,7 +17718,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges04": {
+  {
     "study": "soep-base",
     "name": "pges04",
     "name_cs": "pges04",
@@ -17777,7 +17777,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges05": {
+  {
     "study": "soep-base",
     "name": "pges05",
     "name_cs": "pges05",
@@ -17836,7 +17836,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges06": {
+  {
     "study": "soep-base",
     "name": "pges06",
     "name_cs": "pges06",
@@ -17895,7 +17895,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges07": {
+  {
     "study": "soep-base",
     "name": "pges07",
     "name_cs": "pges07",
@@ -17954,7 +17954,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges08": {
+  {
     "study": "soep-base",
     "name": "pges08",
     "name_cs": "pges08",
@@ -18013,7 +18013,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges09": {
+  {
     "study": "soep-base",
     "name": "pges09",
     "name_cs": "pges09",
@@ -18072,7 +18072,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges10": {
+  {
     "study": "soep-base",
     "name": "pges10",
     "name_cs": "pges10",
@@ -18131,7 +18131,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges11": {
+  {
     "study": "soep-base",
     "name": "pges11",
     "name_cs": "pges11",
@@ -18190,7 +18190,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges12": {
+  {
     "study": "soep-base",
     "name": "pges12",
     "name_cs": "pges12",
@@ -18249,7 +18249,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pges13": {
+  {
     "study": "soep-base",
     "name": "pges13",
     "name_cs": "pges13",
@@ -18308,7 +18308,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr17": {
+  {
     "study": "soep-base",
     "name": "pkr17",
     "name_cs": "pkr17",
@@ -18355,7 +18355,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pschl1": {
+  {
     "study": "soep-base",
     "name": "pschl1",
     "name_cs": "pschl1",
@@ -18422,7 +18422,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pschl2": {
+  {
     "study": "soep-base",
     "name": "pschl2",
     "name_cs": "pschl2",
@@ -18493,7 +18493,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pessen": {
+  {
     "study": "soep-base",
     "name": "pessen",
     "name_cs": "pessen",
@@ -18548,7 +18548,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "palk1": {
+  {
     "study": "soep-base",
     "name": "palk1",
     "name_cs": "palk1",
@@ -18603,7 +18603,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "palk2": {
+  {
     "study": "soep-base",
     "name": "palk2",
     "name_cs": "palk2",
@@ -18658,7 +18658,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "palk3": {
+  {
     "study": "soep-base",
     "name": "palk3",
     "name_cs": "palk3",
@@ -18713,7 +18713,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "palk4": {
+  {
     "study": "soep-base",
     "name": "palk4",
     "name_cs": "palk4",
@@ -18768,7 +18768,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "prauch1": {
+  {
     "study": "soep-base",
     "name": "prauch1",
     "name_cs": "prauch1",
@@ -18815,7 +18815,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "prauch2": {
+  {
     "study": "soep-base",
     "name": "prauch2",
     "name_cs": "prauch2",
@@ -18906,7 +18906,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "prauch3": {
+  {
     "study": "soep-base",
     "name": "prauch3",
     "name_cs": "prauch3",
@@ -18942,7 +18942,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "prauch4": {
+  {
     "study": "soep-base",
     "name": "prauch4",
     "name_cs": "prauch4",
@@ -18989,7 +18989,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "prauchka": {
+  {
     "study": "soep-base",
     "name": "prauchka",
     "name_cs": "prauchka",
@@ -19025,7 +19025,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgr": {
+  {
     "study": "soep-base",
     "name": "pgr",
     "name_cs": "pgr",
@@ -19212,7 +19212,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkilo": {
+  {
     "study": "soep-base",
     "name": "pkilo",
     "name_cs": "pkilo",
@@ -19463,7 +19463,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pbeh1": {
+  {
     "study": "soep-base",
     "name": "pbeh1",
     "name_cs": "pbeh1",
@@ -19510,7 +19510,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pbeh2": {
+  {
     "study": "soep-base",
     "name": "pbeh2",
     "name_cs": "pbeh2",
@@ -19585,7 +19585,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pdr1": {
+  {
     "study": "soep-base",
     "name": "pdr1",
     "name_cs": "pdr1",
@@ -19672,7 +19672,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pdr2": {
+  {
     "study": "soep-base",
     "name": "pdr2",
     "name_cs": "pdr2",
@@ -19715,7 +19715,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr1": {
+  {
     "study": "soep-base",
     "name": "pkr1",
     "name_cs": "pkr1",
@@ -19762,7 +19762,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr2": {
+  {
     "study": "soep-base",
     "name": "pkr2",
     "name_cs": "pkr2",
@@ -19849,7 +19849,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr3": {
+  {
     "study": "soep-base",
     "name": "pkr3",
     "name_cs": "pkr3",
@@ -19904,7 +19904,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr4": {
+  {
     "study": "soep-base",
     "name": "pkr4",
     "name_cs": "pkr4",
@@ -19959,7 +19959,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr5": {
+  {
     "study": "soep-base",
     "name": "pkr5",
     "name_cs": "pkr5",
@@ -20002,7 +20002,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr6": {
+  {
     "study": "soep-base",
     "name": "pkr6",
     "name_cs": "pkr6",
@@ -20089,7 +20089,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr18": {
+  {
     "study": "soep-base",
     "name": "pkr18",
     "name_cs": "pkr18",
@@ -20132,7 +20132,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr19": {
+  {
     "study": "soep-base",
     "name": "pkr19",
     "name_cs": "pkr19",
@@ -20179,7 +20179,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr20": {
+  {
     "study": "soep-base",
     "name": "pkr20",
     "name_cs": "pkr20",
@@ -20222,7 +20222,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr21": {
+  {
     "study": "soep-base",
     "name": "pkr21",
     "name_cs": "pkr21",
@@ -20281,7 +20281,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkr22": {
+  {
     "study": "soep-base",
     "name": "pkr22",
     "name_cs": "pkr22",
@@ -20324,7 +20324,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pbei": {
+  {
     "study": "soep-base",
     "name": "pbei",
     "name_cs": "pbei",
@@ -20371,7 +20371,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkkw": {
+  {
     "study": "soep-base",
     "name": "pkkw",
     "name_cs": "pkkw",
@@ -20422,7 +20422,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv01": {
+  {
     "study": "soep-base",
     "name": "pkv01",
     "name_cs": "pkv01",
@@ -20473,7 +20473,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv02": {
+  {
     "study": "soep-base",
     "name": "pkv02",
     "name_cs": "pkv02",
@@ -20556,7 +20556,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv03": {
+  {
     "study": "soep-base",
     "name": "pkv03",
     "name_cs": "pkv03",
@@ -20611,7 +20611,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt01": {
+  {
     "study": "soep-base",
     "name": "pkt01",
     "name_cs": "pkt01",
@@ -20658,7 +20658,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt02": {
+  {
     "study": "soep-base",
     "name": "pkt02",
     "name_cs": "pkt02",
@@ -20701,7 +20701,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt03": {
+  {
     "study": "soep-base",
     "name": "pkt03",
     "name_cs": "pkt03",
@@ -20744,7 +20744,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt04": {
+  {
     "study": "soep-base",
     "name": "pkt04",
     "name_cs": "pkt04",
@@ -20787,7 +20787,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt05": {
+  {
     "study": "soep-base",
     "name": "pkt05",
     "name_cs": "pkt05",
@@ -20827,7 +20827,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt06": {
+  {
     "study": "soep-base",
     "name": "pkt06",
     "name_cs": "pkt06",
@@ -20867,7 +20867,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt07": {
+  {
     "study": "soep-base",
     "name": "pkt07",
     "name_cs": "pkt07",
@@ -20910,7 +20910,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt08": {
+  {
     "study": "soep-base",
     "name": "pkt08",
     "name_cs": "pkt08",
@@ -20950,7 +20950,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkt09": {
+  {
     "study": "soep-base",
     "name": "pkt09",
     "name_cs": "pkt09",
@@ -20993,7 +20993,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pktka": {
+  {
     "study": "soep-base",
     "name": "pktka",
     "name_cs": "pktka",
@@ -21029,7 +21029,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv04": {
+  {
     "study": "soep-base",
     "name": "pkv04",
     "name_cs": "pkv04",
@@ -21076,7 +21076,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv05": {
+  {
     "study": "soep-base",
     "name": "pkv05",
     "name_cs": "pkv05",
@@ -21211,7 +21211,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv06": {
+  {
     "study": "soep-base",
     "name": "pkv06",
     "name_cs": "pkv06",
@@ -21254,7 +21254,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv07": {
+  {
     "study": "soep-base",
     "name": "pkv07",
     "name_cs": "pkv07",
@@ -21297,7 +21297,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv08": {
+  {
     "study": "soep-base",
     "name": "pkv08",
     "name_cs": "pkv08",
@@ -21340,7 +21340,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv09": {
+  {
     "study": "soep-base",
     "name": "pkv09",
     "name_cs": "pkv09",
@@ -21383,7 +21383,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv10": {
+  {
     "study": "soep-base",
     "name": "pkv10",
     "name_cs": "pkv10",
@@ -21426,7 +21426,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv11": {
+  {
     "study": "soep-base",
     "name": "pkv11",
     "name_cs": "pkv11",
@@ -21469,7 +21469,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pkv12": {
+  {
     "study": "soep-base",
     "name": "pkv12",
     "name_cs": "pkv12",
@@ -21509,7 +21509,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppkv01": {
+  {
     "study": "soep-base",
     "name": "ppkv01",
     "name_cs": "ppkv01",
@@ -21556,7 +21556,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppkv02": {
+  {
     "study": "soep-base",
     "name": "ppkv02",
     "name_cs": "ppkv02",
@@ -21651,7 +21651,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppkv03": {
+  {
     "study": "soep-base",
     "name": "ppkv03",
     "name_cs": "ppkv03",
@@ -21691,7 +21691,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppkv04": {
+  {
     "study": "soep-base",
     "name": "ppkv04",
     "name_cs": "ppkv04",
@@ -21734,7 +21734,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppkv05": {
+  {
     "study": "soep-base",
     "name": "ppkv05",
     "name_cs": "ppkv05",
@@ -21770,7 +21770,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppkv06": {
+  {
     "study": "soep-base",
     "name": "ppkv06",
     "name_cs": "ppkv06",
@@ -21817,7 +21817,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppkv09": {
+  {
     "study": "soep-base",
     "name": "ppkv09",
     "name_cs": "ppkv09",
@@ -21864,7 +21864,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppkv10": {
+  {
     "study": "soep-base",
     "name": "ppkv10",
     "name_cs": "ppkv10",
@@ -21907,7 +21907,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "priest": {
+  {
     "study": "soep-base",
     "name": "priest",
     "name_cs": "priest",
@@ -21954,7 +21954,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pspend1": {
+  {
     "study": "soep-base",
     "name": "pspend1",
     "name_cs": "pspend1",
@@ -22001,7 +22001,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pspend2": {
+  {
     "study": "soep-base",
     "name": "pspend2",
     "name_cs": "pspend2",
@@ -22172,7 +22172,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pspend3": {
+  {
     "study": "soep-base",
     "name": "pspend3",
     "name_cs": "pspend3",
@@ -22219,7 +22219,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pspend4": {
+  {
     "study": "soep-base",
     "name": "pspend4",
     "name_cs": "pspend4",
@@ -22266,7 +22266,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pspend5": {
+  {
     "study": "soep-base",
     "name": "pspend5",
     "name_cs": "pspend5",
@@ -22313,7 +22313,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgift1": {
+  {
     "study": "soep-base",
     "name": "pgift1",
     "name_cs": "pgift1",
@@ -22432,7 +22432,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgift2": {
+  {
     "study": "soep-base",
     "name": "pgift2",
     "name_cs": "pgift2",
@@ -22551,7 +22551,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgift3": {
+  {
     "study": "soep-base",
     "name": "pgift3",
     "name_cs": "pgift3",
@@ -22666,7 +22666,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "prisk": {
+  {
     "study": "soep-base",
     "name": "prisk",
     "name_cs": "prisk",
@@ -22749,7 +22749,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas01": {
+  {
     "study": "soep-base",
     "name": "pmas01",
     "name_cs": "pmas01",
@@ -22808,7 +22808,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas02": {
+  {
     "study": "soep-base",
     "name": "pmas02",
     "name_cs": "pmas02",
@@ -22875,7 +22875,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas03": {
+  {
     "study": "soep-base",
     "name": "pmas03",
     "name_cs": "pmas03",
@@ -22942,7 +22942,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas04": {
+  {
     "study": "soep-base",
     "name": "pmas04",
     "name_cs": "pmas04",
@@ -23009,7 +23009,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas05": {
+  {
     "study": "soep-base",
     "name": "pmas05",
     "name_cs": "pmas05",
@@ -23076,7 +23076,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas06": {
+  {
     "study": "soep-base",
     "name": "pmas06",
     "name_cs": "pmas06",
@@ -23143,7 +23143,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas07": {
+  {
     "study": "soep-base",
     "name": "pmas07",
     "name_cs": "pmas07",
@@ -23210,7 +23210,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas08": {
+  {
     "study": "soep-base",
     "name": "pmas08",
     "name_cs": "pmas08",
@@ -23277,7 +23277,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas09": {
+  {
     "study": "soep-base",
     "name": "pmas09",
     "name_cs": "pmas09",
@@ -23344,7 +23344,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas10": {
+  {
     "study": "soep-base",
     "name": "pmas10",
     "name_cs": "pmas10",
@@ -23411,7 +23411,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmas11": {
+  {
     "study": "soep-base",
     "name": "pmas11",
     "name_cs": "pmas11",
@@ -23478,7 +23478,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgef1": {
+  {
     "study": "soep-base",
     "name": "pgef1",
     "name_cs": "pgef1",
@@ -23537,7 +23537,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgef2": {
+  {
     "study": "soep-base",
     "name": "pgef2",
     "name_cs": "pgef2",
@@ -23596,7 +23596,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgef3": {
+  {
     "study": "soep-base",
     "name": "pgef3",
     "name_cs": "pgef3",
@@ -23655,7 +23655,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pgef4": {
+  {
     "study": "soep-base",
     "name": "pgef4",
     "name_cs": "pgef4",
@@ -23714,7 +23714,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwahl": {
+  {
     "study": "soep-base",
     "name": "pwahl",
     "name_cs": "pwahl",
@@ -23765,7 +23765,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppol1": {
+  {
     "study": "soep-base",
     "name": "ppol1",
     "name_cs": "ppol1",
@@ -23820,7 +23820,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppol2": {
+  {
     "study": "soep-base",
     "name": "ppol2",
     "name_cs": "ppol2",
@@ -23867,7 +23867,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppol3": {
+  {
     "study": "soep-base",
     "name": "ppol3",
     "name_cs": "ppol3",
@@ -24006,7 +24006,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppol4": {
+  {
     "study": "soep-base",
     "name": "ppol4",
     "name_cs": "ppol4",
@@ -24065,7 +24065,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor01": {
+  {
     "study": "soep-base",
     "name": "psor01",
     "name_cs": "psor01",
@@ -24116,7 +24116,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor02": {
+  {
     "study": "soep-base",
     "name": "psor02",
     "name_cs": "psor02",
@@ -24167,7 +24167,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor13": {
+  {
     "study": "soep-base",
     "name": "psor13",
     "name_cs": "psor13",
@@ -24218,7 +24218,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor03": {
+  {
     "study": "soep-base",
     "name": "psor03",
     "name_cs": "psor03",
@@ -24269,7 +24269,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor04": {
+  {
     "study": "soep-base",
     "name": "psor04",
     "name_cs": "psor04",
@@ -24320,7 +24320,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor14": {
+  {
     "study": "soep-base",
     "name": "psor14",
     "name_cs": "psor14",
@@ -24371,7 +24371,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor05": {
+  {
     "study": "soep-base",
     "name": "psor05",
     "name_cs": "psor05",
@@ -24422,7 +24422,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor12": {
+  {
     "study": "soep-base",
     "name": "psor12",
     "name_cs": "psor12",
@@ -24473,7 +24473,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor06": {
+  {
     "study": "soep-base",
     "name": "psor06",
     "name_cs": "psor06",
@@ -24524,7 +24524,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor08": {
+  {
     "study": "soep-base",
     "name": "psor08",
     "name_cs": "psor08",
@@ -24575,7 +24575,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor09": {
+  {
     "study": "soep-base",
     "name": "psor09",
     "name_cs": "psor09",
@@ -24626,7 +24626,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psor10": {
+  {
     "study": "soep-base",
     "name": "psor10",
     "name_cs": "psor10",
@@ -24677,7 +24677,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psornr": {
+  {
     "study": "soep-base",
     "name": "psornr",
     "name_cs": "psornr",
@@ -24808,7 +24808,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmusp1": {
+  {
     "study": "soep-base",
     "name": "pmusp1",
     "name_cs": "pmusp1",
@@ -24855,7 +24855,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmusp2": {
+  {
     "study": "soep-base",
     "name": "pmusp2",
     "name_cs": "pmusp2",
@@ -24914,7 +24914,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmusp3": {
+  {
     "study": "soep-base",
     "name": "pmusp3",
     "name_cs": "pmusp3",
@@ -24973,7 +24973,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmusp6": {
+  {
     "study": "soep-base",
     "name": "pmusp6",
     "name_cs": "pmusp6",
@@ -25032,7 +25032,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmusp4": {
+  {
     "study": "soep-base",
     "name": "pmusp4",
     "name_cs": "pmusp4",
@@ -25091,7 +25091,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmusp5": {
+  {
     "study": "soep-base",
     "name": "pmusp5",
     "name_cs": "pmusp5",
@@ -25150,7 +25150,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pmusp7": {
+  {
     "study": "soep-base",
     "name": "pmusp7",
     "name_cs": "pmusp7",
@@ -25209,7 +25209,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pna04": {
+  {
     "study": "soep-base",
     "name": "pna04",
     "name_cs": "pna04",
@@ -25260,7 +25260,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat01": {
+  {
     "study": "soep-base",
     "name": "pnat01",
     "name_cs": "pnat01",
@@ -25307,7 +25307,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psta1": {
+  {
     "study": "soep-base",
     "name": "psta1",
     "name_cs": "psta1",
@@ -25354,7 +25354,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psta2": {
+  {
     "study": "soep-base",
     "name": "psta2",
     "name_cs": "psta2",
@@ -25401,7 +25401,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psta2nr": {
+  {
     "study": "soep-base",
     "name": "psta2nr",
     "name_cs": "psta2nr",
@@ -25444,7 +25444,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psta3": {
+  {
     "study": "soep-base",
     "name": "psta3",
     "name_cs": "psta3",
@@ -25491,7 +25491,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnatnr": {
+  {
     "study": "soep-base",
     "name": "pnatnr",
     "name_cs": "pnatnr",
@@ -26214,7 +26214,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat02": {
+  {
     "study": "soep-base",
     "name": "pnat02",
     "name_cs": "pnat02",
@@ -26269,7 +26269,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pna09": {
+  {
     "study": "soep-base",
     "name": "pna09",
     "name_cs": "pna09",
@@ -26320,7 +26320,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat05": {
+  {
     "study": "soep-base",
     "name": "pnat05",
     "name_cs": "pnat05",
@@ -26383,7 +26383,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pna14": {
+  {
     "study": "soep-base",
     "name": "pna14",
     "name_cs": "pna14",
@@ -26442,7 +26442,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pna15": {
+  {
     "study": "soep-base",
     "name": "pna15",
     "name_cs": "pna15",
@@ -26501,7 +26501,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat09": {
+  {
     "study": "soep-base",
     "name": "pnat09",
     "name_cs": "pnat09",
@@ -26560,7 +26560,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat10": {
+  {
     "study": "soep-base",
     "name": "pnat10",
     "name_cs": "pnat10",
@@ -26607,7 +26607,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat11": {
+  {
     "study": "soep-base",
     "name": "pnat11",
     "name_cs": "pnat11",
@@ -26654,7 +26654,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat12": {
+  {
     "study": "soep-base",
     "name": "pnat12",
     "name_cs": "pnat12",
@@ -26690,7 +26690,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat13": {
+  {
     "study": "soep-base",
     "name": "pnat13",
     "name_cs": "pnat13",
@@ -26730,7 +26730,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat14": {
+  {
     "study": "soep-base",
     "name": "pnat14",
     "name_cs": "pnat14",
@@ -26777,7 +26777,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat15": {
+  {
     "study": "soep-base",
     "name": "pnat15",
     "name_cs": "pnat15",
@@ -26836,7 +26836,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnat16": {
+  {
     "study": "soep-base",
     "name": "pnat16",
     "name_cs": "pnat16",
@@ -26895,7 +26895,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psex": {
+  {
     "study": "soep-base",
     "name": "psex",
     "name_cs": "psex",
@@ -26942,7 +26942,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppgeb": {
+  {
     "study": "soep-base",
     "name": "ppgeb",
     "name_cs": "ppgeb",
@@ -27149,7 +27149,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfamst": {
+  {
     "study": "soep-base",
     "name": "pfamst",
     "name_cs": "pfamst",
@@ -27216,7 +27216,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pp1": {
+  {
     "study": "soep-base",
     "name": "pp1",
     "name_cs": "pp1",
@@ -27263,7 +27263,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pp2": {
+  {
     "study": "soep-base",
     "name": "pp2",
     "name_cs": "pp2",
@@ -27310,7 +27310,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppnr": {
+  {
     "study": "soep-base",
     "name": "ppnr",
     "name_cs": "ppnr",
@@ -27361,7 +27361,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "peink": {
+  {
     "study": "soep-base",
     "name": "peink",
     "name_cs": "peink",
@@ -27420,7 +27420,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pwort": {
+  {
     "study": "soep-base",
     "name": "pwort",
     "name_cs": "pwort",
@@ -27471,7 +27471,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt11": {
+  {
     "study": "soep-base",
     "name": "punt11",
     "name_cs": "punt11",
@@ -27514,7 +27514,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt12": {
+  {
     "study": "soep-base",
     "name": "punt12",
     "name_cs": "punt12",
@@ -27577,7 +27577,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt13": {
+  {
     "study": "soep-base",
     "name": "punt13",
     "name_cs": "punt13",
@@ -27620,7 +27620,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt14": {
+  {
     "study": "soep-base",
     "name": "punt14",
     "name_cs": "punt14",
@@ -27663,7 +27663,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt21": {
+  {
     "study": "soep-base",
     "name": "punt21",
     "name_cs": "punt21",
@@ -27706,7 +27706,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt22": {
+  {
     "study": "soep-base",
     "name": "punt22",
     "name_cs": "punt22",
@@ -27821,7 +27821,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt23": {
+  {
     "study": "soep-base",
     "name": "punt23",
     "name_cs": "punt23",
@@ -27864,7 +27864,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt24": {
+  {
     "study": "soep-base",
     "name": "punt24",
     "name_cs": "punt24",
@@ -27907,7 +27907,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt31": {
+  {
     "study": "soep-base",
     "name": "punt31",
     "name_cs": "punt31",
@@ -27950,7 +27950,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt32": {
+  {
     "study": "soep-base",
     "name": "punt32",
     "name_cs": "punt32",
@@ -28001,7 +28001,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt33": {
+  {
     "study": "soep-base",
     "name": "punt33",
     "name_cs": "punt33",
@@ -28044,7 +28044,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt34": {
+  {
     "study": "soep-base",
     "name": "punt34",
     "name_cs": "punt34",
@@ -28084,7 +28084,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt41": {
+  {
     "study": "soep-base",
     "name": "punt41",
     "name_cs": "punt41",
@@ -28127,7 +28127,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt42": {
+  {
     "study": "soep-base",
     "name": "punt42",
     "name_cs": "punt42",
@@ -28214,7 +28214,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt43": {
+  {
     "study": "soep-base",
     "name": "punt43",
     "name_cs": "punt43",
@@ -28257,7 +28257,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt44": {
+  {
     "study": "soep-base",
     "name": "punt44",
     "name_cs": "punt44",
@@ -28300,7 +28300,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt51": {
+  {
     "study": "soep-base",
     "name": "punt51",
     "name_cs": "punt51",
@@ -28343,7 +28343,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt52": {
+  {
     "study": "soep-base",
     "name": "punt52",
     "name_cs": "punt52",
@@ -28406,7 +28406,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt53": {
+  {
     "study": "soep-base",
     "name": "punt53",
     "name_cs": "punt53",
@@ -28449,7 +28449,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt54": {
+  {
     "study": "soep-base",
     "name": "punt54",
     "name_cs": "punt54",
@@ -28492,7 +28492,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "puntno": {
+  {
     "study": "soep-base",
     "name": "puntno",
     "name_cs": "puntno",
@@ -28535,7 +28535,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt61": {
+  {
     "study": "soep-base",
     "name": "punt61",
     "name_cs": "punt61",
@@ -28578,7 +28578,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt62": {
+  {
     "study": "soep-base",
     "name": "punt62",
     "name_cs": "punt62",
@@ -28677,7 +28677,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt63": {
+  {
     "study": "soep-base",
     "name": "punt63",
     "name_cs": "punt63",
@@ -28720,7 +28720,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt64": {
+  {
     "study": "soep-base",
     "name": "punt64",
     "name_cs": "punt64",
@@ -28760,7 +28760,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt71": {
+  {
     "study": "soep-base",
     "name": "punt71",
     "name_cs": "punt71",
@@ -28803,7 +28803,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt72": {
+  {
     "study": "soep-base",
     "name": "punt72",
     "name_cs": "punt72",
@@ -28850,7 +28850,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt73": {
+  {
     "study": "soep-base",
     "name": "punt73",
     "name_cs": "punt73",
@@ -28893,7 +28893,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt74": {
+  {
     "study": "soep-base",
     "name": "punt74",
     "name_cs": "punt74",
@@ -28933,7 +28933,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt81": {
+  {
     "study": "soep-base",
     "name": "punt81",
     "name_cs": "punt81",
@@ -28976,7 +28976,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt82": {
+  {
     "study": "soep-base",
     "name": "punt82",
     "name_cs": "punt82",
@@ -29019,7 +29019,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt83": {
+  {
     "study": "soep-base",
     "name": "punt83",
     "name_cs": "punt83",
@@ -29062,7 +29062,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt84": {
+  {
     "study": "soep-base",
     "name": "punt84",
     "name_cs": "punt84",
@@ -29102,7 +29102,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt91": {
+  {
     "study": "soep-base",
     "name": "punt91",
     "name_cs": "punt91",
@@ -29145,7 +29145,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt92": {
+  {
     "study": "soep-base",
     "name": "punt92",
     "name_cs": "punt92",
@@ -29204,7 +29204,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt93": {
+  {
     "study": "soep-base",
     "name": "punt93",
     "name_cs": "punt93",
@@ -29247,7 +29247,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt94": {
+  {
     "study": "soep-base",
     "name": "punt94",
     "name_cs": "punt94",
@@ -29287,7 +29287,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt101": {
+  {
     "study": "soep-base",
     "name": "punt101",
     "name_cs": "punt101",
@@ -29330,7 +29330,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt102": {
+  {
     "study": "soep-base",
     "name": "punt102",
     "name_cs": "punt102",
@@ -29385,7 +29385,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt103": {
+  {
     "study": "soep-base",
     "name": "punt103",
     "name_cs": "punt103",
@@ -29428,7 +29428,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "punt104": {
+  {
     "study": "soep-base",
     "name": "punt104",
     "name_cs": "punt104",
@@ -29468,7 +29468,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "puntno2": {
+  {
     "study": "soep-base",
     "name": "puntno2",
     "name_cs": "puntno2",
@@ -29511,7 +29511,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psach11": {
+  {
     "study": "soep-base",
     "name": "psach11",
     "name_cs": "psach11",
@@ -29558,7 +29558,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psach12": {
+  {
     "study": "soep-base",
     "name": "psach12",
     "name_cs": "psach12",
@@ -29661,7 +29661,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psach13": {
+  {
     "study": "soep-base",
     "name": "psach13",
     "name_cs": "psach13",
@@ -29704,7 +29704,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psach14": {
+  {
     "study": "soep-base",
     "name": "psach14",
     "name_cs": "psach14",
@@ -29747,7 +29747,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psach21": {
+  {
     "study": "soep-base",
     "name": "psach21",
     "name_cs": "psach21",
@@ -29794,7 +29794,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psach22": {
+  {
     "study": "soep-base",
     "name": "psach22",
     "name_cs": "psach22",
@@ -29885,7 +29885,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psach23": {
+  {
     "study": "soep-base",
     "name": "psach23",
     "name_cs": "psach23",
@@ -29928,7 +29928,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "psach24": {
+  {
     "study": "soep-base",
     "name": "psach24",
     "name_cs": "psach24",
@@ -29971,7 +29971,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs011": {
+  {
     "study": "soep-base",
     "name": "pfs011",
     "name_cs": "pfs011",
@@ -30014,7 +30014,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs013": {
+  {
     "study": "soep-base",
     "name": "pfs013",
     "name_cs": "pfs013",
@@ -30098,7 +30098,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs012": {
+  {
     "study": "soep-base",
     "name": "pfs012",
     "name_cs": "pfs012",
@@ -30185,7 +30185,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs021": {
+  {
     "study": "soep-base",
     "name": "pfs021",
     "name_cs": "pfs021",
@@ -30228,7 +30228,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs023": {
+  {
     "study": "soep-base",
     "name": "pfs023",
     "name_cs": "pfs023",
@@ -30315,7 +30315,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs022": {
+  {
     "study": "soep-base",
     "name": "pfs022",
     "name_cs": "pfs022",
@@ -30402,7 +30402,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs031": {
+  {
     "study": "soep-base",
     "name": "pfs031",
     "name_cs": "pfs031",
@@ -30445,7 +30445,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs033": {
+  {
     "study": "soep-base",
     "name": "pfs033",
     "name_cs": "pfs033",
@@ -30532,7 +30532,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs032": {
+  {
     "study": "soep-base",
     "name": "pfs032",
     "name_cs": "pfs032",
@@ -30619,7 +30619,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs111": {
+  {
     "study": "soep-base",
     "name": "pfs111",
     "name_cs": "pfs111",
@@ -30662,7 +30662,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs113": {
+  {
     "study": "soep-base",
     "name": "pfs113",
     "name_cs": "pfs113",
@@ -30746,7 +30746,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs112": {
+  {
     "study": "soep-base",
     "name": "pfs112",
     "name_cs": "pfs112",
@@ -30833,7 +30833,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs041": {
+  {
     "study": "soep-base",
     "name": "pfs041",
     "name_cs": "pfs041",
@@ -30876,7 +30876,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs043": {
+  {
     "study": "soep-base",
     "name": "pfs043",
     "name_cs": "pfs043",
@@ -30960,7 +30960,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs042": {
+  {
     "study": "soep-base",
     "name": "pfs042",
     "name_cs": "pfs042",
@@ -31047,7 +31047,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs051": {
+  {
     "study": "soep-base",
     "name": "pfs051",
     "name_cs": "pfs051",
@@ -31090,7 +31090,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs053": {
+  {
     "study": "soep-base",
     "name": "pfs053",
     "name_cs": "pfs053",
@@ -31177,7 +31177,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs052": {
+  {
     "study": "soep-base",
     "name": "pfs052",
     "name_cs": "pfs052",
@@ -31264,7 +31264,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs061": {
+  {
     "study": "soep-base",
     "name": "pfs061",
     "name_cs": "pfs061",
@@ -31304,7 +31304,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs063": {
+  {
     "study": "soep-base",
     "name": "pfs063",
     "name_cs": "pfs063",
@@ -31388,7 +31388,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs062": {
+  {
     "study": "soep-base",
     "name": "pfs062",
     "name_cs": "pfs062",
@@ -31472,7 +31472,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs071": {
+  {
     "study": "soep-base",
     "name": "pfs071",
     "name_cs": "pfs071",
@@ -31512,7 +31512,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs073": {
+  {
     "study": "soep-base",
     "name": "pfs073",
     "name_cs": "pfs073",
@@ -31596,7 +31596,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs072": {
+  {
     "study": "soep-base",
     "name": "pfs072",
     "name_cs": "pfs072",
@@ -31680,7 +31680,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs081": {
+  {
     "study": "soep-base",
     "name": "pfs081",
     "name_cs": "pfs081",
@@ -31723,7 +31723,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs083": {
+  {
     "study": "soep-base",
     "name": "pfs083",
     "name_cs": "pfs083",
@@ -31807,7 +31807,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs082": {
+  {
     "study": "soep-base",
     "name": "pfs082",
     "name_cs": "pfs082",
@@ -31894,7 +31894,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs091": {
+  {
     "study": "soep-base",
     "name": "pfs091",
     "name_cs": "pfs091",
@@ -31937,7 +31937,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs093": {
+  {
     "study": "soep-base",
     "name": "pfs093",
     "name_cs": "pfs093",
@@ -32024,7 +32024,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs092": {
+  {
     "study": "soep-base",
     "name": "pfs092",
     "name_cs": "pfs092",
@@ -32111,7 +32111,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs121": {
+  {
     "study": "soep-base",
     "name": "pfs121",
     "name_cs": "pfs121",
@@ -32154,7 +32154,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs123": {
+  {
     "study": "soep-base",
     "name": "pfs123",
     "name_cs": "pfs123",
@@ -32238,7 +32238,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs122": {
+  {
     "study": "soep-base",
     "name": "pfs122",
     "name_cs": "pfs122",
@@ -32325,7 +32325,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs131": {
+  {
     "study": "soep-base",
     "name": "pfs131",
     "name_cs": "pfs131",
@@ -32368,7 +32368,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs133": {
+  {
     "study": "soep-base",
     "name": "pfs133",
     "name_cs": "pfs133",
@@ -32455,7 +32455,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs132": {
+  {
     "study": "soep-base",
     "name": "pfs132",
     "name_cs": "pfs132",
@@ -32539,7 +32539,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs101": {
+  {
     "study": "soep-base",
     "name": "pfs101",
     "name_cs": "pfs101",
@@ -32582,7 +32582,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs103": {
+  {
     "study": "soep-base",
     "name": "pfs103",
     "name_cs": "pfs103",
@@ -32669,7 +32669,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfs102": {
+  {
     "study": "soep-base",
     "name": "pfs102",
     "name_cs": "pfs102",
@@ -32756,7 +32756,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pfsno": {
+  {
     "study": "soep-base",
     "name": "pfsno",
     "name_cs": "pfsno",
@@ -32799,7 +32799,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pzule1": {
+  {
     "study": "soep-base",
     "name": "pzule1",
     "name_cs": "pzule1",
@@ -32882,7 +32882,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pform": {
+  {
     "study": "soep-base",
     "name": "pform",
     "name_cs": "pform",
@@ -32953,7 +32953,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pdauer1": {
+  {
     "study": "soep-base",
     "name": "pdauer1",
     "name_cs": "pdauer1",
@@ -32989,7 +32989,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pdauer2": {
+  {
     "study": "soep-base",
     "name": "pdauer2",
     "name_cs": "pdauer2",
@@ -33025,7 +33025,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pdatt": {
+  {
     "study": "soep-base",
     "name": "pdatt",
     "name_cs": "pdatt",
@@ -33148,7 +33148,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pdatm": {
+  {
     "study": "soep-base",
     "name": "pdatm",
     "name_cs": "pdatm",
@@ -33235,7 +33235,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "hpmax": {
+  {
     "study": "soep-base",
     "name": "hpmax",
     "name_cs": "hpmax",
@@ -33290,7 +33290,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "urhh": {
+  {
     "study": "soep-base",
     "name": "urhh",
     "name_cs": "urhh",
@@ -33869,7 +33869,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "pnrfest": {
+  {
     "study": "soep-base",
     "name": "pnrfest",
     "name_cs": "pnrfest",
@@ -34636,7 +34636,7 @@
     "boost": "1",
     "period": "2010"
   },
-  "ppnatnr": {
+  {
     "study": "soep-base",
     "name": "ppnatnr",
     "name_cs": "ppnatnr",
@@ -34683,4 +34683,4 @@
     "boost": "1",
     "period": "2010"
   }
-}
+]

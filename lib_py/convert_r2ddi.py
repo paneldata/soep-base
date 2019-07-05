@@ -91,11 +91,12 @@ class Parser:
             var_dict["scale"] = "cat"
         else:
             var_dict["scale"] = ""
-        if not dataset in self.datasets.keys():
-            self.datasets[dataset] = OrderedDict()
+        # afuetterer: Create list of variables instead of dictionary
+        if dataset not in self.datasets:
+            self.datasets[dataset] = []
         if self.datasets_csv is not None:
             self._parse_dataset(var_dict)
-        self.datasets[dataset][variable] = var_dict
+        self.datasets[dataset].append(var_dict)
 
     def _parse_dataset(self, var_dict):
         try:
@@ -180,8 +181,8 @@ class Parser:
     def write_json(self):
         os.system("rm -r ddionrails/datasets; mkdir -p ddionrails/datasets")
         for dataset_name, dataset in self.datasets.items():
-            with open("ddionrails/datasets/%s.json" % dataset_name, "w") as f:
-                json.dump(dataset, f, indent=2)
+            with open(f"ddionrails/datasets/{dataset_name}.json", "w") as outfile:
+                json.dump(dataset, outfile, indent=2)
 
     def _read_datasets_csv(self, path):
         self.datasets_csv = pd.read_csv(path)

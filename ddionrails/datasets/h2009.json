@@ -1,5 +1,5 @@
-{
-  "welle": {
+[
+  {
     "study": "soep-base",
     "name": "welle",
     "name_cs": "welle",
@@ -28,7 +28,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "sample1": {
+  {
     "study": "soep-base",
     "name": "sample1",
     "name_cs": "sample1",
@@ -63,7 +63,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhhnr": {
+  {
     "study": "soep-base",
     "name": "zhhnr",
     "name_cs": "zhhnr",
@@ -92,7 +92,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zausku": {
+  {
     "study": "soep-base",
     "name": "zausku",
     "name_cs": "zausku",
@@ -143,7 +143,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh01": {
+  {
     "study": "soep-base",
     "name": "zh01",
     "name_cs": "zh01",
@@ -182,7 +182,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0201": {
+  {
     "study": "soep-base",
     "name": "zh0201",
     "name_cs": "zh0201",
@@ -217,7 +217,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0202": {
+  {
     "study": "soep-base",
     "name": "zh0202",
     "name_cs": "zh0202",
@@ -252,7 +252,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0203": {
+  {
     "study": "soep-base",
     "name": "zh0203",
     "name_cs": "zh0203",
@@ -280,7 +280,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0204": {
+  {
     "study": "soep-base",
     "name": "zh0204",
     "name_cs": "zh0204",
@@ -315,7 +315,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0205": {
+  {
     "study": "soep-base",
     "name": "zh0205",
     "name_cs": "zh0205",
@@ -350,7 +350,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0206": {
+  {
     "study": "soep-base",
     "name": "zh0206",
     "name_cs": "zh0206",
@@ -385,7 +385,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0207": {
+  {
     "study": "soep-base",
     "name": "zh0207",
     "name_cs": "zh0207",
@@ -420,7 +420,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0208": {
+  {
     "study": "soep-base",
     "name": "zh0208",
     "name_cs": "zh0208",
@@ -455,7 +455,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0209": {
+  {
     "study": "soep-base",
     "name": "zh0209",
     "name_cs": "zh0209",
@@ -490,7 +490,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0210": {
+  {
     "study": "soep-base",
     "name": "zh0210",
     "name_cs": "zh0210",
@@ -525,7 +525,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0211": {
+  {
     "study": "soep-base",
     "name": "zh0211",
     "name_cs": "zh0211",
@@ -560,7 +560,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0212": {
+  {
     "study": "soep-base",
     "name": "zh0212",
     "name_cs": "zh0212",
@@ -595,7 +595,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0213": {
+  {
     "study": "soep-base",
     "name": "zh0213",
     "name_cs": "zh0213",
@@ -630,7 +630,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0214": {
+  {
     "study": "soep-base",
     "name": "zh0214",
     "name_cs": "zh0214",
@@ -665,7 +665,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0215": {
+  {
     "study": "soep-base",
     "name": "zh0215",
     "name_cs": "zh0215",
@@ -700,7 +700,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0216": {
+  {
     "study": "soep-base",
     "name": "zh0216",
     "name_cs": "zh0216",
@@ -735,7 +735,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0217": {
+  {
     "study": "soep-base",
     "name": "zh0217",
     "name_cs": "zh0217",
@@ -770,7 +770,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0301": {
+  {
     "study": "soep-base",
     "name": "zh0301",
     "name_cs": "zh0301",
@@ -813,7 +813,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0302": {
+  {
     "study": "soep-base",
     "name": "zh0302",
     "name_cs": "zh0302",
@@ -856,7 +856,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0303": {
+  {
     "study": "soep-base",
     "name": "zh0303",
     "name_cs": "zh0303",
@@ -903,7 +903,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0304": {
+  {
     "study": "soep-base",
     "name": "zh0304",
     "name_cs": "zh0304",
@@ -946,7 +946,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0305": {
+  {
     "study": "soep-base",
     "name": "zh0305",
     "name_cs": "zh0305",
@@ -989,7 +989,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0306": {
+  {
     "study": "soep-base",
     "name": "zh0306",
     "name_cs": "zh0306",
@@ -1036,7 +1036,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0307": {
+  {
     "study": "soep-base",
     "name": "zh0307",
     "name_cs": "zh0307",
@@ -1083,7 +1083,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0401": {
+  {
     "study": "soep-base",
     "name": "zh0401",
     "name_cs": "zh0401",
@@ -1166,7 +1166,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0402": {
+  {
     "study": "soep-base",
     "name": "zh0402",
     "name_cs": "zh0402",
@@ -1196,7 +1196,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh05": {
+  {
     "study": "soep-base",
     "name": "zh05",
     "name_cs": "zh05",
@@ -1251,7 +1251,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh06": {
+  {
     "study": "soep-base",
     "name": "zh06",
     "name_cs": "zh06",
@@ -1314,7 +1314,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh07": {
+  {
     "study": "soep-base",
     "name": "zh07",
     "name_cs": "zh07",
@@ -1377,7 +1377,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0801": {
+  {
     "study": "soep-base",
     "name": "zh0801",
     "name_cs": "zh0801",
@@ -1440,7 +1440,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh0802": {
+  {
     "study": "soep-base",
     "name": "zh0802",
     "name_cs": "zh0802",
@@ -1470,7 +1470,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh09": {
+  {
     "study": "soep-base",
     "name": "zh09",
     "name_cs": "zh09",
@@ -1509,7 +1509,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh10": {
+  {
     "study": "soep-base",
     "name": "zh10",
     "name_cs": "zh10",
@@ -1539,7 +1539,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh11": {
+  {
     "study": "soep-base",
     "name": "zh11",
     "name_cs": "zh11",
@@ -1569,7 +1569,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh12": {
+  {
     "study": "soep-base",
     "name": "zh12",
     "name_cs": "zh12",
@@ -1620,7 +1620,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh13": {
+  {
     "study": "soep-base",
     "name": "zh13",
     "name_cs": "zh13",
@@ -1667,7 +1667,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1401": {
+  {
     "study": "soep-base",
     "name": "zh1401",
     "name_cs": "zh1401",
@@ -1706,7 +1706,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1402": {
+  {
     "study": "soep-base",
     "name": "zh1402",
     "name_cs": "zh1402",
@@ -1745,7 +1745,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1403": {
+  {
     "study": "soep-base",
     "name": "zh1403",
     "name_cs": "zh1403",
@@ -1784,7 +1784,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1404": {
+  {
     "study": "soep-base",
     "name": "zh1404",
     "name_cs": "zh1404",
@@ -1823,7 +1823,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1405": {
+  {
     "study": "soep-base",
     "name": "zh1405",
     "name_cs": "zh1405",
@@ -1862,7 +1862,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1406": {
+  {
     "study": "soep-base",
     "name": "zh1406",
     "name_cs": "zh1406",
@@ -1901,7 +1901,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1407": {
+  {
     "study": "soep-base",
     "name": "zh1407",
     "name_cs": "zh1407",
@@ -1940,7 +1940,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1408": {
+  {
     "study": "soep-base",
     "name": "zh1408",
     "name_cs": "zh1408",
@@ -1979,7 +1979,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1409": {
+  {
     "study": "soep-base",
     "name": "zh1409",
     "name_cs": "zh1409",
@@ -2018,7 +2018,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1410": {
+  {
     "study": "soep-base",
     "name": "zh1410",
     "name_cs": "zh1410",
@@ -2057,7 +2057,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1411": {
+  {
     "study": "soep-base",
     "name": "zh1411",
     "name_cs": "zh1411",
@@ -2096,7 +2096,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1412": {
+  {
     "study": "soep-base",
     "name": "zh1412",
     "name_cs": "zh1412",
@@ -2135,7 +2135,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1413": {
+  {
     "study": "soep-base",
     "name": "zh1413",
     "name_cs": "zh1413",
@@ -2174,7 +2174,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1501": {
+  {
     "study": "soep-base",
     "name": "zh1501",
     "name_cs": "zh1501",
@@ -2213,7 +2213,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1502": {
+  {
     "study": "soep-base",
     "name": "zh1502",
     "name_cs": "zh1502",
@@ -2252,7 +2252,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1503": {
+  {
     "study": "soep-base",
     "name": "zh1503",
     "name_cs": "zh1503",
@@ -2291,7 +2291,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1504": {
+  {
     "study": "soep-base",
     "name": "zh1504",
     "name_cs": "zh1504",
@@ -2330,7 +2330,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1505": {
+  {
     "study": "soep-base",
     "name": "zh1505",
     "name_cs": "zh1505",
@@ -2369,7 +2369,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1506": {
+  {
     "study": "soep-base",
     "name": "zh1506",
     "name_cs": "zh1506",
@@ -2408,7 +2408,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1507": {
+  {
     "study": "soep-base",
     "name": "zh1507",
     "name_cs": "zh1507",
@@ -2447,7 +2447,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1508": {
+  {
     "study": "soep-base",
     "name": "zh1508",
     "name_cs": "zh1508",
@@ -2490,7 +2490,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh16": {
+  {
     "study": "soep-base",
     "name": "zh16",
     "name_cs": "zh16",
@@ -2537,7 +2537,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh17": {
+  {
     "study": "soep-base",
     "name": "zh17",
     "name_cs": "zh17",
@@ -2580,7 +2580,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh18": {
+  {
     "study": "soep-base",
     "name": "zh18",
     "name_cs": "zh18",
@@ -2619,7 +2619,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1901": {
+  {
     "study": "soep-base",
     "name": "zh1901",
     "name_cs": "zh1901",
@@ -2666,7 +2666,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1902": {
+  {
     "study": "soep-base",
     "name": "zh1902",
     "name_cs": "zh1902",
@@ -2705,7 +2705,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh1903": {
+  {
     "study": "soep-base",
     "name": "zh1903",
     "name_cs": "zh1903",
@@ -2744,7 +2744,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh20": {
+  {
     "study": "soep-base",
     "name": "zh20",
     "name_cs": "zh20",
@@ -2791,7 +2791,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh21": {
+  {
     "study": "soep-base",
     "name": "zh21",
     "name_cs": "zh21",
@@ -2830,7 +2830,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh22": {
+  {
     "study": "soep-base",
     "name": "zh22",
     "name_cs": "zh22",
@@ -2877,7 +2877,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh2301": {
+  {
     "study": "soep-base",
     "name": "zh2301",
     "name_cs": "zh2301",
@@ -2907,7 +2907,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh2302": {
+  {
     "study": "soep-base",
     "name": "zh2302",
     "name_cs": "zh2302",
@@ -2950,7 +2950,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh24": {
+  {
     "study": "soep-base",
     "name": "zh24",
     "name_cs": "zh24",
@@ -2993,7 +2993,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh25": {
+  {
     "study": "soep-base",
     "name": "zh25",
     "name_cs": "zh25",
@@ -3023,7 +3023,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh2601": {
+  {
     "study": "soep-base",
     "name": "zh2601",
     "name_cs": "zh2601",
@@ -3062,7 +3062,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh2602": {
+  {
     "study": "soep-base",
     "name": "zh2602",
     "name_cs": "zh2602",
@@ -3109,7 +3109,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh2603": {
+  {
     "study": "soep-base",
     "name": "zh2603",
     "name_cs": "zh2603",
@@ -3139,7 +3139,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh2604": {
+  {
     "study": "soep-base",
     "name": "zh2604",
     "name_cs": "zh2604",
@@ -3178,7 +3178,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh27": {
+  {
     "study": "soep-base",
     "name": "zh27",
     "name_cs": "zh27",
@@ -3233,7 +3233,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh28": {
+  {
     "study": "soep-base",
     "name": "zh28",
     "name_cs": "zh28",
@@ -3292,7 +3292,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh29": {
+  {
     "study": "soep-base",
     "name": "zh29",
     "name_cs": "zh29",
@@ -3331,7 +3331,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh30": {
+  {
     "study": "soep-base",
     "name": "zh30",
     "name_cs": "zh30",
@@ -3361,7 +3361,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh31": {
+  {
     "study": "soep-base",
     "name": "zh31",
     "name_cs": "zh31",
@@ -3391,7 +3391,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh32": {
+  {
     "study": "soep-base",
     "name": "zh32",
     "name_cs": "zh32",
@@ -3421,7 +3421,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh33": {
+  {
     "study": "soep-base",
     "name": "zh33",
     "name_cs": "zh33",
@@ -3451,7 +3451,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh3401": {
+  {
     "study": "soep-base",
     "name": "zh3401",
     "name_cs": "zh3401",
@@ -3490,7 +3490,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh3402": {
+  {
     "study": "soep-base",
     "name": "zh3402",
     "name_cs": "zh3402",
@@ -3520,7 +3520,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh35": {
+  {
     "study": "soep-base",
     "name": "zh35",
     "name_cs": "zh35",
@@ -3575,7 +3575,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh3601": {
+  {
     "study": "soep-base",
     "name": "zh3601",
     "name_cs": "zh3601",
@@ -3605,7 +3605,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh3602": {
+  {
     "study": "soep-base",
     "name": "zh3602",
     "name_cs": "zh3602",
@@ -3644,7 +3644,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh3701": {
+  {
     "study": "soep-base",
     "name": "zh3701",
     "name_cs": "zh3701",
@@ -3683,7 +3683,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh3702": {
+  {
     "study": "soep-base",
     "name": "zh3702",
     "name_cs": "zh3702",
@@ -3713,7 +3713,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh38": {
+  {
     "study": "soep-base",
     "name": "zh38",
     "name_cs": "zh38",
@@ -3752,7 +3752,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh39": {
+  {
     "study": "soep-base",
     "name": "zh39",
     "name_cs": "zh39",
@@ -3782,7 +3782,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4001": {
+  {
     "study": "soep-base",
     "name": "zh4001",
     "name_cs": "zh4001",
@@ -3812,7 +3812,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4002": {
+  {
     "study": "soep-base",
     "name": "zh4002",
     "name_cs": "zh4002",
@@ -3842,7 +3842,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4101": {
+  {
     "study": "soep-base",
     "name": "zh4101",
     "name_cs": "zh4101",
@@ -3885,7 +3885,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4102": {
+  {
     "study": "soep-base",
     "name": "zh4102",
     "name_cs": "zh4102",
@@ -3915,7 +3915,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh42": {
+  {
     "study": "soep-base",
     "name": "zh42",
     "name_cs": "zh42",
@@ -3954,7 +3954,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh43": {
+  {
     "study": "soep-base",
     "name": "zh43",
     "name_cs": "zh43",
@@ -3984,7 +3984,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh44": {
+  {
     "study": "soep-base",
     "name": "zh44",
     "name_cs": "zh44",
@@ -4031,7 +4031,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4501": {
+  {
     "study": "soep-base",
     "name": "zh4501",
     "name_cs": "zh4501",
@@ -4070,7 +4070,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4502": {
+  {
     "study": "soep-base",
     "name": "zh4502",
     "name_cs": "zh4502",
@@ -4109,7 +4109,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4503": {
+  {
     "study": "soep-base",
     "name": "zh4503",
     "name_cs": "zh4503",
@@ -4148,7 +4148,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4504": {
+  {
     "study": "soep-base",
     "name": "zh4504",
     "name_cs": "zh4504",
@@ -4187,7 +4187,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4505": {
+  {
     "study": "soep-base",
     "name": "zh4505",
     "name_cs": "zh4505",
@@ -4226,7 +4226,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4506": {
+  {
     "study": "soep-base",
     "name": "zh4506",
     "name_cs": "zh4506",
@@ -4265,7 +4265,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4507": {
+  {
     "study": "soep-base",
     "name": "zh4507",
     "name_cs": "zh4507",
@@ -4308,7 +4308,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4508": {
+  {
     "study": "soep-base",
     "name": "zh4508",
     "name_cs": "zh4508",
@@ -4351,7 +4351,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4509": {
+  {
     "study": "soep-base",
     "name": "zh4509",
     "name_cs": "zh4509",
@@ -4381,7 +4381,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4510": {
+  {
     "study": "soep-base",
     "name": "zh4510",
     "name_cs": "zh4510",
@@ -4401,7 +4401,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4601": {
+  {
     "study": "soep-base",
     "name": "zh4601",
     "name_cs": "zh4601",
@@ -4431,7 +4431,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4602": {
+  {
     "study": "soep-base",
     "name": "zh4602",
     "name_cs": "zh4602",
@@ -4490,7 +4490,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4701": {
+  {
     "study": "soep-base",
     "name": "zh4701",
     "name_cs": "zh4701",
@@ -4529,7 +4529,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4702": {
+  {
     "study": "soep-base",
     "name": "zh4702",
     "name_cs": "zh4702",
@@ -4568,7 +4568,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4703": {
+  {
     "study": "soep-base",
     "name": "zh4703",
     "name_cs": "zh4703",
@@ -4607,7 +4607,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4704": {
+  {
     "study": "soep-base",
     "name": "zh4704",
     "name_cs": "zh4704",
@@ -4646,7 +4646,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4705": {
+  {
     "study": "soep-base",
     "name": "zh4705",
     "name_cs": "zh4705",
@@ -4678,7 +4678,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh48": {
+  {
     "study": "soep-base",
     "name": "zh48",
     "name_cs": "zh48",
@@ -4708,7 +4708,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4901": {
+  {
     "study": "soep-base",
     "name": "zh4901",
     "name_cs": "zh4901",
@@ -4747,7 +4747,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4902": {
+  {
     "study": "soep-base",
     "name": "zh4902",
     "name_cs": "zh4902",
@@ -4777,7 +4777,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4903": {
+  {
     "study": "soep-base",
     "name": "zh4903",
     "name_cs": "zh4903",
@@ -4807,7 +4807,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4904": {
+  {
     "study": "soep-base",
     "name": "zh4904",
     "name_cs": "zh4904",
@@ -4846,7 +4846,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4905": {
+  {
     "study": "soep-base",
     "name": "zh4905",
     "name_cs": "zh4905",
@@ -4876,7 +4876,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4906": {
+  {
     "study": "soep-base",
     "name": "zh4906",
     "name_cs": "zh4906",
@@ -4906,7 +4906,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4907": {
+  {
     "study": "soep-base",
     "name": "zh4907",
     "name_cs": "zh4907",
@@ -4945,7 +4945,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4908": {
+  {
     "study": "soep-base",
     "name": "zh4908",
     "name_cs": "zh4908",
@@ -4975,7 +4975,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4909": {
+  {
     "study": "soep-base",
     "name": "zh4909",
     "name_cs": "zh4909",
@@ -5005,7 +5005,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4910": {
+  {
     "study": "soep-base",
     "name": "zh4910",
     "name_cs": "zh4910",
@@ -5044,7 +5044,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4911": {
+  {
     "study": "soep-base",
     "name": "zh4911",
     "name_cs": "zh4911",
@@ -5074,7 +5074,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4912": {
+  {
     "study": "soep-base",
     "name": "zh4912",
     "name_cs": "zh4912",
@@ -5104,7 +5104,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4913": {
+  {
     "study": "soep-base",
     "name": "zh4913",
     "name_cs": "zh4913",
@@ -5143,7 +5143,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4914": {
+  {
     "study": "soep-base",
     "name": "zh4914",
     "name_cs": "zh4914",
@@ -5173,7 +5173,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4915": {
+  {
     "study": "soep-base",
     "name": "zh4915",
     "name_cs": "zh4915",
@@ -5203,7 +5203,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh4916": {
+  {
     "study": "soep-base",
     "name": "zh4916",
     "name_cs": "zh4916",
@@ -5242,7 +5242,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5001": {
+  {
     "study": "soep-base",
     "name": "zh5001",
     "name_cs": "zh5001",
@@ -5281,7 +5281,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5002": {
+  {
     "study": "soep-base",
     "name": "zh5002",
     "name_cs": "zh5002",
@@ -5311,7 +5311,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5003": {
+  {
     "study": "soep-base",
     "name": "zh5003",
     "name_cs": "zh5003",
@@ -5341,7 +5341,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5004": {
+  {
     "study": "soep-base",
     "name": "zh5004",
     "name_cs": "zh5004",
@@ -5380,7 +5380,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5005": {
+  {
     "study": "soep-base",
     "name": "zh5005",
     "name_cs": "zh5005",
@@ -5410,7 +5410,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5006": {
+  {
     "study": "soep-base",
     "name": "zh5006",
     "name_cs": "zh5006",
@@ -5440,7 +5440,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5007": {
+  {
     "study": "soep-base",
     "name": "zh5007",
     "name_cs": "zh5007",
@@ -5472,7 +5472,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5008": {
+  {
     "study": "soep-base",
     "name": "zh5008",
     "name_cs": "zh5008",
@@ -5492,7 +5492,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5009": {
+  {
     "study": "soep-base",
     "name": "zh5009",
     "name_cs": "zh5009",
@@ -5512,7 +5512,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5010": {
+  {
     "study": "soep-base",
     "name": "zh5010",
     "name_cs": "zh5010",
@@ -5544,7 +5544,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5011": {
+  {
     "study": "soep-base",
     "name": "zh5011",
     "name_cs": "zh5011",
@@ -5564,7 +5564,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5101": {
+  {
     "study": "soep-base",
     "name": "zh5101",
     "name_cs": "zh5101",
@@ -5603,7 +5603,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5102": {
+  {
     "study": "soep-base",
     "name": "zh5102",
     "name_cs": "zh5102",
@@ -5633,7 +5633,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5103": {
+  {
     "study": "soep-base",
     "name": "zh5103",
     "name_cs": "zh5103",
@@ -5663,7 +5663,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5104": {
+  {
     "study": "soep-base",
     "name": "zh5104",
     "name_cs": "zh5104",
@@ -5702,7 +5702,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5105": {
+  {
     "study": "soep-base",
     "name": "zh5105",
     "name_cs": "zh5105",
@@ -5732,7 +5732,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5106": {
+  {
     "study": "soep-base",
     "name": "zh5106",
     "name_cs": "zh5106",
@@ -5771,7 +5771,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5107": {
+  {
     "study": "soep-base",
     "name": "zh5107",
     "name_cs": "zh5107",
@@ -5801,7 +5801,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5108": {
+  {
     "study": "soep-base",
     "name": "zh5108",
     "name_cs": "zh5108",
@@ -5840,7 +5840,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5109": {
+  {
     "study": "soep-base",
     "name": "zh5109",
     "name_cs": "zh5109",
@@ -5870,7 +5870,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5110": {
+  {
     "study": "soep-base",
     "name": "zh5110",
     "name_cs": "zh5110",
@@ -5909,7 +5909,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5111": {
+  {
     "study": "soep-base",
     "name": "zh5111",
     "name_cs": "zh5111",
@@ -5939,7 +5939,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5112": {
+  {
     "study": "soep-base",
     "name": "zh5112",
     "name_cs": "zh5112",
@@ -5978,7 +5978,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5113": {
+  {
     "study": "soep-base",
     "name": "zh5113",
     "name_cs": "zh5113",
@@ -6008,7 +6008,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5114": {
+  {
     "study": "soep-base",
     "name": "zh5114",
     "name_cs": "zh5114",
@@ -6047,7 +6047,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5115": {
+  {
     "study": "soep-base",
     "name": "zh5115",
     "name_cs": "zh5115",
@@ -6077,7 +6077,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5116": {
+  {
     "study": "soep-base",
     "name": "zh5116",
     "name_cs": "zh5116",
@@ -6116,7 +6116,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5201": {
+  {
     "study": "soep-base",
     "name": "zh5201",
     "name_cs": "zh5201",
@@ -6146,7 +6146,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5202": {
+  {
     "study": "soep-base",
     "name": "zh5202",
     "name_cs": "zh5202",
@@ -6237,7 +6237,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5301": {
+  {
     "study": "soep-base",
     "name": "zh5301",
     "name_cs": "zh5301",
@@ -6276,7 +6276,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5302": {
+  {
     "study": "soep-base",
     "name": "zh5302",
     "name_cs": "zh5302",
@@ -6306,7 +6306,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh54": {
+  {
     "study": "soep-base",
     "name": "zh54",
     "name_cs": "zh54",
@@ -6361,7 +6361,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5501": {
+  {
     "study": "soep-base",
     "name": "zh5501",
     "name_cs": "zh5501",
@@ -6408,7 +6408,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5502": {
+  {
     "study": "soep-base",
     "name": "zh5502",
     "name_cs": "zh5502",
@@ -6455,7 +6455,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5503": {
+  {
     "study": "soep-base",
     "name": "zh5503",
     "name_cs": "zh5503",
@@ -6502,7 +6502,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5504": {
+  {
     "study": "soep-base",
     "name": "zh5504",
     "name_cs": "zh5504",
@@ -6549,7 +6549,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5505": {
+  {
     "study": "soep-base",
     "name": "zh5505",
     "name_cs": "zh5505",
@@ -6596,7 +6596,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5506": {
+  {
     "study": "soep-base",
     "name": "zh5506",
     "name_cs": "zh5506",
@@ -6643,7 +6643,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5507": {
+  {
     "study": "soep-base",
     "name": "zh5507",
     "name_cs": "zh5507",
@@ -6690,7 +6690,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5508": {
+  {
     "study": "soep-base",
     "name": "zh5508",
     "name_cs": "zh5508",
@@ -6737,7 +6737,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5509": {
+  {
     "study": "soep-base",
     "name": "zh5509",
     "name_cs": "zh5509",
@@ -6784,7 +6784,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5510": {
+  {
     "study": "soep-base",
     "name": "zh5510",
     "name_cs": "zh5510",
@@ -6831,7 +6831,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5511": {
+  {
     "study": "soep-base",
     "name": "zh5511",
     "name_cs": "zh5511",
@@ -6878,7 +6878,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5512": {
+  {
     "study": "soep-base",
     "name": "zh5512",
     "name_cs": "zh5512",
@@ -6925,7 +6925,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5601": {
+  {
     "study": "soep-base",
     "name": "zh5601",
     "name_cs": "zh5601",
@@ -6976,7 +6976,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5602": {
+  {
     "study": "soep-base",
     "name": "zh5602",
     "name_cs": "zh5602",
@@ -7027,7 +7027,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh5603": {
+  {
     "study": "soep-base",
     "name": "zh5603",
     "name_cs": "zh5603",
@@ -7078,7 +7078,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh57": {
+  {
     "study": "soep-base",
     "name": "zh57",
     "name_cs": "zh57",
@@ -7125,7 +7125,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh58": {
+  {
     "study": "soep-base",
     "name": "zh58",
     "name_cs": "zh58",
@@ -7172,7 +7172,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh59": {
+  {
     "study": "soep-base",
     "name": "zh59",
     "name_cs": "zh59",
@@ -7219,7 +7219,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh60": {
+  {
     "study": "soep-base",
     "name": "zh60",
     "name_cs": "zh60",
@@ -7270,7 +7270,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6101": {
+  {
     "study": "soep-base",
     "name": "zh6101",
     "name_cs": "zh6101",
@@ -7309,7 +7309,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6102": {
+  {
     "study": "soep-base",
     "name": "zh6102",
     "name_cs": "zh6102",
@@ -7360,7 +7360,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh62": {
+  {
     "study": "soep-base",
     "name": "zh62",
     "name_cs": "zh62",
@@ -7395,7 +7395,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6301": {
+  {
     "study": "soep-base",
     "name": "zh6301",
     "name_cs": "zh6301",
@@ -7425,7 +7425,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6302": {
+  {
     "study": "soep-base",
     "name": "zh6302",
     "name_cs": "zh6302",
@@ -7464,7 +7464,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6303": {
+  {
     "study": "soep-base",
     "name": "zh6303",
     "name_cs": "zh6303",
@@ -7494,7 +7494,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6304": {
+  {
     "study": "soep-base",
     "name": "zh6304",
     "name_cs": "zh6304",
@@ -7533,7 +7533,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6305": {
+  {
     "study": "soep-base",
     "name": "zh6305",
     "name_cs": "zh6305",
@@ -7572,7 +7572,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6306": {
+  {
     "study": "soep-base",
     "name": "zh6306",
     "name_cs": "zh6306",
@@ -7592,7 +7592,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6401": {
+  {
     "study": "soep-base",
     "name": "zh6401",
     "name_cs": "zh6401",
@@ -7631,7 +7631,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6402": {
+  {
     "study": "soep-base",
     "name": "zh6402",
     "name_cs": "zh6402",
@@ -7674,7 +7674,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6501": {
+  {
     "study": "soep-base",
     "name": "zh6501",
     "name_cs": "zh6501",
@@ -7713,7 +7713,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6502": {
+  {
     "study": "soep-base",
     "name": "zh6502",
     "name_cs": "zh6502",
@@ -7743,7 +7743,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6503": {
+  {
     "study": "soep-base",
     "name": "zh6503",
     "name_cs": "zh6503",
@@ -7775,7 +7775,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6504": {
+  {
     "study": "soep-base",
     "name": "zh6504",
     "name_cs": "zh6504",
@@ -7814,7 +7814,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6505": {
+  {
     "study": "soep-base",
     "name": "zh6505",
     "name_cs": "zh6505",
@@ -7853,7 +7853,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6506": {
+  {
     "study": "soep-base",
     "name": "zh6506",
     "name_cs": "zh6506",
@@ -7892,7 +7892,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6507": {
+  {
     "study": "soep-base",
     "name": "zh6507",
     "name_cs": "zh6507",
@@ -7931,7 +7931,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6508": {
+  {
     "study": "soep-base",
     "name": "zh6508",
     "name_cs": "zh6508",
@@ -7951,7 +7951,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6509": {
+  {
     "study": "soep-base",
     "name": "zh6509",
     "name_cs": "zh6509",
@@ -7981,7 +7981,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6601": {
+  {
     "study": "soep-base",
     "name": "zh6601",
     "name_cs": "zh6601",
@@ -8020,7 +8020,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh6602": {
+  {
     "study": "soep-base",
     "name": "zh6602",
     "name_cs": "zh6602",
@@ -8050,7 +8050,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zh67": {
+  {
     "study": "soep-base",
     "name": "zh67",
     "name_cs": "zh67",
@@ -8093,7 +8093,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhivform": {
+  {
     "study": "soep-base",
     "name": "zhivform",
     "name_cs": "zhivform",
@@ -8148,7 +8148,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhhdaer1": {
+  {
     "study": "soep-base",
     "name": "zhhdaer1",
     "name_cs": "zhhdaer1",
@@ -8178,7 +8178,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhhdaer2": {
+  {
     "study": "soep-base",
     "name": "zhhdaer2",
     "name_cs": "zhhdaer2",
@@ -8208,7 +8208,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhhtagin": {
+  {
     "study": "soep-base",
     "name": "zhhtagin",
     "name_cs": "zhhtagin",
@@ -8237,7 +8237,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhhmonin": {
+  {
     "study": "soep-base",
     "name": "zhhmonin",
     "name_cs": "zhhmonin",
@@ -8312,7 +8312,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhintnr": {
+  {
     "study": "soep-base",
     "name": "zhintnr",
     "name_cs": "zhintnr",
@@ -8342,7 +8342,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhpmax": {
+  {
     "study": "soep-base",
     "name": "zhpmax",
     "name_cs": "zhpmax",
@@ -8371,7 +8371,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "hhnr": {
+  {
     "study": "soep-base",
     "name": "hhnr",
     "name_cs": "hhnr",
@@ -8400,7 +8400,7 @@
     "boost": "1",
     "period": "2009"
   },
-  "zhhdaer": {
+  {
     "study": "soep-base",
     "name": "zhhdaer",
     "name_cs": "zhhdaer",
@@ -8423,4 +8423,4 @@
     "boost": "1",
     "period": "2009"
   }
-}
+]
