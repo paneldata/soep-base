@@ -1,0 +1,29 @@
+dist: bionic
+language: python
+python: "3.7"
+git:
+  depth: 1 # clone only latest revision of repository
+cache:
+  - pip
+install:
+  - pip install git+https://github.com/paneldata/data-specification
+jobs:
+  include:
+    - stage: metadata
+      before_script: cd metadata
+      script:
+        # Infer a "datapackage.json" from the metadata/ directory
+        - ddionrails-datapackage infer .
+        # Validate the inferred "datapackage.json"
+        - ddionrails-datapackage validate datapackage.json
+      # TODO: Validate study.md as well
+    - stage: ddionrails
+      # TODO: run preprocessing pipeline here!
+      before_script: cd ddionrails
+      script:
+        # Infer a "datapackage.json" from the ddionrails/ directory
+        - ddionrails-datapackage infer . --strict
+        - ddionrails-datapackage validate datapackage.json --check-relations
+      # TODO: Validate created files as well (using jsonschema ?):
+      # - datasets/*.json
+      # - instruments/*.json
