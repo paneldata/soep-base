@@ -5,6 +5,12 @@ git:
   depth: 1 # clone only latest revision of repository
 cache:
   - pip
+before_install:
+  # https://github.com/travis-ci/travis.rb#table-of-contents
+  - gem install travis
+  - echo "y" | travis version
+  - travis lint
+  - git status
 install:
   - pip install git+https://github.com/ddionrails/ddi.py.git
   - pip install git+https://github.com/paneldata/data-specification
