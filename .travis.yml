@@ -6,6 +6,7 @@ git:
 cache:
   - pip
 install:
+  - pip install git+https://github.com/ddionrails/ddi.py.git
   - pip install git+https://github.com/paneldata/data-specification
 jobs:
   include:
