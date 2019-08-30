@@ -23,7 +23,7 @@ jobs:
         - ddionrails-datapackage infer .
         # Validate the inferred "datapackage.json"
 #        - ddionrails-datapackage validate datapackage.json
-        - goodtables validate datapackage.json
+        - goodtables validate datapackage.json --order-fields --error-limit=-1 --row-limit=-1
         # TODO: Validate study.md as well
         # ddionrails-datapackage validate study.md
     - stage: ddionrails
@@ -33,7 +33,7 @@ jobs:
         # Infer a "datapackage.json" from the ddionrails/ directory
         - ddionrails-datapackage infer . --strict
 #        - ddionrails-datapackage validate datapackage.json --check-relations
-        - goodtables validate datapackage.json
+        - goodtables validate datapackage.json --order-fields --error-limit=-1 --row-limit=-1
         # TODO: Validate created files as well (using jsonschema ?):
         # jsonschema -i datasets/*.json --schema TODO
         # jsonschema -i instruments/*.json --schema TODO
