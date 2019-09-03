@@ -26,9 +26,9 @@ jobs:
         # Infer a "datapackage.json" from the ddionrails/ directory
         - ddionrails-datapackage infer . --strict
         - goodtables validate datapackage.json --order-fields --error-limit=-1 --row-limit=-1
-        # TODO: Validate created files as well (using jsonschema ?):
-        # jsonschema -i datasets/*.json --schema TODO
-        # jsonschema -i instruments/*.json --schema TODO
+        # Validate created files as using jsonschema
+        - ddionrails-datapackage validate_datasets datasets
+        # TODO ddionrails-datapackage validate_instruments instruments
       after_success:
         # TODO push changes back to GitHub?
         - git config --global user.email "travis@travis-ci.org"
