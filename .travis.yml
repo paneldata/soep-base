@@ -5,15 +5,9 @@ git:
   depth: 1 # clone only latest revision of repository
 cache:
   - pip
-before_install:
-  # https://github.com/travis-ci/travis.rb#table-of-contents
-  - gem install travis
-  - echo "y" | travis version
-  - travis lint
-  - git status
 install:
   - pip install git+https://github.com/ddionrails/ddi.py.git
-  - pip install git+https://github.com/paneldata/data-specification
+  - pip install git+https://github.com/paneldata/data-specification.git
 jobs:
   include:
     - stage: metadata
@@ -22,7 +16,6 @@ jobs:
         # Infer a "datapackage.json" from the metadata/ directory
         - ddionrails-datapackage infer .
         # Validate the inferred "datapackage.json"
-#        - ddionrails-datapackage validate datapackage.json
         - goodtables validate datapackage.json --order-fields --error-limit=-1 --row-limit=-1
         # TODO: Validate study.md as well
         # ddionrails-datapackage validate study.md
@@ -32,7 +25,6 @@ jobs:
       script:
         # Infer a "datapackage.json" from the ddionrails/ directory
         - ddionrails-datapackage infer . --strict
-#        - ddionrails-datapackage validate datapackage.json --check-relations
         - goodtables validate datapackage.json --order-fields --error-limit=-1 --row-limit=-1
         # TODO: Validate created files as well (using jsonschema ?):
         # jsonschema -i datasets/*.json --schema TODO
